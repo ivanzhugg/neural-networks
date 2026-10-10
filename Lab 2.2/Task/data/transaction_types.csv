@@ -1,0 +1,7 @@
+transaction_type_id,transaction_type,direction
+100,Card purchase,expense
+200,Cash withdrawal,expense
+300,Transfer out,expense
+400,Transfer in,income
+500,Salary,income
+600,Refund,income

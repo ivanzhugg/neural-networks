@@ -1,0 +1,5001 @@
+client_id,age,city,segment,registration_date
+100001,23,Moscow,regular,2024-06-21
+100002,62,Yekaterinburg,regular,2023-06-02
+100003,55,Tomsk,new,2021-06-28
+100004,43,Samara,regular,2019-06-26
+100005,42,Saint Petersburg,regular,2019-12-01
+100006,66,Moscow,regular,2020-06-16
+100007,22,Tomsk,premium,2021-06-09
+100008,57,Tomsk,regular,2024-04-25
+100009,29,Novosibirsk,regular,2019-09-20
+100010,23,Yekaterinburg,regular,2022-06-18
+100011,48,Kazan,regular,2021-01-31
+100012,73,Kazan,regular,2019-04-13
+100013,59,Moscow,new,2022-09-19
+100014,61,Moscow,regular,2023-03-24
+100015,58,Moscow,regular,2024-10-04
+100016,62,Samara,regular,2022-01-15
+100017,47,Moscow,premium,2020-12-14
+100018,25,Moscow,regular,2024-02-17
+100019,65,Novosibirsk,regular,2020-06-26
+100020,43,Moscow,new,2023-02-04
+100021,46,Moscow,new,2024-08-29
+100022,39,Novosibirsk,regular,2019-01-10
+100023,28,Saint Petersburg,regular,2024-07-20
+100024,70,Yekaterinburg,new,2020-03-26
+100025,62,Tomsk,new,2021-11-21
+100026,54,Moscow,new,2020-07-19
+100027,40,Tomsk,regular,2019-11-13
+100028,64,Samara,regular,2023-03-20
+100029,49,Samara,regular,2021-11-22
+100030,43,Yekaterinburg,new,2022-01-21
+100031,43,Yekaterinburg,new,2021-11-26
+100032,30,Yekaterinburg,new,2023-06-27
+100033,23,Yekaterinburg,regular,2024-10-18
+100034,49,Moscow,new,2022-01-29
+100035,68,Tomsk,regular,2019-12-08
+100036,21,Novosibirsk,premium,2020-12-18
+100037,66,Perm,regular,2021-12-23
+100038,65,Saint Petersburg,regular,2019-08-16
+100039,33,Moscow,new,2020-05-17
+100040,54,Novosibirsk,regular,2020-03-20
+100041,27,Novosibirsk,premium,2024-11-02
+100042,61,Kazan,regular,2021-05-28
+100043,57,Saint Petersburg,regular,2024-04-10
+100044,38,Saint Petersburg,premium,2022-04-23
+100045,21,Novosibirsk,regular,2022-01-14
+100046,73,Saint Petersburg,regular,2024-08-19
+100047,43,Tomsk,regular,2023-02-25
+100048,68,Moscow,new,2020-06-09
+100049,56,Saint Petersburg,new,2020-09-09
+100050,62,Saint Petersburg,new,2022-12-31
+100051,61,Novosibirsk,premium,2019-01-05
+100052,29,Kazan,regular,2019-12-01
+100053,38,Yekaterinburg,regular,2019-06-12
+100054,44,Tomsk,new,2023-04-14
+100055,46,Saint Petersburg,regular,2021-08-25
+100056,20,Yekaterinburg,premium,2019-01-25
+100057,49,Moscow,regular,2023-06-14
+100058,26,Saint Petersburg,regular,2022-12-08
+100059,60,Kazan,premium,2023-04-25
+100060,56,Moscow,premium,2019-12-24
+100061,70,Yekaterinburg,premium,2024-04-01
+100062,60,Yekaterinburg,regular,2020-01-31
+100063,38,Perm,new,2022-06-05
+100064,73,Novosibirsk,regular,2022-05-10
+100065,41,Novosibirsk,regular,2020-04-24
+100066,36,Kazan,premium,2021-04-02
+100067,69,Moscow,new,2019-04-25
+100068,39,Moscow,regular,2021-10-30
+100069,22,Yekaterinburg,premium,2023-01-24
+100070,44,Tomsk,premium,2020-11-08
+100071,63,Moscow,regular,2022-03-24
+100072,28,Novosibirsk,premium,2024-09-20
+100073,44,Perm,new,2020-05-29
+100074,25,Samara,regular,2020-09-29
+100075,57,Novosibirsk,new,2019-09-21
+100076,45,Yekaterinburg,premium,2022-04-03
+100077,36,Yekaterinburg,premium,2020-03-22
+100078,30,Samara,new,2024-02-16
+100079,50,Moscow,new,2020-09-29
+100080,56,Tomsk,regular,2022-12-26
+100081,71,Moscow,regular,2020-02-19
+100082,42,Samara,regular,2020-12-08
+100083,27,Moscow,new,2020-01-11
+100084,65,Moscow,regular,2022-04-25
+100085,53,Moscow,regular,2019-03-02
+100086,57,Kazan,regular,2019-07-01
+100087,23,Saint Petersburg,new,2022-01-04
+100088,35,Moscow,premium,2022-04-11
+100089,61,Kazan,regular,2020-12-23
+100090,65,Kazan,regular,2021-08-03
+100091,42,Perm,regular,2021-07-01
+100092,63,Samara,premium,2023-07-20
+100093,65,Yekaterinburg,regular,2021-09-05
+100094,40,Moscow,regular,2024-02-02
+100095,69,Saint Petersburg,regular,2020-04-20
+100096,34,Tomsk,premium,2020-03-13
+100097,31,Moscow,regular,2021-06-03
+100098,56,Kazan,regular,2019-06-28
+100099,54,Tomsk,regular,2023-01-10
+100100,25,Tomsk,regular,2021-05-06
+100101,65,Kazan,premium,2021-03-14
+100102,29,Yekaterinburg,premium,2022-03-16
+100103,63,Kazan,regular,2019-06-29
+100104,18,Perm,regular,2021-04-05
+100105,63,Moscow,premium,2024-11-01
+100106,62,Moscow,premium,2022-10-09
+100107,62,Yekaterinburg,regular,2022-06-12
+100108,55,Moscow,new,2022-01-13
+100109,44,Yekaterinburg,regular,2021-10-24
+100110,58,Saint Petersburg,premium,2024-08-15
+100111,33,Samara,regular,2024-08-01
+100112,62,Samara,regular,2021-06-16
+100113,49,Kazan,regular,2024-07-20
+100114,44,Perm,regular,2019-06-30
+100115,46,Saint Petersburg,regular,2020-12-01
+100116,50,Kazan,regular,2020-10-23
+100117,20,Moscow,regular,2023-03-09
+100118,25,Samara,regular,2022-08-21
+100119,31,Samara,regular,2021-11-01
+100120,24,Samara,regular,2020-07-15
+100121,43,Samara,regular,2022-01-16
+100122,56,Tomsk,regular,2020-08-12
+100123,55,Moscow,new,2021-12-26
+100124,44,Tomsk,new,2021-01-14
+100125,66,Novosibirsk,regular,2024-05-01
+100126,50,Kazan,new,2023-06-24
+100127,22,Novosibirsk,premium,2020-01-20
+100128,61,Saint Petersburg,premium,2024-08-22
+100129,50,Saint Petersburg,new,2022-12-15
+100130,54,Saint Petersburg,regular,2021-02-07
+100131,50,Moscow,regular,2022-03-08
+100132,49,Kazan,regular,2020-03-04
+100133,23,Samara,premium,2019-04-13
+100134,49,Yekaterinburg,regular,2021-07-11
+100135,63,Novosibirsk,new,2023-09-11
+100136,35,Kazan,new,2021-02-10
+100137,52,Kazan,regular,2021-04-22
+100138,19,Moscow,premium,2024-12-10
+100139,37,Samara,regular,2024-12-04
+100140,42,Moscow,regular,2021-10-13
+100141,74,Yekaterinburg,new,2019-04-07
+100142,30,Perm,premium,2023-01-28
+100143,33,Novosibirsk,regular,2023-04-16
+100144,41,Samara,regular,2024-06-26
+100145,74,Saint Petersburg,regular,2024-09-09
+100146,66,Samara,regular,2022-10-10
+100147,19,Perm,new,2019-08-23
+100148,31,Perm,regular,2020-06-30
+100149,64,Yekaterinburg,regular,2023-04-20
+100150,21,Samara,regular,2022-08-24
+100151,66,Tomsk,regular,2021-08-13
+100152,34,Kazan,new,2021-05-30
+100153,70,Samara,regular,2023-04-05
+100154,34,Perm,new,2021-07-14
+100155,42,Kazan,new,2019-12-06
+100156,55,Tomsk,regular,2024-11-16
+100157,25,Kazan,regular,2021-02-04
+100158,49,Novosibirsk,regular,2020-09-02
+100159,46,Moscow,new,2019-06-01
+100160,62,Moscow,regular,2021-10-24
+100161,74,Samara,regular,2024-12-01
+100162,55,Kazan,premium,2019-12-17
+100163,41,Kazan,regular,2020-06-20
+100164,41,Saint Petersburg,premium,2020-01-27
+100165,41,Kazan,new,2019-07-26
+100166,64,Perm,regular,2022-08-15
+100167,36,Samara,regular,2020-10-15
+100168,27,Moscow,regular,2023-07-05
+100169,37,Novosibirsk,regular,2021-05-28
+100170,19,Kazan,regular,2022-10-27
+100171,24,Yekaterinburg,premium,2019-07-15
+100172,23,Kazan,new,2020-12-22
+100173,61,Kazan,premium,2021-06-26
+100174,59,Kazan,regular,2019-05-11
+100175,57,Novosibirsk,regular,2021-07-08
+100176,44,Novosibirsk,regular,2021-10-27
+100177,58,Kazan,regular,2021-06-04
+100178,27,Samara,premium,2022-01-10
+100179,69,Perm,premium,2023-10-14
+100180,46,Saint Petersburg,premium,2023-08-17
+100181,71,Perm,premium,2019-01-31
+100182,26,Samara,regular,2022-11-04
+100183,46,Moscow,regular,2024-06-04
+100184,57,Novosibirsk,premium,2024-03-24
+100185,46,Saint Petersburg,new,2020-12-09
+100186,43,Perm,regular,2023-09-13
+100187,27,Moscow,regular,2023-10-22
+100188,39,Yekaterinburg,regular,2021-03-13
+100189,31,Saint Petersburg,regular,2024-03-20
+100190,35,Novosibirsk,regular,2022-10-17
+100191,56,Tomsk,new,2023-07-05
+100192,53,Kazan,regular,2023-06-27
+100193,52,Samara,regular,2023-09-09
+100194,38,Tomsk,new,2024-09-28
+100195,72,Samara,new,2024-02-23
+100196,22,Moscow,regular,2021-07-14
+100197,37,Samara,regular,2022-05-17
+100198,24,Moscow,regular,2022-11-22
+100199,37,Kazan,new,2024-02-21
+100200,72,Samara,regular,2021-05-10
+100201,38,Yekaterinburg,new,2020-11-17
+100202,69,Novosibirsk,regular,2023-06-06
+100203,46,Kazan,regular,2024-09-22
+100204,57,Samara,regular,2024-06-22
+100205,44,Yekaterinburg,regular,2019-11-21
+100206,33,Kazan,regular,2024-07-07
+100207,61,Samara,new,2023-09-26
+100208,73,Moscow,regular,2019-12-11
+100209,33,Moscow,regular,2019-01-15
+100210,62,Yekaterinburg,regular,2020-03-23
+100211,32,Tomsk,regular,2024-07-30
+100212,58,Saint Petersburg,regular,2023-07-13
+100213,62,Saint Petersburg,regular,2022-06-15
+100214,43,Moscow,new,2022-10-15
+100215,60,Samara,regular,2021-06-25
+100216,33,Moscow,new,2024-06-06
+100217,22,Novosibirsk,regular,2019-12-09
+100218,23,Tomsk,regular,2020-11-18
+100219,43,Moscow,regular,2020-03-15
+100220,69,Novosibirsk,regular,2024-02-02
+100221,25,Novosibirsk,new,2022-03-29
+100222,43,Perm,premium,2023-02-07
+100223,58,Saint Petersburg,new,2024-07-08
+100224,29,Kazan,regular,2020-03-04
+100225,59,Moscow,premium,2024-10-15
+100226,35,Perm,regular,2019-10-05
+100227,64,Perm,new,2023-07-12
+100228,51,Moscow,regular,2023-03-21
+100229,49,Kazan,regular,2023-12-15
+100230,28,Samara,new,2019-12-14
+100231,44,Moscow,regular,2024-10-05
+100232,66,Saint Petersburg,regular,2023-10-08
+100233,19,Novosibirsk,regular,2019-08-31
+100234,61,Saint Petersburg,new,2022-05-06
+100235,46,Saint Petersburg,regular,2023-11-27
+100236,59,Kazan,regular,2021-11-11
+100237,55,Moscow,regular,2021-04-14
+100238,42,Novosibirsk,regular,2020-08-26
+100239,35,Yekaterinburg,new,2022-02-04
+100240,53,Novosibirsk,regular,2024-11-26
+100241,25,Moscow,regular,2022-08-24
+100242,51,Samara,regular,2023-05-02
+100243,23,Moscow,regular,2023-09-05
+100244,55,Perm,premium,2023-09-02
+100245,53,Saint Petersburg,regular,2021-05-27
+100246,22,Perm,regular,2023-08-13
+100247,61,Moscow,regular,2020-12-20
+100248,41,Moscow,regular,2022-07-04
+100249,62,Kazan,regular,2020-10-24
+100250,20,Moscow,regular,2024-08-21
+100251,28,Moscow,premium,2023-05-20
+100252,46,Perm,regular,2022-07-03
+100253,28,Samara,premium,2021-09-16
+100254,36,Moscow,regular,2022-02-13
+100255,55,Samara,regular,2023-09-06
+100256,26,Perm,premium,2020-08-22
+100257,56,Samara,new,2023-12-21
+100258,23,Yekaterinburg,new,2020-09-09
+100259,27,Yekaterinburg,regular,2019-11-07
+100260,51,Novosibirsk,regular,2023-06-04
+100261,63,Yekaterinburg,regular,2023-04-02
+100262,27,Tomsk,premium,2021-01-03
+100263,35,Moscow,regular,2022-11-23
+100264,70,Saint Petersburg,regular,2023-05-17
+100265,74,Moscow,regular,2023-09-23
+100266,51,Tomsk,new,2024-09-19
+100267,43,Kazan,regular,2024-02-16
+100268,37,Yekaterinburg,regular,2021-08-20
+100269,52,Samara,premium,2020-05-19
+100270,51,Tomsk,regular,2019-08-02
+100271,34,Moscow,new,2022-06-11
+100272,19,Perm,new,2023-01-01
+100273,26,Samara,new,2023-02-23
+100274,72,Moscow,premium,2019-01-21
+100275,41,Perm,regular,2023-03-18
+100276,45,Saint Petersburg,regular,2023-09-22
+100277,44,Yekaterinburg,new,2023-05-02
+100278,62,Novosibirsk,premium,2022-02-26
+100279,21,Saint Petersburg,new,2019-02-03
+100280,22,Moscow,regular,2021-12-09
+100281,33,Moscow,regular,2022-11-14
+100282,45,Moscow,regular,2022-06-02
+100283,56,Yekaterinburg,regular,2022-06-13
+100284,45,Saint Petersburg,new,2022-02-05
+100285,43,Moscow,regular,2022-04-25
+100286,71,Yekaterinburg,premium,2020-12-10
+100287,27,Yekaterinburg,regular,2022-08-19
+100288,50,Novosibirsk,regular,2020-09-09
+100289,48,Tomsk,regular,2021-12-13
+100290,44,Kazan,new,2021-06-29
+100291,64,Samara,regular,2023-04-15
+100292,33,Moscow,regular,2024-05-15
+100293,72,Perm,new,2022-10-20
+100294,36,Tomsk,regular,2019-10-24
+100295,49,Samara,regular,2023-01-03
+100296,47,Novosibirsk,regular,2020-12-12
+100297,66,Yekaterinburg,new,2019-04-19
+100298,43,Saint Petersburg,premium,2020-02-26
+100299,34,Yekaterinburg,regular,2024-12-30
+100300,19,Perm,regular,2021-07-25
+100301,38,Tomsk,new,2020-03-18
+100302,65,Kazan,regular,2019-10-20
+100303,18,Moscow,regular,2022-11-26
+100304,69,Novosibirsk,regular,2023-07-26
+100305,48,Moscow,new,2021-02-13
+100306,25,Saint Petersburg,regular,2019-08-15
+100307,35,Saint Petersburg,regular,2021-02-16
+100308,49,Perm,regular,2022-12-29
+100309,35,Moscow,premium,2019-09-07
+100310,24,Moscow,new,2020-08-09
+100311,55,Moscow,new,2019-01-05
+100312,56,Samara,regular,2021-11-01
+100313,24,Yekaterinburg,regular,2020-01-09
+100314,34,Moscow,regular,2020-03-14
+100315,31,Moscow,regular,2019-09-05
+100316,55,Novosibirsk,regular,2023-05-20
+100317,59,Saint Petersburg,regular,2021-12-08
+100318,59,Novosibirsk,regular,2024-09-09
+100319,71,Kazan,premium,2021-05-15
+100320,61,Tomsk,regular,2020-05-01
+100321,36,Saint Petersburg,regular,2020-03-23
+100322,24,Yekaterinburg,regular,2024-09-20
+100323,53,Moscow,regular,2022-07-16
+100324,70,Tomsk,regular,2020-12-14
+100325,73,Tomsk,premium,2022-12-04
+100326,31,Perm,new,2022-05-07
+100327,31,Kazan,regular,2019-09-09
+100328,20,Moscow,new,2023-03-18
+100329,26,Samara,regular,2019-09-19
+100330,49,Perm,new,2020-03-12
+100331,49,Moscow,premium,2023-04-13
+100332,39,Kazan,regular,2021-09-01
+100333,35,Kazan,new,2020-05-01
+100334,65,Samara,regular,2019-05-29
+100335,44,Yekaterinburg,regular,2022-07-25
+100336,64,Yekaterinburg,regular,2023-03-08
+100337,72,Yekaterinburg,regular,2020-03-21
+100338,36,Saint Petersburg,regular,2021-07-02
+100339,29,Saint Petersburg,regular,2021-01-24
+100340,72,Moscow,regular,2024-05-08
+100341,54,Perm,premium,2023-09-30
+100342,34,Kazan,regular,2020-08-23
+100343,53,Kazan,new,2022-01-30
+100344,47,Saint Petersburg,regular,2024-07-17
+100345,69,Moscow,new,2021-01-27
+100346,32,Novosibirsk,regular,2019-11-06
+100347,74,Moscow,regular,2020-10-15
+100348,71,Moscow,regular,2022-08-23
+100349,28,Perm,new,2024-12-15
+100350,27,Saint Petersburg,regular,2020-11-05
+100351,48,Kazan,regular,2019-05-09
+100352,20,Kazan,regular,2020-02-03
+100353,35,Samara,regular,2021-06-23
+100354,42,Saint Petersburg,regular,2019-07-25
+100355,73,Perm,regular,2019-03-18
+100356,74,Tomsk,regular,2022-12-08
+100357,26,Yekaterinburg,new,2023-12-13
+100358,68,Kazan,new,2020-05-26
+100359,23,Perm,regular,2022-02-19
+100360,60,Kazan,regular,2022-06-09
+100361,66,Kazan,regular,2023-01-03
+100362,68,Novosibirsk,new,2024-11-16
+100363,30,Saint Petersburg,new,2024-04-24
+100364,68,Moscow,regular,2020-11-23
+100365,24,Kazan,regular,2024-11-08
+100366,47,Moscow,regular,2019-03-18
+100367,44,Kazan,new,2024-10-09
+100368,36,Novosibirsk,new,2019-11-10
+100369,19,Tomsk,regular,2019-09-07
+100370,62,Moscow,regular,2019-09-19
+100371,37,Yekaterinburg,new,2019-09-25
+100372,55,Kazan,new,2021-10-12
+100373,41,Moscow,regular,2022-11-04
+100374,39,Saint Petersburg,new,2023-06-21
+100375,68,Moscow,regular,2019-02-04
+100376,23,Moscow,new,2020-10-11
+100377,59,Saint Petersburg,regular,2019-10-18
+100378,60,Kazan,regular,2019-11-16
+100379,39,Novosibirsk,premium,2023-06-25
+100380,32,Moscow,premium,2022-11-05
+100381,18,Moscow,regular,2020-04-05
+100382,71,Moscow,new,2020-10-22
+100383,72,Novosibirsk,regular,2024-07-20
+100384,31,Saint Petersburg,regular,2022-06-14
+100385,19,Novosibirsk,new,2020-06-07
+100386,24,Moscow,regular,2024-08-08
+100387,21,Moscow,regular,2020-03-11
+100388,65,Tomsk,new,2020-09-30
+100389,68,Moscow,regular,2023-02-27
+100390,26,Moscow,regular,2022-01-28
+100391,60,Moscow,regular,2019-06-01
+100392,28,Tomsk,premium,2023-11-04
+100393,38,Yekaterinburg,new,2020-05-15
+100394,52,Yekaterinburg,new,2023-02-25
+100395,59,Tomsk,regular,2021-01-02
+100396,67,Moscow,regular,2023-07-06
+100397,20,Tomsk,regular,2024-05-22
+100398,29,Moscow,new,2023-08-21
+100399,33,Yekaterinburg,premium,2024-07-12
+100400,35,Kazan,regular,2022-03-29
+100401,74,Kazan,regular,2019-05-23
+100402,62,Tomsk,regular,2022-03-21
+100403,36,Moscow,premium,2021-10-08
+100404,73,Tomsk,regular,2023-04-25
+100405,46,Saint Petersburg,premium,2020-06-29
+100406,46,Yekaterinburg,new,2023-03-10
+100407,42,Tomsk,regular,2021-08-26
+100408,26,Moscow,regular,2023-01-08
+100409,71,Tomsk,regular,2021-07-09
+100410,18,Novosibirsk,regular,2021-04-17
+100411,27,Yekaterinburg,premium,2020-04-14
+100412,31,Moscow,new,2023-12-22
+100413,33,Novosibirsk,regular,2019-05-31
+100414,25,Yekaterinburg,premium,2020-06-01
+100415,19,Kazan,premium,2021-07-24
+100416,56,Moscow,premium,2019-12-08
+100417,73,Saint Petersburg,premium,2024-07-02
+100418,24,Samara,new,2021-01-26
+100419,34,Moscow,premium,2020-06-15
+100420,46,Yekaterinburg,regular,2020-07-10
+100421,70,Tomsk,regular,2020-02-25
+100422,57,Moscow,regular,2022-12-24
+100423,61,Moscow,regular,2021-11-20
+100424,51,Yekaterinburg,regular,2020-05-21
+100425,41,Moscow,regular,2024-03-29
+100426,29,Novosibirsk,new,2022-12-10
+100427,67,Yekaterinburg,new,2021-06-02
+100428,63,Novosibirsk,regular,2022-01-29
+100429,19,Saint Petersburg,new,2022-12-09
+100430,58,Yekaterinburg,regular,2019-12-01
+100431,22,Novosibirsk,regular,2023-11-07
+100432,60,Moscow,regular,2020-07-20
+100433,65,Novosibirsk,new,2019-03-06
+100434,25,Samara,new,2022-02-17
+100435,42,Yekaterinburg,regular,2024-04-05
+100436,25,Kazan,regular,2023-05-26
+100437,50,Saint Petersburg,new,2020-11-07
+100438,70,Moscow,new,2021-05-22
+100439,22,Saint Petersburg,new,2022-07-30
+100440,40,Moscow,regular,2020-05-25
+100441,73,Tomsk,new,2023-12-03
+100442,35,Moscow,regular,2020-10-08
+100443,25,Samara,regular,2020-04-19
+100444,45,Moscow,regular,2019-07-28
+100445,46,Saint Petersburg,regular,2023-02-28
+100446,55,Kazan,regular,2019-02-25
+100447,35,Saint Petersburg,premium,2023-11-01
+100448,72,Perm,regular,2024-11-03
+100449,47,Tomsk,regular,2019-09-01
+100450,34,Samara,premium,2019-07-31
+100451,72,Moscow,regular,2024-08-10
+100452,70,Perm,regular,2019-10-01
+100453,46,Moscow,premium,2021-06-12
+100454,19,Tomsk,new,2024-03-24
+100455,52,Novosibirsk,regular,2019-11-01
+100456,49,Saint Petersburg,regular,2022-12-25
+100457,26,Moscow,regular,2021-04-18
+100458,54,Moscow,regular,2021-08-13
+100459,65,Saint Petersburg,new,2024-08-02
+100460,24,Tomsk,premium,2022-11-23
+100461,59,Perm,new,2020-12-01
+100462,25,Tomsk,regular,2024-08-11
+100463,60,Moscow,regular,2022-06-27
+100464,41,Novosibirsk,regular,2019-08-06
+100465,18,Saint Petersburg,new,2021-05-10
+100466,73,Novosibirsk,regular,2020-06-18
+100467,27,Saint Petersburg,regular,2022-11-09
+100468,51,Saint Petersburg,regular,2024-02-29
+100469,28,Novosibirsk,new,2019-03-27
+100470,71,Moscow,new,2023-09-08
+100471,60,Kazan,regular,2024-07-01
+100472,63,Yekaterinburg,new,2024-12-19
+100473,42,Moscow,regular,2022-12-20
+100474,44,Tomsk,new,2020-11-19
+100475,54,Novosibirsk,regular,2019-11-15
+100476,62,Samara,premium,2024-09-02
+100477,66,Yekaterinburg,regular,2021-06-23
+100478,19,Yekaterinburg,premium,2021-01-23
+100479,55,Yekaterinburg,premium,2023-05-28
+100480,24,Samara,regular,2023-04-17
+100481,34,Yekaterinburg,regular,2023-11-10
+100482,65,Saint Petersburg,premium,2024-04-18
+100483,32,Moscow,premium,2024-04-06
+100484,63,Novosibirsk,premium,2020-01-10
+100485,44,Moscow,regular,2020-01-07
+100486,31,Saint Petersburg,new,2020-03-26
+100487,37,Moscow,premium,2022-10-07
+100488,48,Novosibirsk,premium,2022-06-27
+100489,61,Moscow,regular,2024-02-23
+100490,52,Yekaterinburg,premium,2024-01-24
+100491,71,Perm,regular,2023-11-18
+100492,67,Samara,premium,2019-06-23
+100493,60,Saint Petersburg,new,2023-03-05
+100494,52,Novosibirsk,premium,2024-02-09
+100495,34,Novosibirsk,new,2024-11-23
+100496,41,Kazan,regular,2021-01-22
+100497,24,Yekaterinburg,new,2023-08-30
+100498,39,Moscow,regular,2021-06-09
+100499,70,Tomsk,new,2019-12-19
+100500,42,Moscow,premium,2021-01-14
+100501,24,Samara,regular,2020-07-04
+100502,55,Novosibirsk,premium,2024-06-20
+100503,72,Saint Petersburg,regular,2020-01-20
+100504,67,Perm,new,2019-10-14
+100505,33,Moscow,regular,2022-06-24
+100506,43,Perm,regular,2022-06-12
+100507,48,Novosibirsk,regular,2022-05-14
+100508,32,Moscow,regular,2019-11-21
+100509,33,Moscow,regular,2021-12-28
+100510,31,Perm,regular,2024-07-28
+100511,74,Saint Petersburg,premium,2019-07-16
+100512,60,Samara,regular,2023-10-16
+100513,65,Perm,regular,2019-10-03
+100514,64,Yekaterinburg,regular,2020-05-27
+100515,72,Saint Petersburg,new,2024-05-22
+100516,24,Yekaterinburg,new,2020-10-14
+100517,68,Tomsk,regular,2022-02-19
+100518,21,Moscow,regular,2021-04-16
+100519,45,Saint Petersburg,regular,2022-09-08
+100520,51,Moscow,regular,2021-06-07
+100521,38,Kazan,new,2021-08-30
+100522,26,Perm,regular,2023-11-27
+100523,28,Kazan,premium,2022-04-29
+100524,65,Novosibirsk,regular,2022-05-22
+100525,36,Saint Petersburg,new,2023-11-01
+100526,35,Moscow,regular,2021-07-27
+100527,70,Saint Petersburg,regular,2023-12-11
+100528,26,Samara,regular,2023-04-27
+100529,70,Novosibirsk,premium,2024-04-21
+100530,70,Saint Petersburg,regular,2021-09-30
+100531,52,Perm,regular,2022-05-09
+100532,27,Moscow,regular,2019-10-09
+100533,26,Saint Petersburg,regular,2019-09-02
+100534,34,Moscow,regular,2019-08-24
+100535,50,Tomsk,new,2022-10-19
+100536,26,Yekaterinburg,premium,2020-12-15
+100537,43,Yekaterinburg,regular,2020-09-25
+100538,24,Moscow,regular,2022-08-14
+100539,48,Moscow,new,2021-05-23
+100540,19,Yekaterinburg,regular,2019-10-23
+100541,58,Saint Petersburg,new,2022-05-06
+100542,21,Tomsk,regular,2022-04-20
+100543,29,Perm,regular,2019-11-03
+100544,27,Kazan,regular,2020-08-13
+100545,65,Perm,premium,2020-06-04
+100546,21,Tomsk,new,2023-03-05
+100547,42,Kazan,regular,2020-06-30
+100548,51,Yekaterinburg,premium,2019-03-03
+100549,47,Tomsk,regular,2020-08-07
+100550,56,Saint Petersburg,regular,2021-10-25
+100551,63,Samara,regular,2023-08-14
+100552,40,Moscow,regular,2019-04-25
+100553,65,Yekaterinburg,premium,2024-04-15
+100554,36,Perm,regular,2020-12-25
+100555,74,Yekaterinburg,premium,2021-01-21
+100556,46,Kazan,regular,2019-02-04
+100557,59,Yekaterinburg,regular,2020-08-28
+100558,67,Moscow,regular,2021-10-25
+100559,63,Moscow,regular,2022-10-04
+100560,66,Saint Petersburg,premium,2023-08-09
+100561,48,Novosibirsk,regular,2022-02-19
+100562,20,Kazan,new,2019-08-08
+100563,46,Saint Petersburg,regular,2021-05-08
+100564,28,Samara,regular,2023-05-31
+100565,68,Saint Petersburg,premium,2022-11-02
+100566,31,Kazan,new,2022-07-04
+100567,30,Kazan,new,2022-01-19
+100568,32,Moscow,regular,2022-01-11
+100569,54,Perm,new,2024-12-16
+100570,50,Kazan,premium,2022-08-07
+100571,72,Moscow,regular,2022-08-01
+100572,41,Tomsk,regular,2021-01-06
+100573,34,Samara,new,2021-12-10
+100574,20,Perm,regular,2023-04-07
+100575,18,Samara,premium,2024-02-24
+100576,39,Samara,regular,2023-09-06
+100577,70,Saint Petersburg,new,2022-12-22
+100578,47,Yekaterinburg,new,2023-09-02
+100579,68,Novosibirsk,premium,2019-03-14
+100580,23,Saint Petersburg,premium,2020-08-13
+100581,23,Moscow,new,2020-06-16
+100582,65,Moscow,regular,2022-12-04
+100583,24,Yekaterinburg,new,2023-07-10
+100584,20,Perm,regular,2019-11-21
+100585,41,Perm,new,2020-02-27
+100586,70,Saint Petersburg,regular,2021-12-21
+100587,57,Moscow,premium,2024-10-23
+100588,23,Kazan,new,2019-01-06
+100589,65,Novosibirsk,regular,2024-04-11
+100590,66,Tomsk,new,2020-02-29
+100591,63,Samara,regular,2020-08-11
+100592,69,Tomsk,new,2022-10-16
+100593,31,Samara,regular,2023-05-17
+100594,73,Tomsk,premium,2024-03-31
+100595,36,Kazan,new,2019-01-13
+100596,63,Moscow,premium,2019-04-18
+100597,51,Moscow,new,2021-11-14
+100598,62,Kazan,regular,2022-05-09
+100599,53,Saint Petersburg,regular,2020-07-25
+100600,54,Moscow,premium,2022-10-27
+100601,53,Tomsk,new,2020-08-04
+100602,62,Moscow,new,2024-08-05
+100603,60,Tomsk,regular,2020-01-24
+100604,25,Perm,regular,2022-12-07
+100605,65,Yekaterinburg,regular,2022-03-08
+100606,48,Yekaterinburg,new,2019-08-14
+100607,36,Saint Petersburg,regular,2022-08-18
+100608,47,Yekaterinburg,regular,2019-11-18
+100609,73,Moscow,regular,2022-03-28
+100610,66,Tomsk,regular,2022-10-25
+100611,65,Saint Petersburg,regular,2019-06-08
+100612,44,Saint Petersburg,regular,2020-04-17
+100613,62,Yekaterinburg,premium,2020-10-10
+100614,39,Yekaterinburg,regular,2024-07-27
+100615,57,Kazan,new,2020-04-29
+100616,54,Yekaterinburg,premium,2024-07-11
+100617,32,Moscow,regular,2022-03-16
+100618,33,Yekaterinburg,regular,2024-09-10
+100619,21,Saint Petersburg,regular,2023-12-28
+100620,25,Saint Petersburg,regular,2020-10-04
+100621,42,Moscow,regular,2022-05-12
+100622,45,Saint Petersburg,regular,2023-04-21
+100623,27,Saint Petersburg,regular,2019-06-21
+100624,41,Kazan,new,2022-12-24
+100625,52,Moscow,premium,2021-10-04
+100626,31,Moscow,regular,2019-03-20
+100627,37,Novosibirsk,regular,2024-03-15
+100628,38,Moscow,regular,2020-08-05
+100629,46,Yekaterinburg,regular,2024-03-31
+100630,38,Tomsk,regular,2020-03-29
+100631,60,Kazan,regular,2022-04-02
+100632,36,Samara,premium,2021-03-23
+100633,42,Moscow,regular,2024-05-11
+100634,39,Moscow,regular,2024-09-20
+100635,28,Perm,regular,2023-08-15
+100636,57,Perm,regular,2024-01-28
+100637,31,Samara,regular,2023-08-13
+100638,34,Moscow,new,2020-10-05
+100639,63,Perm,regular,2024-07-10
+100640,72,Saint Petersburg,regular,2022-03-07
+100641,56,Saint Petersburg,regular,2021-01-22
+100642,70,Moscow,regular,2020-02-26
+100643,66,Tomsk,regular,2023-04-05
+100644,45,Moscow,regular,2020-08-31
+100645,61,Samara,regular,2022-12-01
+100646,36,Yekaterinburg,regular,2019-05-23
+100647,44,Perm,regular,2022-10-23
+100648,48,Yekaterinburg,new,2022-11-09
+100649,72,Samara,regular,2022-02-24
+100650,66,Moscow,new,2022-12-10
+100651,45,Moscow,regular,2024-12-18
+100652,55,Novosibirsk,regular,2024-01-12
+100653,29,Saint Petersburg,regular,2021-08-21
+100654,63,Moscow,premium,2024-03-25
+100655,49,Moscow,regular,2024-09-23
+100656,48,Saint Petersburg,premium,2019-12-17
+100657,61,Moscow,premium,2021-02-25
+100658,54,Moscow,new,2023-06-17
+100659,22,Tomsk,new,2022-02-02
+100660,34,Saint Petersburg,regular,2019-10-23
+100661,28,Tomsk,regular,2021-11-01
+100662,59,Tomsk,regular,2021-03-30
+100663,20,Moscow,new,2023-06-08
+100664,29,Yekaterinburg,new,2022-02-04
+100665,52,Novosibirsk,regular,2019-11-03
+100666,57,Yekaterinburg,regular,2019-04-19
+100667,46,Moscow,regular,2020-09-21
+100668,67,Moscow,premium,2019-12-10
+100669,70,Moscow,new,2024-04-04
+100670,25,Novosibirsk,regular,2020-08-17
+100671,72,Tomsk,premium,2022-10-22
+100672,53,Yekaterinburg,regular,2019-10-07
+100673,54,Yekaterinburg,regular,2021-08-26
+100674,23,Tomsk,regular,2024-08-09
+100675,53,Yekaterinburg,new,2022-11-11
+100676,59,Moscow,premium,2020-09-23
+100677,51,Samara,regular,2023-06-27
+100678,22,Saint Petersburg,regular,2022-01-03
+100679,47,Moscow,regular,2020-05-30
+100680,71,Novosibirsk,regular,2024-12-24
+100681,59,Tomsk,regular,2024-08-17
+100682,25,Saint Petersburg,regular,2022-05-27
+100683,72,Kazan,regular,2019-03-14
+100684,72,Moscow,new,2021-06-20
+100685,27,Moscow,regular,2022-01-31
+100686,63,Moscow,premium,2024-07-31
+100687,41,Perm,regular,2023-05-26
+100688,51,Samara,regular,2020-05-02
+100689,43,Moscow,regular,2022-01-22
+100690,62,Saint Petersburg,regular,2020-01-29
+100691,74,Moscow,regular,2021-11-04
+100692,63,Moscow,premium,2022-03-19
+100693,71,Novosibirsk,new,2022-01-22
+100694,71,Yekaterinburg,premium,2021-07-25
+100695,23,Yekaterinburg,premium,2021-08-16
+100696,32,Kazan,regular,2023-10-13
+100697,59,Novosibirsk,regular,2022-01-13
+100698,51,Moscow,new,2019-04-03
+100699,20,Moscow,regular,2023-06-12
+100700,23,Tomsk,new,2022-09-16
+100701,47,Perm,new,2023-03-05
+100702,53,Tomsk,premium,2023-04-07
+100703,27,Tomsk,regular,2020-01-15
+100704,27,Yekaterinburg,regular,2024-10-31
+100705,25,Tomsk,regular,2024-12-10
+100706,50,Kazan,regular,2019-11-16
+100707,18,Moscow,regular,2020-04-24
+100708,50,Moscow,regular,2020-06-23
+100709,45,Moscow,regular,2024-10-19
+100710,44,Moscow,premium,2024-08-05
+100711,56,Saint Petersburg,regular,2020-08-03
+100712,47,Yekaterinburg,premium,2022-10-14
+100713,59,Perm,regular,2020-06-17
+100714,61,Novosibirsk,regular,2019-03-25
+100715,70,Moscow,new,2020-05-19
+100716,63,Perm,new,2019-06-19
+100717,47,Saint Petersburg,premium,2024-02-02
+100718,46,Moscow,regular,2023-09-18
+100719,31,Saint Petersburg,regular,2020-02-09
+100720,52,Saint Petersburg,regular,2022-05-28
+100721,25,Saint Petersburg,regular,2020-03-25
+100722,71,Samara,regular,2022-05-24
+100723,66,Perm,regular,2024-05-17
+100724,24,Yekaterinburg,premium,2024-04-12
+100725,62,Moscow,regular,2024-01-01
+100726,24,Perm,new,2020-06-12
+100727,59,Yekaterinburg,regular,2020-02-23
+100728,22,Moscow,new,2019-12-18
+100729,45,Yekaterinburg,premium,2019-10-06
+100730,55,Kazan,regular,2022-09-07
+100731,59,Kazan,new,2022-12-14
+100732,41,Moscow,new,2024-04-18
+100733,70,Novosibirsk,premium,2019-07-18
+100734,62,Moscow,regular,2020-08-04
+100735,29,Moscow,premium,2023-05-15
+100736,56,Moscow,new,2023-02-02
+100737,59,Tomsk,premium,2021-07-25
+100738,37,Saint Petersburg,regular,2019-12-01
+100739,60,Saint Petersburg,regular,2021-11-27
+100740,69,Saint Petersburg,regular,2020-01-12
+100741,64,Samara,new,2022-03-19
+100742,61,Novosibirsk,premium,2024-05-30
+100743,54,Tomsk,premium,2020-03-04
+100744,33,Saint Petersburg,regular,2019-09-16
+100745,63,Moscow,premium,2023-06-05
+100746,38,Novosibirsk,new,2019-02-23
+100747,48,Saint Petersburg,new,2024-11-25
+100748,35,Perm,new,2023-08-26
+100749,35,Samara,regular,2021-06-03
+100750,26,Kazan,new,2021-03-05
+100751,72,Tomsk,regular,2021-04-27
+100752,26,Novosibirsk,new,2021-05-19
+100753,22,Saint Petersburg,regular,2024-01-15
+100754,71,Kazan,regular,2023-10-20
+100755,49,Moscow,regular,2020-03-24
+100756,42,Perm,new,2020-01-30
+100757,60,Moscow,regular,2022-03-30
+100758,39,Saint Petersburg,new,2022-11-26
+100759,25,Novosibirsk,regular,2023-05-13
+100760,59,Moscow,regular,2020-11-18
+100761,28,Moscow,regular,2021-11-23
+100762,49,Yekaterinburg,new,2019-08-17
+100763,72,Moscow,regular,2021-09-25
+100764,71,Kazan,premium,2023-02-15
+100765,38,Saint Petersburg,regular,2020-10-29
+100766,62,Moscow,premium,2020-11-29
+100767,52,Moscow,premium,2021-10-10
+100768,45,Perm,new,2024-03-14
+100769,25,Tomsk,regular,2022-08-17
+100770,39,Moscow,regular,2024-07-07
+100771,55,Tomsk,regular,2019-05-16
+100772,74,Novosibirsk,new,2024-02-05
+100773,18,Yekaterinburg,premium,2019-04-06
+100774,58,Yekaterinburg,regular,2020-12-07
+100775,66,Yekaterinburg,regular,2021-07-24
+100776,72,Samara,regular,2020-06-02
+100777,42,Kazan,regular,2024-12-08
+100778,24,Novosibirsk,regular,2024-05-11
+100779,33,Saint Petersburg,premium,2022-06-06
+100780,66,Moscow,regular,2021-09-19
+100781,68,Yekaterinburg,regular,2023-07-28
+100782,54,Moscow,regular,2023-04-01
+100783,24,Saint Petersburg,regular,2021-11-19
+100784,24,Moscow,regular,2023-12-19
+100785,45,Moscow,new,2020-02-27
+100786,51,Yekaterinburg,new,2020-08-31
+100787,19,Yekaterinburg,regular,2019-02-08
+100788,57,Kazan,premium,2019-09-19
+100789,49,Moscow,regular,2020-03-11
+100790,18,Kazan,new,2022-10-01
+100791,23,Saint Petersburg,regular,2024-02-19
+100792,43,Perm,premium,2022-07-17
+100793,59,Novosibirsk,regular,2021-09-03
+100794,65,Kazan,new,2020-08-15
+100795,42,Kazan,regular,2019-08-11
+100796,34,Tomsk,regular,2022-07-05
+100797,73,Perm,regular,2019-11-05
+100798,44,Kazan,regular,2023-09-29
+100799,35,Kazan,new,2021-06-15
+100800,43,Moscow,regular,2021-02-06
+100801,18,Tomsk,regular,2019-02-28
+100802,35,Saint Petersburg,regular,2020-06-15
+100803,47,Saint Petersburg,new,2019-01-30
+100804,70,Tomsk,regular,2023-05-09
+100805,60,Yekaterinburg,regular,2021-12-09
+100806,62,Moscow,new,2023-09-19
+100807,49,Moscow,regular,2022-05-23
+100808,24,Moscow,regular,2024-09-22
+100809,40,Novosibirsk,regular,2023-09-15
+100810,74,Moscow,premium,2019-11-20
+100811,20,Tomsk,premium,2019-09-13
+100812,68,Tomsk,regular,2024-05-03
+100813,57,Novosibirsk,new,2020-08-12
+100814,34,Yekaterinburg,regular,2023-08-05
+100815,62,Saint Petersburg,new,2022-10-09
+100816,65,Moscow,regular,2023-03-19
+100817,20,Perm,premium,2020-08-07
+100818,24,Moscow,premium,2020-11-17
+100819,55,Moscow,regular,2022-05-01
+100820,74,Saint Petersburg,regular,2019-02-18
+100821,19,Moscow,new,2020-11-14
+100822,55,Kazan,regular,2022-01-17
+100823,25,Yekaterinburg,new,2020-03-24
+100824,55,Perm,premium,2020-09-18
+100825,53,Novosibirsk,premium,2024-11-25
+100826,23,Samara,new,2020-09-27
+100827,56,Kazan,regular,2024-06-01
+100828,69,Samara,regular,2024-07-25
+100829,67,Novosibirsk,regular,2023-01-17
+100830,19,Moscow,regular,2019-12-02
+100831,32,Tomsk,new,2020-03-26
+100832,31,Saint Petersburg,regular,2024-08-09
+100833,43,Moscow,new,2019-01-04
+100834,26,Saint Petersburg,regular,2022-01-09
+100835,66,Saint Petersburg,new,2022-07-31
+100836,62,Saint Petersburg,regular,2024-01-12
+100837,64,Novosibirsk,regular,2024-05-15
+100838,29,Samara,new,2020-09-13
+100839,18,Saint Petersburg,regular,2022-01-06
+100840,69,Novosibirsk,regular,2022-10-21
+100841,34,Saint Petersburg,new,2024-10-16
+100842,55,Samara,regular,2022-05-05
+100843,69,Moscow,regular,2019-09-25
+100844,20,Moscow,regular,2024-07-18
+100845,18,Novosibirsk,regular,2022-01-28
+100846,18,Yekaterinburg,regular,2020-01-29
+100847,26,Perm,regular,2020-02-22
+100848,20,Novosibirsk,new,2020-03-24
+100849,64,Perm,new,2023-04-30
+100850,52,Kazan,new,2024-09-11
+100851,73,Moscow,premium,2021-08-25
+100852,63,Moscow,premium,2019-08-03
+100853,72,Moscow,regular,2024-05-01
+100854,31,Saint Petersburg,new,2022-10-23
+100855,34,Kazan,regular,2022-06-05
+100856,66,Saint Petersburg,regular,2019-05-13
+100857,31,Novosibirsk,regular,2024-10-28
+100858,21,Kazan,new,2019-06-18
+100859,56,Yekaterinburg,premium,2022-08-31
+100860,63,Yekaterinburg,new,2022-08-01
+100861,73,Saint Petersburg,new,2022-01-31
+100862,70,Saint Petersburg,premium,2022-04-23
+100863,24,Novosibirsk,regular,2021-05-22
+100864,62,Novosibirsk,regular,2022-06-10
+100865,66,Saint Petersburg,regular,2021-03-08
+100866,57,Saint Petersburg,premium,2021-11-04
+100867,64,Yekaterinburg,new,2023-01-26
+100868,65,Yekaterinburg,regular,2023-06-16
+100869,43,Moscow,regular,2019-12-03
+100870,20,Kazan,new,2024-12-14
+100871,44,Samara,regular,2019-07-31
+100872,29,Moscow,regular,2020-08-27
+100873,24,Samara,new,2021-01-30
+100874,25,Moscow,regular,2020-12-09
+100875,57,Novosibirsk,regular,2021-02-10
+100876,46,Kazan,regular,2020-12-09
+100877,48,Moscow,regular,2021-08-13
+100878,60,Tomsk,regular,2023-08-01
+100879,49,Kazan,regular,2023-12-19
+100880,53,Tomsk,regular,2021-02-01
+100881,22,Saint Petersburg,regular,2020-07-20
+100882,66,Samara,regular,2023-01-23
+100883,43,Tomsk,new,2019-05-11
+100884,26,Novosibirsk,regular,2021-09-04
+100885,64,Moscow,new,2020-04-27
+100886,59,Yekaterinburg,regular,2022-08-25
+100887,21,Novosibirsk,premium,2019-06-21
+100888,29,Tomsk,regular,2023-12-23
+100889,18,Kazan,regular,2020-08-14
+100890,33,Saint Petersburg,regular,2022-01-31
+100891,23,Moscow,regular,2022-06-08
+100892,58,Yekaterinburg,regular,2021-11-07
+100893,47,Tomsk,regular,2021-09-09
+100894,73,Moscow,regular,2020-08-08
+100895,60,Perm,new,2023-08-21
+100896,52,Tomsk,regular,2022-02-04
+100897,47,Moscow,regular,2020-04-17
+100898,21,Moscow,regular,2020-07-29
+100899,22,Yekaterinburg,premium,2021-08-19
+100900,53,Yekaterinburg,regular,2024-01-24
+100901,18,Moscow,regular,2024-10-08
+100902,20,Samara,new,2021-05-02
+100903,30,Novosibirsk,regular,2021-05-16
+100904,68,Samara,regular,2019-10-11
+100905,44,Samara,premium,2022-04-11
+100906,58,Samara,regular,2020-06-10
+100907,41,Novosibirsk,new,2023-12-02
+100908,27,Saint Petersburg,regular,2022-03-17
+100909,39,Novosibirsk,premium,2020-05-01
+100910,23,Moscow,regular,2024-07-01
+100911,61,Yekaterinburg,regular,2023-11-23
+100912,28,Moscow,regular,2020-10-20
+100913,39,Novosibirsk,regular,2019-09-21
+100914,73,Moscow,regular,2020-08-02
+100915,51,Saint Petersburg,new,2021-04-05
+100916,44,Moscow,regular,2021-06-10
+100917,48,Yekaterinburg,premium,2023-12-08
+100918,62,Perm,premium,2024-10-22
+100919,32,Moscow,regular,2023-06-27
+100920,54,Samara,new,2024-01-27
+100921,67,Samara,regular,2019-10-02
+100922,50,Saint Petersburg,regular,2019-11-25
+100923,43,Yekaterinburg,regular,2024-06-13
+100924,26,Kazan,premium,2022-09-07
+100925,32,Moscow,regular,2020-05-31
+100926,71,Novosibirsk,regular,2023-10-02
+100927,48,Moscow,regular,2020-01-19
+100928,35,Samara,new,2023-08-11
+100929,41,Tomsk,premium,2024-04-19
+100930,50,Samara,regular,2021-12-07
+100931,48,Novosibirsk,new,2022-12-09
+100932,57,Novosibirsk,new,2023-05-24
+100933,32,Tomsk,premium,2024-04-13
+100934,55,Saint Petersburg,regular,2022-07-03
+100935,43,Moscow,regular,2020-10-05
+100936,71,Novosibirsk,regular,2020-03-17
+100937,27,Saint Petersburg,regular,2021-02-18
+100938,26,Saint Petersburg,regular,2019-05-03
+100939,44,Moscow,premium,2023-03-12
+100940,46,Novosibirsk,new,2021-03-20
+100941,57,Saint Petersburg,regular,2023-04-09
+100942,41,Moscow,regular,2019-05-16
+100943,70,Moscow,regular,2020-12-06
+100944,45,Saint Petersburg,regular,2021-05-15
+100945,25,Samara,premium,2019-07-11
+100946,24,Saint Petersburg,new,2023-12-22
+100947,73,Yekaterinburg,regular,2022-08-02
+100948,25,Perm,regular,2024-01-25
+100949,72,Saint Petersburg,new,2023-10-24
+100950,33,Samara,regular,2019-03-16
+100951,23,Yekaterinburg,premium,2024-03-11
+100952,35,Novosibirsk,new,2019-06-02
+100953,53,Moscow,new,2024-03-24
+100954,42,Moscow,premium,2023-01-08
+100955,62,Tomsk,new,2023-12-02
+100956,52,Perm,new,2021-12-31
+100957,40,Tomsk,premium,2019-12-18
+100958,54,Samara,premium,2019-11-24
+100959,73,Moscow,regular,2019-09-18
+100960,41,Perm,regular,2023-11-01
+100961,26,Kazan,premium,2022-03-15
+100962,41,Perm,regular,2020-04-19
+100963,65,Moscow,regular,2019-10-01
+100964,30,Saint Petersburg,regular,2019-06-21
+100965,72,Perm,regular,2020-07-19
+100966,51,Perm,regular,2023-07-01
+100967,52,Yekaterinburg,regular,2024-05-10
+100968,36,Saint Petersburg,regular,2022-08-26
+100969,70,Saint Petersburg,regular,2024-12-22
+100970,20,Tomsk,regular,2021-05-14
+100971,35,Kazan,regular,2020-12-29
+100972,41,Kazan,regular,2023-02-27
+100973,45,Novosibirsk,regular,2019-10-23
+100974,45,Kazan,new,2024-06-20
+100975,26,Novosibirsk,regular,2023-09-07
+100976,30,Kazan,new,2019-03-16
+100977,23,Samara,regular,2020-02-15
+100978,50,Samara,regular,2022-10-07
+100979,37,Tomsk,regular,2023-06-07
+100980,50,Novosibirsk,regular,2020-04-23
+100981,51,Kazan,new,2023-06-26
+100982,58,Yekaterinburg,new,2021-11-05
+100983,49,Samara,regular,2023-01-20
+100984,54,Novosibirsk,regular,2021-07-18
+100985,51,Yekaterinburg,regular,2021-09-22
+100986,55,Perm,regular,2021-05-04
+100987,53,Yekaterinburg,premium,2019-12-11
+100988,36,Perm,new,2020-02-22
+100989,32,Moscow,regular,2020-01-03
+100990,62,Kazan,regular,2023-10-26
+100991,37,Novosibirsk,new,2021-07-16
+100992,49,Moscow,premium,2021-04-11
+100993,29,Samara,regular,2024-02-19
+100994,42,Yekaterinburg,premium,2024-04-28
+100995,48,Moscow,regular,2020-05-27
+100996,53,Samara,regular,2021-02-16
+100997,48,Yekaterinburg,new,2021-06-21
+100998,38,Perm,premium,2024-01-15
+100999,72,Kazan,regular,2023-01-12
+101000,47,Samara,new,2022-04-08
+101001,64,Kazan,new,2020-05-30
+101002,59,Novosibirsk,regular,2021-04-25
+101003,49,Moscow,new,2019-03-05
+101004,68,Yekaterinburg,regular,2023-03-24
+101005,25,Yekaterinburg,regular,2024-07-07
+101006,70,Novosibirsk,regular,2023-09-21
+101007,66,Kazan,regular,2020-11-08
+101008,46,Perm,new,2021-11-24
+101009,59,Yekaterinburg,premium,2024-09-30
+101010,47,Saint Petersburg,premium,2021-07-21
+101011,33,Tomsk,regular,2024-01-14
+101012,63,Yekaterinburg,regular,2022-06-19
+101013,32,Tomsk,regular,2021-12-29
+101014,35,Tomsk,premium,2022-07-06
+101015,47,Tomsk,regular,2020-05-05
+101016,65,Perm,regular,2021-07-21
+101017,39,Novosibirsk,premium,2020-10-29
+101018,46,Moscow,new,2023-07-19
+101019,20,Novosibirsk,regular,2022-09-04
+101020,24,Perm,new,2021-05-26
+101021,21,Novosibirsk,regular,2023-12-08
+101022,22,Samara,regular,2021-09-19
+101023,67,Moscow,premium,2024-09-20
+101024,65,Kazan,regular,2022-08-19
+101025,64,Novosibirsk,new,2024-04-25
+101026,21,Kazan,regular,2024-12-03
+101027,22,Moscow,regular,2020-12-17
+101028,33,Moscow,regular,2020-07-25
+101029,50,Samara,regular,2024-01-06
+101030,37,Kazan,regular,2020-05-23
+101031,45,Moscow,regular,2023-07-07
+101032,27,Moscow,new,2020-01-23
+101033,59,Kazan,new,2024-03-21
+101034,35,Moscow,premium,2023-02-20
+101035,21,Yekaterinburg,regular,2022-02-16
+101036,60,Perm,new,2021-09-11
+101037,69,Moscow,new,2022-10-28
+101038,18,Novosibirsk,premium,2021-05-01
+101039,42,Moscow,new,2021-05-21
+101040,65,Saint Petersburg,regular,2020-03-23
+101041,58,Samara,new,2019-12-12
+101042,66,Novosibirsk,new,2024-05-07
+101043,41,Samara,regular,2023-07-01
+101044,39,Moscow,premium,2021-08-29
+101045,58,Saint Petersburg,regular,2023-12-29
+101046,26,Kazan,regular,2022-08-25
+101047,31,Kazan,regular,2022-08-06
+101048,52,Tomsk,regular,2019-09-04
+101049,56,Moscow,regular,2022-03-25
+101050,24,Samara,regular,2019-08-25
+101051,46,Samara,regular,2023-02-08
+101052,38,Novosibirsk,regular,2019-05-28
+101053,46,Saint Petersburg,regular,2022-02-01
+101054,72,Novosibirsk,regular,2021-03-16
+101055,22,Saint Petersburg,regular,2019-10-14
+101056,74,Perm,new,2021-11-02
+101057,43,Kazan,regular,2020-03-15
+101058,62,Tomsk,regular,2020-06-20
+101059,42,Yekaterinburg,regular,2024-05-04
+101060,35,Novosibirsk,premium,2021-02-05
+101061,61,Yekaterinburg,regular,2021-06-04
+101062,57,Novosibirsk,new,2019-01-14
+101063,26,Samara,premium,2020-10-20
+101064,58,Moscow,new,2021-02-08
+101065,60,Tomsk,regular,2023-04-26
+101066,40,Samara,regular,2019-09-19
+101067,70,Samara,premium,2024-07-31
+101068,54,Kazan,regular,2019-10-09
+101069,37,Samara,regular,2022-12-01
+101070,18,Saint Petersburg,regular,2019-01-10
+101071,56,Perm,regular,2023-12-02
+101072,29,Moscow,premium,2023-03-07
+101073,61,Saint Petersburg,regular,2024-01-10
+101074,47,Kazan,regular,2024-08-03
+101075,44,Saint Petersburg,premium,2024-01-03
+101076,27,Kazan,regular,2022-09-24
+101077,58,Samara,new,2024-01-12
+101078,27,Saint Petersburg,regular,2019-07-30
+101079,41,Perm,regular,2022-11-15
+101080,65,Moscow,new,2024-12-09
+101081,70,Perm,regular,2021-04-06
+101082,74,Perm,regular,2024-11-08
+101083,72,Kazan,regular,2022-01-15
+101084,49,Perm,new,2021-10-23
+101085,29,Tomsk,regular,2020-10-19
+101086,65,Perm,regular,2019-08-25
+101087,63,Kazan,new,2024-04-04
+101088,74,Kazan,regular,2023-04-29
+101089,55,Perm,regular,2021-05-27
+101090,26,Saint Petersburg,regular,2024-10-08
+101091,46,Perm,regular,2020-02-07
+101092,43,Saint Petersburg,new,2023-09-03
+101093,66,Perm,premium,2021-09-18
+101094,40,Moscow,regular,2022-09-30
+101095,36,Moscow,new,2019-03-23
+101096,22,Tomsk,regular,2022-08-31
+101097,65,Samara,regular,2023-01-28
+101098,61,Samara,regular,2024-11-13
+101099,20,Tomsk,regular,2021-01-28
+101100,42,Kazan,regular,2019-06-10
+101101,45,Saint Petersburg,regular,2019-05-16
+101102,44,Moscow,new,2019-11-24
+101103,70,Novosibirsk,regular,2020-10-18
+101104,26,Moscow,premium,2023-12-27
+101105,35,Tomsk,regular,2020-03-03
+101106,28,Moscow,regular,2019-11-15
+101107,31,Moscow,new,2019-03-11
+101108,69,Saint Petersburg,regular,2021-04-20
+101109,71,Moscow,regular,2022-08-15
+101110,20,Moscow,new,2020-09-09
+101111,54,Yekaterinburg,new,2021-12-22
+101112,31,Saint Petersburg,regular,2020-06-17
+101113,28,Yekaterinburg,regular,2023-10-20
+101114,34,Samara,new,2019-02-26
+101115,29,Novosibirsk,new,2020-03-15
+101116,45,Yekaterinburg,regular,2022-05-26
+101117,74,Saint Petersburg,regular,2024-01-21
+101118,51,Moscow,regular,2021-05-29
+101119,59,Saint Petersburg,new,2019-06-02
+101120,46,Tomsk,regular,2022-04-24
+101121,18,Yekaterinburg,premium,2020-08-15
+101122,22,Saint Petersburg,regular,2020-10-29
+101123,33,Kazan,new,2024-07-14
+101124,31,Samara,regular,2024-08-25
+101125,65,Yekaterinburg,regular,2020-07-21
+101126,66,Novosibirsk,new,2022-07-20
+101127,66,Samara,regular,2022-03-31
+101128,54,Yekaterinburg,premium,2024-10-07
+101129,49,Yekaterinburg,regular,2024-09-05
+101130,55,Moscow,premium,2021-02-06
+101131,41,Moscow,regular,2019-02-25
+101132,56,Tomsk,regular,2019-01-06
+101133,63,Novosibirsk,new,2019-01-11
+101134,61,Kazan,regular,2023-09-09
+101135,52,Novosibirsk,new,2023-06-10
+101136,21,Moscow,regular,2023-12-19
+101137,59,Samara,regular,2019-11-02
+101138,38,Moscow,regular,2019-05-09
+101139,60,Perm,regular,2020-01-09
+101140,48,Novosibirsk,new,2022-10-02
+101141,68,Saint Petersburg,regular,2019-01-20
+101142,37,Moscow,premium,2022-12-19
+101143,71,Samara,new,2024-05-02
+101144,66,Moscow,regular,2019-11-16
+101145,36,Moscow,regular,2023-06-08
+101146,45,Perm,regular,2022-04-26
+101147,48,Saint Petersburg,regular,2024-08-31
+101148,61,Kazan,new,2020-06-17
+101149,57,Saint Petersburg,regular,2020-05-12
+101150,66,Samara,regular,2019-02-06
+101151,39,Saint Petersburg,regular,2023-03-26
+101152,46,Moscow,premium,2024-03-15
+101153,42,Saint Petersburg,premium,2019-02-11
+101154,69,Moscow,new,2021-12-13
+101155,35,Saint Petersburg,regular,2023-05-07
+101156,51,Moscow,new,2023-09-10
+101157,24,Moscow,new,2024-08-01
+101158,66,Kazan,regular,2023-05-04
+101159,39,Samara,regular,2024-07-10
+101160,37,Moscow,regular,2024-12-18
+101161,51,Moscow,regular,2024-07-26
+101162,46,Samara,regular,2021-08-17
+101163,66,Samara,premium,2021-06-11
+101164,48,Yekaterinburg,premium,2021-07-26
+101165,47,Saint Petersburg,new,2024-09-14
+101166,23,Kazan,regular,2020-09-09
+101167,19,Moscow,regular,2023-07-08
+101168,40,Moscow,regular,2022-10-02
+101169,74,Saint Petersburg,regular,2019-05-16
+101170,70,Novosibirsk,premium,2021-12-01
+101171,53,Saint Petersburg,new,2020-03-02
+101172,53,Yekaterinburg,regular,2023-05-17
+101173,40,Saint Petersburg,premium,2021-09-07
+101174,28,Saint Petersburg,new,2021-02-20
+101175,18,Perm,new,2019-05-24
+101176,37,Samara,regular,2019-10-14
+101177,36,Saint Petersburg,regular,2023-08-02
+101178,28,Novosibirsk,regular,2024-03-05
+101179,32,Saint Petersburg,regular,2020-09-30
+101180,19,Moscow,regular,2023-12-21
+101181,52,Perm,new,2022-04-24
+101182,70,Moscow,regular,2021-02-08
+101183,57,Kazan,regular,2021-09-16
+101184,43,Kazan,premium,2023-02-22
+101185,41,Moscow,new,2024-06-15
+101186,35,Moscow,new,2021-12-15
+101187,26,Saint Petersburg,regular,2021-01-29
+101188,52,Tomsk,regular,2023-07-27
+101189,50,Yekaterinburg,new,2022-02-25
+101190,18,Kazan,regular,2021-05-05
+101191,41,Moscow,regular,2021-10-04
+101192,33,Novosibirsk,regular,2022-03-20
+101193,27,Moscow,new,2019-11-04
+101194,58,Novosibirsk,new,2019-05-07
+101195,47,Perm,regular,2022-12-28
+101196,54,Kazan,regular,2020-01-19
+101197,58,Saint Petersburg,new,2022-03-11
+101198,73,Moscow,regular,2023-09-10
+101199,63,Moscow,new,2020-04-16
+101200,53,Kazan,new,2021-04-16
+101201,68,Samara,regular,2024-11-14
+101202,45,Saint Petersburg,regular,2019-03-18
+101203,74,Novosibirsk,new,2023-07-15
+101204,61,Yekaterinburg,regular,2020-01-03
+101205,55,Moscow,regular,2024-06-08
+101206,69,Moscow,regular,2021-06-21
+101207,47,Saint Petersburg,new,2019-01-15
+101208,59,Yekaterinburg,new,2023-04-23
+101209,34,Kazan,new,2019-11-19
+101210,72,Perm,regular,2021-03-07
+101211,53,Samara,regular,2022-01-06
+101212,62,Perm,new,2023-06-22
+101213,44,Tomsk,regular,2021-07-07
+101214,67,Perm,regular,2024-02-24
+101215,22,Samara,new,2021-11-21
+101216,24,Samara,new,2021-01-17
+101217,46,Perm,new,2021-01-08
+101218,59,Perm,new,2023-10-21
+101219,64,Tomsk,regular,2022-12-28
+101220,43,Kazan,new,2019-10-06
+101221,55,Yekaterinburg,regular,2023-07-03
+101222,49,Novosibirsk,regular,2021-06-29
+101223,72,Samara,regular,2021-02-03
+101224,55,Kazan,regular,2019-08-02
+101225,41,Samara,regular,2024-12-28
+101226,73,Perm,premium,2019-04-26
+101227,24,Tomsk,premium,2024-12-24
+101228,74,Saint Petersburg,regular,2019-05-22
+101229,26,Yekaterinburg,new,2022-01-12
+101230,34,Perm,regular,2019-08-18
+101231,64,Tomsk,new,2021-12-16
+101232,59,Samara,regular,2024-01-06
+101233,73,Novosibirsk,regular,2022-07-17
+101234,60,Novosibirsk,regular,2022-04-06
+101235,54,Moscow,regular,2019-09-18
+101236,37,Tomsk,regular,2024-09-07
+101237,18,Saint Petersburg,regular,2021-04-02
+101238,25,Perm,regular,2022-03-25
+101239,34,Perm,regular,2024-05-21
+101240,20,Kazan,regular,2022-10-10
+101241,46,Moscow,new,2023-05-31
+101242,62,Moscow,regular,2020-02-09
+101243,72,Samara,new,2021-10-05
+101244,45,Novosibirsk,regular,2022-03-30
+101245,67,Moscow,regular,2020-01-21
+101246,74,Yekaterinburg,regular,2021-04-24
+101247,67,Saint Petersburg,regular,2023-12-28
+101248,44,Samara,premium,2024-08-03
+101249,36,Saint Petersburg,regular,2023-12-10
+101250,73,Moscow,regular,2024-08-09
+101251,31,Moscow,regular,2024-12-28
+101252,41,Novosibirsk,regular,2020-03-11
+101253,22,Kazan,regular,2024-02-19
+101254,63,Perm,regular,2022-09-21
+101255,55,Kazan,new,2024-02-26
+101256,22,Saint Petersburg,new,2022-10-30
+101257,30,Saint Petersburg,regular,2019-10-01
+101258,49,Saint Petersburg,new,2022-05-18
+101259,48,Tomsk,regular,2023-07-25
+101260,63,Moscow,new,2019-09-30
+101261,33,Tomsk,regular,2022-01-10
+101262,70,Saint Petersburg,new,2022-12-04
+101263,43,Moscow,regular,2021-10-14
+101264,64,Saint Petersburg,regular,2023-10-18
+101265,31,Moscow,regular,2019-10-06
+101266,20,Perm,regular,2021-01-26
+101267,21,Novosibirsk,regular,2024-09-16
+101268,39,Saint Petersburg,premium,2022-02-01
+101269,72,Yekaterinburg,regular,2020-02-01
+101270,20,Yekaterinburg,new,2019-09-12
+101271,39,Tomsk,new,2022-07-24
+101272,24,Tomsk,premium,2024-08-02
+101273,71,Yekaterinburg,regular,2019-04-18
+101274,56,Samara,regular,2019-08-29
+101275,61,Perm,regular,2021-04-02
+101276,58,Kazan,new,2020-04-01
+101277,55,Yekaterinburg,regular,2019-09-23
+101278,62,Moscow,regular,2020-10-16
+101279,18,Perm,premium,2022-11-10
+101280,67,Tomsk,new,2023-12-16
+101281,60,Moscow,regular,2020-11-02
+101282,60,Samara,new,2023-03-16
+101283,40,Tomsk,premium,2023-12-10
+101284,63,Moscow,regular,2019-01-16
+101285,39,Novosibirsk,regular,2024-02-13
+101286,20,Tomsk,new,2020-02-07
+101287,69,Tomsk,regular,2023-02-10
+101288,31,Moscow,regular,2023-07-03
+101289,23,Saint Petersburg,regular,2024-01-27
+101290,53,Yekaterinburg,regular,2021-06-04
+101291,31,Moscow,premium,2022-12-16
+101292,66,Saint Petersburg,premium,2019-02-27
+101293,43,Moscow,regular,2021-09-06
+101294,18,Moscow,regular,2024-10-13
+101295,72,Novosibirsk,regular,2019-12-14
+101296,47,Yekaterinburg,regular,2019-11-28
+101297,32,Yekaterinburg,regular,2023-03-15
+101298,56,Perm,regular,2022-01-23
+101299,48,Kazan,new,2021-09-24
+101300,19,Saint Petersburg,regular,2020-06-28
+101301,61,Moscow,new,2020-01-11
+101302,40,Moscow,regular,2023-06-05
+101303,57,Saint Petersburg,new,2021-02-23
+101304,69,Moscow,new,2023-08-30
+101305,52,Moscow,regular,2021-08-29
+101306,56,Moscow,regular,2021-05-20
+101307,32,Yekaterinburg,new,2020-05-19
+101308,31,Yekaterinburg,regular,2022-12-14
+101309,41,Tomsk,premium,2020-09-15
+101310,66,Perm,premium,2024-06-15
+101311,47,Novosibirsk,regular,2021-06-14
+101312,37,Moscow,premium,2023-11-22
+101313,62,Novosibirsk,regular,2021-10-27
+101314,66,Moscow,premium,2021-06-28
+101315,69,Kazan,premium,2021-09-20
+101316,35,Kazan,regular,2021-08-25
+101317,58,Kazan,premium,2021-11-15
+101318,51,Saint Petersburg,regular,2024-04-28
+101319,43,Yekaterinburg,regular,2023-03-22
+101320,40,Samara,premium,2019-03-17
+101321,24,Perm,regular,2019-05-08
+101322,33,Yekaterinburg,regular,2019-02-20
+101323,49,Novosibirsk,regular,2023-02-23
+101324,68,Moscow,regular,2020-03-27
+101325,67,Perm,premium,2021-04-24
+101326,28,Novosibirsk,premium,2023-12-20
+101327,56,Saint Petersburg,regular,2019-10-16
+101328,22,Saint Petersburg,premium,2019-12-02
+101329,56,Tomsk,new,2019-06-24
+101330,37,Yekaterinburg,premium,2020-09-17
+101331,43,Kazan,new,2019-07-16
+101332,58,Yekaterinburg,regular,2022-10-10
+101333,42,Kazan,new,2023-06-04
+101334,64,Kazan,regular,2020-02-08
+101335,48,Saint Petersburg,regular,2022-02-23
+101336,74,Kazan,new,2020-10-26
+101337,54,Yekaterinburg,regular,2019-06-25
+101338,34,Moscow,regular,2021-10-20
+101339,62,Perm,new,2023-03-09
+101340,41,Saint Petersburg,regular,2020-05-15
+101341,48,Yekaterinburg,new,2023-09-24
+101342,25,Yekaterinburg,new,2024-12-15
+101343,24,Yekaterinburg,new,2019-05-04
+101344,50,Novosibirsk,regular,2019-12-25
+101345,28,Tomsk,regular,2020-09-26
+101346,74,Novosibirsk,regular,2024-02-07
+101347,66,Perm,regular,2019-11-08
+101348,57,Yekaterinburg,regular,2021-10-27
+101349,59,Moscow,regular,2022-03-23
+101350,51,Saint Petersburg,premium,2019-10-11
+101351,21,Kazan,regular,2019-04-03
+101352,40,Saint Petersburg,new,2019-09-17
+101353,46,Saint Petersburg,new,2019-05-04
+101354,70,Kazan,regular,2022-01-01
+101355,30,Novosibirsk,regular,2024-08-14
+101356,46,Moscow,new,2021-02-13
+101357,37,Perm,premium,2020-07-16
+101358,25,Kazan,premium,2020-05-29
+101359,23,Yekaterinburg,regular,2024-11-21
+101360,38,Moscow,new,2024-10-02
+101361,22,Kazan,new,2022-11-22
+101362,21,Moscow,regular,2021-10-12
+101363,37,Yekaterinburg,premium,2019-12-17
+101364,29,Saint Petersburg,regular,2024-07-28
+101365,49,Tomsk,new,2019-01-03
+101366,19,Saint Petersburg,regular,2019-12-26
+101367,35,Novosibirsk,new,2023-01-27
+101368,43,Saint Petersburg,regular,2020-02-07
+101369,72,Yekaterinburg,regular,2019-08-26
+101370,54,Kazan,regular,2022-07-30
+101371,68,Saint Petersburg,regular,2019-02-27
+101372,37,Moscow,premium,2020-08-14
+101373,43,Moscow,new,2022-11-09
+101374,41,Moscow,regular,2020-02-10
+101375,68,Tomsk,new,2023-07-23
+101376,72,Kazan,regular,2019-07-27
+101377,72,Moscow,premium,2022-09-06
+101378,60,Tomsk,regular,2019-06-17
+101379,46,Moscow,new,2023-05-24
+101380,48,Kazan,regular,2023-07-09
+101381,73,Yekaterinburg,regular,2023-10-09
+101382,34,Tomsk,premium,2020-09-10
+101383,37,Yekaterinburg,regular,2020-06-01
+101384,69,Kazan,new,2024-11-14
+101385,40,Tomsk,regular,2023-05-19
+101386,31,Moscow,new,2020-02-06
+101387,49,Tomsk,new,2019-03-05
+101388,36,Samara,regular,2021-02-15
+101389,68,Tomsk,regular,2022-12-28
+101390,69,Saint Petersburg,new,2021-04-01
+101391,35,Moscow,regular,2023-11-06
+101392,48,Yekaterinburg,regular,2022-01-01
+101393,74,Novosibirsk,regular,2024-12-12
+101394,60,Novosibirsk,new,2024-03-23
+101395,30,Tomsk,regular,2021-10-29
+101396,51,Yekaterinburg,new,2024-01-04
+101397,53,Saint Petersburg,new,2021-09-09
+101398,55,Kazan,regular,2019-01-22
+101399,19,Moscow,regular,2020-11-06
+101400,35,Moscow,new,2021-06-16
+101401,66,Moscow,new,2024-11-10
+101402,31,Samara,premium,2023-12-20
+101403,35,Yekaterinburg,regular,2019-11-18
+101404,36,Novosibirsk,regular,2019-01-01
+101405,28,Saint Petersburg,premium,2022-03-05
+101406,26,Yekaterinburg,new,2022-03-15
+101407,37,Samara,regular,2023-05-31
+101408,67,Samara,regular,2020-07-22
+101409,18,Novosibirsk,regular,2023-11-16
+101410,34,Samara,new,2021-06-23
+101411,21,Novosibirsk,regular,2021-01-03
+101412,50,Kazan,regular,2021-07-10
+101413,32,Samara,regular,2024-09-01
+101414,63,Kazan,regular,2021-05-08
+101415,51,Kazan,regular,2022-05-13
+101416,62,Saint Petersburg,regular,2024-05-09
+101417,54,Novosibirsk,regular,2019-02-10
+101418,42,Novosibirsk,new,2022-03-21
+101419,67,Yekaterinburg,premium,2023-04-02
+101420,45,Kazan,regular,2024-06-04
+101421,72,Moscow,regular,2019-05-15
+101422,74,Samara,regular,2023-05-13
+101423,51,Saint Petersburg,new,2023-10-26
+101424,56,Tomsk,regular,2021-02-08
+101425,32,Moscow,regular,2023-06-24
+101426,64,Novosibirsk,regular,2021-12-17
+101427,56,Novosibirsk,regular,2022-12-13
+101428,69,Samara,premium,2021-05-04
+101429,33,Moscow,regular,2020-01-24
+101430,62,Samara,regular,2023-12-22
+101431,44,Novosibirsk,regular,2020-04-19
+101432,28,Novosibirsk,regular,2020-02-16
+101433,27,Novosibirsk,new,2024-04-26
+101434,50,Moscow,premium,2024-08-14
+101435,36,Kazan,regular,2022-08-28
+101436,23,Saint Petersburg,premium,2022-06-26
+101437,42,Saint Petersburg,new,2021-03-01
+101438,55,Yekaterinburg,new,2022-09-02
+101439,36,Kazan,regular,2022-08-28
+101440,72,Moscow,premium,2022-02-06
+101441,62,Moscow,new,2022-12-07
+101442,47,Moscow,new,2022-04-30
+101443,71,Moscow,new,2024-04-11
+101444,42,Novosibirsk,regular,2023-01-03
+101445,25,Moscow,regular,2021-04-24
+101446,20,Samara,regular,2022-12-06
+101447,71,Moscow,new,2020-05-19
+101448,72,Moscow,regular,2020-04-14
+101449,60,Samara,regular,2023-12-18
+101450,23,Saint Petersburg,new,2022-06-30
+101451,34,Kazan,regular,2019-04-28
+101452,20,Tomsk,regular,2021-02-16
+101453,20,Tomsk,regular,2024-11-27
+101454,32,Yekaterinburg,premium,2022-10-28
+101455,50,Moscow,regular,2024-03-18
+101456,21,Novosibirsk,regular,2022-04-15
+101457,74,Tomsk,regular,2019-04-04
+101458,43,Tomsk,regular,2020-01-29
+101459,33,Moscow,new,2019-07-21
+101460,47,Kazan,regular,2023-05-30
+101461,63,Saint Petersburg,new,2023-07-17
+101462,35,Moscow,regular,2021-09-28
+101463,20,Yekaterinburg,regular,2023-05-07
+101464,20,Saint Petersburg,regular,2022-04-23
+101465,66,Saint Petersburg,regular,2023-06-10
+101466,24,Moscow,new,2023-01-14
+101467,54,Kazan,regular,2021-09-25
+101468,39,Moscow,regular,2022-12-02
+101469,62,Kazan,premium,2020-11-29
+101470,21,Moscow,regular,2023-06-30
+101471,69,Tomsk,premium,2024-06-25
+101472,57,Moscow,regular,2020-03-29
+101473,43,Novosibirsk,regular,2023-01-02
+101474,29,Moscow,new,2019-08-30
+101475,73,Moscow,regular,2021-04-07
+101476,35,Moscow,new,2023-01-06
+101477,45,Moscow,new,2020-08-31
+101478,40,Moscow,premium,2020-06-01
+101479,31,Kazan,regular,2021-04-21
+101480,41,Yekaterinburg,regular,2019-09-09
+101481,26,Moscow,regular,2022-10-02
+101482,18,Kazan,regular,2019-10-15
+101483,34,Novosibirsk,regular,2020-12-31
+101484,24,Moscow,regular,2020-11-16
+101485,41,Saint Petersburg,regular,2024-10-22
+101486,67,Moscow,regular,2024-12-13
+101487,27,Moscow,regular,2019-06-23
+101488,18,Kazan,premium,2019-12-11
+101489,24,Tomsk,new,2023-05-24
+101490,46,Tomsk,regular,2020-10-16
+101491,33,Tomsk,premium,2022-11-12
+101492,45,Kazan,new,2024-07-11
+101493,19,Moscow,new,2019-12-23
+101494,36,Saint Petersburg,regular,2024-10-12
+101495,41,Moscow,regular,2019-04-26
+101496,42,Moscow,premium,2020-05-16
+101497,49,Moscow,regular,2022-01-17
+101498,62,Kazan,regular,2024-04-13
+101499,44,Saint Petersburg,premium,2022-04-29
+101500,65,Moscow,regular,2019-11-01
+101501,48,Yekaterinburg,premium,2020-06-29
+101502,32,Saint Petersburg,new,2023-07-28
+101503,31,Samara,regular,2022-05-15
+101504,36,Saint Petersburg,new,2019-01-29
+101505,52,Novosibirsk,new,2022-01-04
+101506,31,Moscow,regular,2021-06-10
+101507,70,Kazan,new,2019-01-02
+101508,45,Moscow,regular,2020-06-26
+101509,67,Moscow,regular,2024-08-12
+101510,56,Yekaterinburg,new,2023-03-24
+101511,37,Saint Petersburg,regular,2019-06-05
+101512,31,Moscow,regular,2019-02-05
+101513,60,Tomsk,premium,2021-01-28
+101514,36,Moscow,regular,2021-10-16
+101515,32,Novosibirsk,premium,2021-09-21
+101516,71,Novosibirsk,regular,2023-03-08
+101517,45,Saint Petersburg,regular,2020-01-16
+101518,20,Kazan,regular,2019-04-13
+101519,46,Moscow,regular,2023-01-14
+101520,44,Perm,regular,2024-05-21
+101521,67,Moscow,regular,2020-01-03
+101522,58,Moscow,premium,2021-03-02
+101523,28,Saint Petersburg,premium,2022-10-05
+101524,26,Samara,regular,2019-12-29
+101525,52,Perm,regular,2024-02-29
+101526,20,Tomsk,regular,2020-05-09
+101527,36,Yekaterinburg,regular,2022-03-13
+101528,25,Yekaterinburg,regular,2021-01-12
+101529,19,Kazan,new,2023-01-02
+101530,70,Samara,new,2020-03-10
+101531,23,Novosibirsk,regular,2019-08-04
+101532,18,Saint Petersburg,premium,2022-01-24
+101533,71,Yekaterinburg,regular,2024-03-11
+101534,28,Novosibirsk,premium,2022-10-19
+101535,64,Moscow,regular,2023-07-15
+101536,19,Kazan,regular,2021-08-08
+101537,26,Saint Petersburg,premium,2019-11-04
+101538,24,Samara,regular,2021-07-25
+101539,58,Saint Petersburg,regular,2024-12-04
+101540,53,Samara,new,2023-09-10
+101541,45,Kazan,new,2023-03-23
+101542,31,Perm,new,2020-10-21
+101543,23,Moscow,regular,2022-08-07
+101544,50,Tomsk,regular,2022-09-27
+101545,31,Kazan,regular,2022-12-05
+101546,51,Saint Petersburg,new,2024-05-11
+101547,57,Saint Petersburg,regular,2023-02-03
+101548,66,Saint Petersburg,regular,2020-04-30
+101549,46,Saint Petersburg,premium,2020-04-30
+101550,18,Yekaterinburg,regular,2022-09-20
+101551,33,Tomsk,new,2024-03-13
+101552,66,Yekaterinburg,regular,2024-09-08
+101553,48,Novosibirsk,premium,2022-08-29
+101554,53,Kazan,regular,2022-03-07
+101555,44,Samara,regular,2023-11-24
+101556,27,Samara,premium,2024-11-11
+101557,69,Saint Petersburg,regular,2019-03-03
+101558,62,Tomsk,premium,2020-11-10
+101559,74,Kazan,new,2021-01-01
+101560,66,Perm,regular,2022-05-21
+101561,34,Tomsk,premium,2020-10-08
+101562,32,Yekaterinburg,premium,2020-11-12
+101563,32,Moscow,regular,2019-02-23
+101564,70,Novosibirsk,regular,2019-01-09
+101565,49,Moscow,new,2021-09-13
+101566,43,Perm,regular,2024-12-26
+101567,73,Saint Petersburg,regular,2020-10-10
+101568,52,Yekaterinburg,regular,2020-06-10
+101569,69,Tomsk,regular,2020-08-02
+101570,74,Moscow,regular,2024-11-03
+101571,22,Kazan,new,2022-12-26
+101572,38,Yekaterinburg,regular,2022-12-02
+101573,59,Kazan,regular,2020-02-20
+101574,64,Moscow,regular,2024-06-04
+101575,26,Moscow,regular,2020-03-07
+101576,36,Kazan,new,2024-10-21
+101577,49,Yekaterinburg,regular,2024-09-18
+101578,63,Novosibirsk,regular,2022-05-29
+101579,24,Moscow,new,2024-03-18
+101580,52,Kazan,regular,2024-12-31
+101581,34,Saint Petersburg,regular,2022-06-26
+101582,30,Saint Petersburg,regular,2023-08-09
+101583,47,Perm,new,2022-07-18
+101584,41,Saint Petersburg,new,2022-02-22
+101585,54,Novosibirsk,new,2021-01-03
+101586,36,Tomsk,new,2022-12-06
+101587,64,Novosibirsk,regular,2020-08-08
+101588,22,Yekaterinburg,regular,2020-03-01
+101589,67,Moscow,regular,2020-08-26
+101590,19,Moscow,regular,2019-01-25
+101591,59,Moscow,regular,2024-08-09
+101592,37,Perm,regular,2020-07-16
+101593,39,Samara,new,2023-10-20
+101594,19,Moscow,new,2021-08-11
+101595,58,Moscow,new,2021-01-14
+101596,27,Saint Petersburg,regular,2020-05-14
+101597,55,Novosibirsk,regular,2023-12-05
+101598,59,Yekaterinburg,regular,2022-01-31
+101599,66,Yekaterinburg,regular,2021-09-12
+101600,58,Samara,premium,2022-12-13
+101601,35,Saint Petersburg,regular,2023-10-26
+101602,60,Yekaterinburg,regular,2022-12-08
+101603,65,Novosibirsk,regular,2021-10-22
+101604,36,Saint Petersburg,regular,2024-05-13
+101605,25,Samara,regular,2024-05-17
+101606,68,Moscow,regular,2024-10-19
+101607,26,Yekaterinburg,new,2019-07-19
+101608,51,Perm,regular,2024-05-06
+101609,31,Tomsk,regular,2020-02-28
+101610,25,Novosibirsk,regular,2022-09-21
+101611,62,Saint Petersburg,premium,2022-12-13
+101612,26,Samara,regular,2020-03-27
+101613,56,Perm,regular,2019-01-18
+101614,57,Novosibirsk,regular,2024-08-30
+101615,21,Perm,regular,2024-05-07
+101616,27,Saint Petersburg,regular,2020-01-19
+101617,63,Novosibirsk,new,2022-08-11
+101618,46,Samara,regular,2019-11-28
+101619,24,Saint Petersburg,regular,2022-05-26
+101620,74,Kazan,premium,2020-11-27
+101621,33,Tomsk,regular,2023-07-06
+101622,18,Perm,premium,2022-06-11
+101623,70,Samara,premium,2021-12-27
+101624,18,Kazan,regular,2023-02-02
+101625,49,Tomsk,premium,2021-11-08
+101626,74,Moscow,premium,2019-01-30
+101627,50,Novosibirsk,regular,2022-07-30
+101628,51,Kazan,regular,2023-09-02
+101629,40,Perm,regular,2021-12-10
+101630,25,Samara,regular,2020-01-19
+101631,50,Perm,new,2019-01-18
+101632,69,Yekaterinburg,regular,2020-10-11
+101633,23,Kazan,regular,2023-08-11
+101634,68,Novosibirsk,regular,2020-12-07
+101635,41,Novosibirsk,new,2024-09-26
+101636,48,Moscow,regular,2020-12-29
+101637,27,Novosibirsk,regular,2021-07-26
+101638,53,Samara,regular,2023-07-25
+101639,28,Yekaterinburg,regular,2022-09-07
+101640,33,Perm,new,2019-03-31
+101641,59,Kazan,regular,2019-06-17
+101642,20,Novosibirsk,premium,2020-03-06
+101643,43,Moscow,new,2024-03-25
+101644,51,Kazan,regular,2019-02-18
+101645,25,Kazan,new,2019-06-06
+101646,34,Saint Petersburg,regular,2023-09-03
+101647,37,Moscow,new,2022-09-27
+101648,55,Yekaterinburg,regular,2024-11-26
+101649,73,Kazan,regular,2020-04-26
+101650,65,Kazan,new,2022-12-16
+101651,28,Saint Petersburg,regular,2019-10-22
+101652,19,Novosibirsk,regular,2022-07-17
+101653,20,Kazan,regular,2019-08-21
+101654,51,Kazan,premium,2024-06-13
+101655,26,Novosibirsk,regular,2021-06-30
+101656,31,Moscow,premium,2020-07-12
+101657,66,Samara,regular,2024-11-28
+101658,67,Moscow,new,2019-05-26
+101659,65,Kazan,new,2023-10-20
+101660,32,Moscow,regular,2022-01-22
+101661,53,Novosibirsk,regular,2023-02-16
+101662,52,Saint Petersburg,premium,2020-07-24
+101663,28,Samara,regular,2024-04-15
+101664,49,Kazan,regular,2021-09-15
+101665,47,Yekaterinburg,regular,2021-07-06
+101666,40,Saint Petersburg,regular,2021-09-27
+101667,60,Moscow,regular,2020-10-11
+101668,56,Kazan,new,2020-11-29
+101669,48,Novosibirsk,new,2019-11-04
+101670,59,Kazan,regular,2021-12-02
+101671,61,Tomsk,new,2021-11-06
+101672,50,Yekaterinburg,regular,2021-04-13
+101673,33,Tomsk,new,2024-11-30
+101674,61,Saint Petersburg,new,2019-09-05
+101675,58,Perm,premium,2024-06-18
+101676,74,Novosibirsk,premium,2024-03-14
+101677,26,Yekaterinburg,regular,2019-02-18
+101678,41,Tomsk,regular,2023-03-18
+101679,70,Yekaterinburg,regular,2020-04-03
+101680,47,Samara,new,2019-04-01
+101681,71,Perm,regular,2024-03-02
+101682,18,Moscow,new,2019-09-11
+101683,20,Yekaterinburg,regular,2020-10-17
+101684,63,Kazan,premium,2019-07-31
+101685,38,Tomsk,regular,2019-11-08
+101686,47,Perm,premium,2019-05-16
+101687,42,Moscow,regular,2024-01-21
+101688,41,Moscow,regular,2019-05-10
+101689,71,Moscow,regular,2023-07-23
+101690,23,Kazan,regular,2019-12-11
+101691,62,Moscow,regular,2024-06-28
+101692,68,Perm,regular,2024-02-02
+101693,55,Novosibirsk,regular,2022-10-11
+101694,40,Samara,regular,2023-12-21
+101695,27,Saint Petersburg,regular,2020-10-15
+101696,56,Novosibirsk,new,2023-09-13
+101697,44,Moscow,regular,2020-04-30
+101698,26,Samara,new,2022-09-09
+101699,38,Moscow,regular,2024-07-08
+101700,72,Moscow,regular,2023-05-05
+101701,33,Moscow,new,2020-08-13
+101702,28,Perm,premium,2023-06-07
+101703,56,Moscow,regular,2024-04-20
+101704,29,Yekaterinburg,regular,2024-05-03
+101705,70,Perm,new,2023-06-09
+101706,66,Perm,regular,2023-05-25
+101707,74,Moscow,regular,2023-09-17
+101708,70,Moscow,regular,2023-06-03
+101709,31,Kazan,new,2019-10-21
+101710,30,Moscow,regular,2023-10-29
+101711,37,Yekaterinburg,premium,2020-01-30
+101712,44,Saint Petersburg,regular,2022-05-04
+101713,68,Kazan,new,2021-01-14
+101714,59,Moscow,new,2020-04-11
+101715,54,Novosibirsk,new,2020-09-09
+101716,68,Moscow,regular,2019-07-05
+101717,54,Yekaterinburg,premium,2021-08-21
+101718,39,Moscow,premium,2021-07-07
+101719,41,Tomsk,regular,2021-06-03
+101720,47,Yekaterinburg,new,2019-07-20
+101721,23,Moscow,premium,2022-08-23
+101722,60,Moscow,regular,2020-01-07
+101723,55,Saint Petersburg,regular,2024-02-20
+101724,59,Moscow,regular,2019-02-22
+101725,48,Moscow,new,2019-05-02
+101726,62,Samara,regular,2020-10-20
+101727,72,Novosibirsk,premium,2021-06-13
+101728,50,Moscow,regular,2024-10-27
+101729,43,Novosibirsk,regular,2022-02-25
+101730,23,Saint Petersburg,regular,2021-04-10
+101731,62,Tomsk,new,2024-01-11
+101732,69,Moscow,regular,2020-06-12
+101733,57,Perm,regular,2024-05-20
+101734,67,Perm,premium,2021-06-03
+101735,67,Moscow,new,2020-11-16
+101736,63,Moscow,regular,2020-10-22
+101737,46,Kazan,regular,2019-01-22
+101738,23,Samara,regular,2023-01-17
+101739,18,Novosibirsk,regular,2022-06-19
+101740,29,Yekaterinburg,premium,2022-10-22
+101741,42,Perm,regular,2022-11-29
+101742,60,Samara,regular,2019-03-01
+101743,43,Kazan,new,2024-04-07
+101744,19,Novosibirsk,regular,2022-01-25
+101745,29,Yekaterinburg,regular,2023-02-24
+101746,73,Saint Petersburg,regular,2019-03-21
+101747,74,Samara,regular,2023-07-27
+101748,39,Moscow,regular,2023-01-24
+101749,63,Moscow,regular,2021-03-18
+101750,59,Perm,regular,2024-08-13
+101751,71,Saint Petersburg,new,2022-11-27
+101752,68,Moscow,regular,2024-06-12
+101753,53,Moscow,regular,2023-12-06
+101754,40,Novosibirsk,regular,2020-03-26
+101755,53,Samara,regular,2024-12-24
+101756,36,Moscow,new,2023-06-16
+101757,37,Moscow,regular,2020-02-20
+101758,52,Kazan,premium,2023-10-05
+101759,50,Tomsk,regular,2021-07-29
+101760,51,Saint Petersburg,regular,2024-03-09
+101761,39,Tomsk,premium,2020-01-15
+101762,41,Samara,new,2020-07-23
+101763,18,Saint Petersburg,regular,2021-01-31
+101764,52,Samara,premium,2021-09-15
+101765,50,Yekaterinburg,new,2022-10-15
+101766,71,Novosibirsk,regular,2020-04-30
+101767,46,Kazan,regular,2023-03-27
+101768,44,Samara,premium,2019-02-23
+101769,21,Perm,premium,2020-12-26
+101770,29,Perm,premium,2022-12-15
+101771,37,Tomsk,new,2020-08-03
+101772,39,Kazan,regular,2021-08-03
+101773,38,Perm,premium,2022-08-21
+101774,40,Samara,regular,2020-06-27
+101775,61,Moscow,regular,2024-10-14
+101776,25,Moscow,new,2024-01-31
+101777,36,Kazan,premium,2024-10-29
+101778,27,Samara,new,2021-12-22
+101779,35,Saint Petersburg,regular,2021-01-22
+101780,57,Yekaterinburg,premium,2024-12-20
+101781,20,Moscow,premium,2023-05-16
+101782,37,Saint Petersburg,premium,2023-10-06
+101783,19,Yekaterinburg,regular,2020-02-05
+101784,72,Moscow,new,2024-03-20
+101785,59,Samara,regular,2022-03-03
+101786,31,Moscow,new,2023-08-23
+101787,29,Samara,premium,2023-12-14
+101788,23,Moscow,regular,2019-08-21
+101789,44,Tomsk,regular,2019-08-06
+101790,60,Novosibirsk,new,2019-05-23
+101791,51,Moscow,regular,2022-11-10
+101792,68,Moscow,premium,2024-06-28
+101793,37,Moscow,regular,2019-03-08
+101794,33,Novosibirsk,new,2019-10-30
+101795,45,Perm,new,2021-12-01
+101796,29,Kazan,regular,2021-05-07
+101797,73,Kazan,new,2019-08-14
+101798,28,Novosibirsk,premium,2022-08-29
+101799,45,Novosibirsk,regular,2024-06-07
+101800,47,Yekaterinburg,new,2020-04-09
+101801,21,Kazan,regular,2019-01-07
+101802,44,Yekaterinburg,regular,2020-05-08
+101803,43,Tomsk,new,2020-02-09
+101804,32,Saint Petersburg,regular,2021-10-19
+101805,25,Moscow,new,2019-08-24
+101806,20,Moscow,regular,2021-03-02
+101807,18,Novosibirsk,regular,2019-09-19
+101808,45,Saint Petersburg,premium,2023-01-23
+101809,23,Tomsk,regular,2021-10-25
+101810,72,Yekaterinburg,regular,2019-06-14
+101811,31,Novosibirsk,new,2019-04-06
+101812,55,Perm,regular,2021-12-07
+101813,56,Saint Petersburg,regular,2022-07-21
+101814,46,Samara,regular,2020-01-17
+101815,68,Moscow,new,2020-12-10
+101816,24,Yekaterinburg,premium,2022-08-22
+101817,31,Tomsk,premium,2021-10-29
+101818,32,Perm,regular,2019-09-12
+101819,25,Samara,regular,2021-05-07
+101820,34,Kazan,new,2020-03-09
+101821,35,Samara,regular,2024-07-24
+101822,61,Novosibirsk,regular,2023-10-29
+101823,35,Yekaterinburg,new,2020-11-14
+101824,67,Moscow,regular,2020-05-30
+101825,62,Moscow,regular,2019-10-23
+101826,69,Novosibirsk,regular,2023-06-04
+101827,23,Moscow,regular,2024-07-05
+101828,74,Perm,new,2020-08-21
+101829,52,Samara,new,2022-11-03
+101830,73,Tomsk,regular,2020-05-30
+101831,38,Moscow,regular,2024-07-03
+101832,72,Tomsk,new,2020-10-17
+101833,51,Moscow,regular,2019-07-30
+101834,22,Kazan,regular,2024-04-15
+101835,41,Samara,regular,2024-09-03
+101836,25,Moscow,regular,2021-05-20
+101837,71,Moscow,regular,2024-06-11
+101838,35,Moscow,regular,2020-06-18
+101839,30,Novosibirsk,regular,2020-08-16
+101840,49,Samara,regular,2022-03-22
+101841,42,Moscow,new,2022-08-09
+101842,23,Moscow,new,2021-04-25
+101843,64,Novosibirsk,regular,2023-10-19
+101844,66,Moscow,new,2023-09-29
+101845,60,Perm,regular,2019-09-23
+101846,53,Tomsk,regular,2024-12-11
+101847,40,Perm,regular,2019-12-15
+101848,48,Samara,regular,2022-02-28
+101849,47,Novosibirsk,regular,2021-07-16
+101850,27,Samara,new,2021-09-17
+101851,22,Moscow,regular,2019-10-09
+101852,32,Moscow,regular,2021-01-21
+101853,43,Yekaterinburg,regular,2019-03-08
+101854,27,Moscow,regular,2024-11-03
+101855,24,Samara,regular,2019-11-12
+101856,66,Yekaterinburg,regular,2021-11-25
+101857,39,Tomsk,premium,2020-04-18
+101858,51,Saint Petersburg,regular,2020-01-26
+101859,47,Kazan,regular,2021-05-05
+101860,59,Perm,new,2024-10-25
+101861,60,Saint Petersburg,regular,2021-11-14
+101862,34,Novosibirsk,regular,2024-10-07
+101863,66,Yekaterinburg,regular,2023-12-18
+101864,39,Tomsk,regular,2021-08-13
+101865,65,Perm,regular,2024-05-29
+101866,41,Moscow,regular,2021-02-02
+101867,24,Kazan,regular,2022-01-04
+101868,61,Novosibirsk,regular,2023-01-31
+101869,19,Moscow,regular,2022-07-16
+101870,62,Kazan,regular,2023-12-23
+101871,20,Saint Petersburg,premium,2019-12-24
+101872,29,Moscow,new,2021-12-28
+101873,52,Novosibirsk,regular,2022-12-28
+101874,71,Moscow,premium,2020-12-26
+101875,41,Novosibirsk,regular,2024-03-15
+101876,24,Moscow,new,2020-10-22
+101877,31,Perm,premium,2020-10-22
+101878,69,Moscow,new,2020-12-16
+101879,59,Samara,regular,2023-01-22
+101880,23,Moscow,new,2019-09-16
+101881,39,Novosibirsk,regular,2019-11-10
+101882,33,Saint Petersburg,regular,2023-09-03
+101883,28,Moscow,regular,2020-03-30
+101884,66,Kazan,premium,2019-08-19
+101885,53,Samara,regular,2020-07-31
+101886,28,Tomsk,regular,2021-05-23
+101887,55,Saint Petersburg,premium,2019-03-14
+101888,41,Moscow,regular,2024-01-05
+101889,21,Perm,new,2019-09-15
+101890,43,Novosibirsk,new,2021-06-04
+101891,28,Moscow,regular,2020-03-19
+101892,31,Perm,regular,2020-10-08
+101893,68,Novosibirsk,regular,2019-04-10
+101894,58,Yekaterinburg,new,2024-09-09
+101895,25,Saint Petersburg,regular,2024-08-16
+101896,66,Kazan,regular,2019-10-05
+101897,50,Moscow,regular,2020-03-08
+101898,67,Perm,premium,2024-04-23
+101899,60,Moscow,regular,2021-06-28
+101900,37,Perm,regular,2019-05-17
+101901,48,Perm,regular,2019-10-25
+101902,48,Perm,regular,2021-06-25
+101903,59,Moscow,regular,2022-05-08
+101904,32,Saint Petersburg,regular,2022-10-16
+101905,36,Kazan,regular,2019-12-02
+101906,31,Novosibirsk,regular,2021-03-22
+101907,34,Tomsk,regular,2020-07-26
+101908,27,Saint Petersburg,new,2022-03-17
+101909,20,Samara,regular,2020-12-05
+101910,71,Moscow,regular,2020-03-23
+101911,22,Saint Petersburg,regular,2023-11-22
+101912,68,Moscow,regular,2022-06-01
+101913,18,Perm,new,2021-11-04
+101914,62,Moscow,premium,2019-10-22
+101915,36,Saint Petersburg,premium,2019-06-05
+101916,47,Perm,regular,2023-10-12
+101917,34,Novosibirsk,regular,2024-10-24
+101918,45,Moscow,regular,2022-07-03
+101919,43,Moscow,regular,2019-03-27
+101920,48,Novosibirsk,premium,2021-11-22
+101921,40,Saint Petersburg,new,2020-09-06
+101922,48,Moscow,new,2019-04-30
+101923,65,Yekaterinburg,regular,2019-11-09
+101924,42,Moscow,new,2021-12-31
+101925,38,Novosibirsk,regular,2021-07-24
+101926,25,Saint Petersburg,regular,2022-05-20
+101927,38,Moscow,new,2023-02-28
+101928,25,Moscow,regular,2020-08-05
+101929,28,Moscow,regular,2020-09-19
+101930,72,Moscow,regular,2023-01-25
+101931,23,Saint Petersburg,regular,2020-03-08
+101932,45,Samara,new,2019-06-18
+101933,65,Samara,regular,2024-02-15
+101934,72,Saint Petersburg,regular,2020-04-02
+101935,26,Novosibirsk,regular,2019-09-22
+101936,27,Novosibirsk,regular,2023-06-05
+101937,39,Samara,regular,2022-03-11
+101938,49,Moscow,regular,2019-11-19
+101939,72,Saint Petersburg,regular,2024-02-08
+101940,29,Saint Petersburg,new,2020-06-22
+101941,27,Moscow,regular,2023-01-21
+101942,32,Saint Petersburg,premium,2022-11-27
+101943,67,Samara,regular,2023-12-24
+101944,19,Tomsk,regular,2023-05-17
+101945,39,Moscow,regular,2023-03-22
+101946,24,Kazan,regular,2019-04-23
+101947,26,Kazan,regular,2024-08-18
+101948,70,Kazan,regular,2019-10-05
+101949,18,Novosibirsk,new,2020-07-09
+101950,36,Moscow,regular,2021-09-04
+101951,70,Samara,premium,2020-09-24
+101952,52,Tomsk,regular,2022-07-23
+101953,22,Yekaterinburg,regular,2019-04-26
+101954,44,Yekaterinburg,regular,2021-09-21
+101955,73,Novosibirsk,regular,2021-02-05
+101956,40,Saint Petersburg,new,2022-11-19
+101957,48,Moscow,new,2022-02-13
+101958,48,Novosibirsk,new,2023-07-16
+101959,55,Moscow,regular,2019-12-27
+101960,28,Samara,premium,2024-09-12
+101961,65,Kazan,premium,2021-05-09
+101962,74,Kazan,new,2021-02-05
+101963,26,Saint Petersburg,regular,2022-04-16
+101964,64,Tomsk,new,2019-12-24
+101965,64,Moscow,premium,2023-11-21
+101966,60,Moscow,new,2020-08-01
+101967,39,Moscow,new,2024-07-25
+101968,44,Yekaterinburg,regular,2019-11-21
+101969,65,Tomsk,regular,2024-03-09
+101970,26,Moscow,new,2021-05-14
+101971,65,Samara,regular,2022-08-24
+101972,70,Saint Petersburg,new,2024-03-27
+101973,56,Yekaterinburg,new,2019-10-11
+101974,37,Moscow,new,2021-01-30
+101975,49,Kazan,regular,2024-09-09
+101976,20,Yekaterinburg,premium,2019-11-23
+101977,71,Novosibirsk,regular,2019-08-14
+101978,37,Moscow,regular,2022-02-19
+101979,21,Samara,regular,2019-02-24
+101980,63,Tomsk,regular,2024-12-14
+101981,55,Kazan,premium,2024-06-04
+101982,53,Yekaterinburg,regular,2020-02-17
+101983,21,Perm,premium,2020-01-14
+101984,60,Saint Petersburg,regular,2023-09-02
+101985,54,Samara,regular,2022-02-15
+101986,63,Saint Petersburg,regular,2023-12-10
+101987,65,Perm,regular,2024-10-22
+101988,30,Moscow,regular,2021-05-29
+101989,30,Saint Petersburg,premium,2020-07-10
+101990,70,Novosibirsk,premium,2022-09-20
+101991,48,Novosibirsk,regular,2022-10-23
+101992,42,Samara,premium,2021-08-05
+101993,34,Tomsk,premium,2020-10-17
+101994,54,Moscow,regular,2020-07-29
+101995,60,Saint Petersburg,new,2022-02-17
+101996,18,Saint Petersburg,new,2021-07-23
+101997,49,Kazan,new,2021-09-29
+101998,74,Kazan,new,2019-07-28
+101999,33,Samara,premium,2024-04-14
+102000,34,Perm,new,2023-03-30
+102001,68,Moscow,regular,2024-07-07
+102002,21,Kazan,regular,2023-12-23
+102003,40,Yekaterinburg,regular,2022-09-18
+102004,44,Kazan,new,2020-11-04
+102005,63,Moscow,regular,2022-12-04
+102006,25,Kazan,regular,2022-05-26
+102007,42,Kazan,regular,2024-07-17
+102008,26,Moscow,new,2020-05-23
+102009,62,Perm,regular,2019-02-26
+102010,54,Saint Petersburg,new,2019-10-07
+102011,46,Novosibirsk,regular,2020-01-19
+102012,40,Novosibirsk,regular,2022-12-25
+102013,26,Samara,regular,2019-11-18
+102014,70,Moscow,regular,2019-10-21
+102015,54,Moscow,new,2021-05-20
+102016,36,Saint Petersburg,premium,2023-09-11
+102017,41,Kazan,premium,2021-07-19
+102018,59,Saint Petersburg,regular,2020-08-18
+102019,59,Perm,regular,2020-09-15
+102020,44,Saint Petersburg,new,2023-11-30
+102021,35,Moscow,premium,2021-08-07
+102022,55,Kazan,regular,2021-03-18
+102023,55,Perm,new,2023-08-23
+102024,52,Samara,regular,2021-03-19
+102025,22,Perm,new,2021-02-21
+102026,44,Novosibirsk,regular,2023-07-04
+102027,52,Perm,regular,2020-12-18
+102028,72,Yekaterinburg,new,2022-01-23
+102029,47,Moscow,regular,2022-12-27
+102030,37,Novosibirsk,regular,2020-03-16
+102031,49,Perm,regular,2019-10-09
+102032,28,Saint Petersburg,regular,2024-02-08
+102033,23,Yekaterinburg,premium,2020-10-13
+102034,56,Kazan,regular,2021-01-15
+102035,74,Novosibirsk,premium,2022-07-16
+102036,66,Moscow,regular,2019-08-14
+102037,51,Yekaterinburg,premium,2019-04-10
+102038,20,Samara,new,2021-06-30
+102039,74,Moscow,regular,2024-10-23
+102040,43,Saint Petersburg,new,2022-06-12
+102041,34,Moscow,premium,2022-06-21
+102042,68,Moscow,premium,2022-08-29
+102043,60,Tomsk,regular,2024-03-02
+102044,60,Kazan,regular,2024-01-06
+102045,33,Saint Petersburg,regular,2019-02-23
+102046,74,Saint Petersburg,regular,2022-04-01
+102047,43,Tomsk,regular,2022-04-13
+102048,48,Saint Petersburg,regular,2020-05-05
+102049,60,Perm,regular,2024-11-07
+102050,55,Saint Petersburg,new,2020-07-27
+102051,27,Moscow,premium,2024-01-02
+102052,35,Yekaterinburg,new,2019-08-10
+102053,38,Moscow,regular,2022-08-12
+102054,72,Yekaterinburg,new,2023-06-02
+102055,58,Saint Petersburg,new,2022-01-10
+102056,38,Perm,new,2019-08-21
+102057,59,Perm,regular,2019-09-29
+102058,60,Perm,regular,2022-08-20
+102059,40,Moscow,regular,2024-03-05
+102060,40,Yekaterinburg,regular,2022-08-01
+102061,68,Tomsk,regular,2019-08-10
+102062,50,Saint Petersburg,new,2023-09-18
+102063,26,Saint Petersburg,new,2021-10-03
+102064,59,Samara,regular,2019-06-13
+102065,51,Moscow,regular,2021-03-17
+102066,47,Yekaterinburg,regular,2020-03-20
+102067,59,Perm,new,2024-12-02
+102068,69,Moscow,regular,2024-06-16
+102069,36,Novosibirsk,new,2019-08-21
+102070,41,Novosibirsk,regular,2022-06-08
+102071,28,Saint Petersburg,new,2019-01-16
+102072,54,Samara,regular,2021-09-30
+102073,40,Moscow,regular,2019-12-08
+102074,37,Saint Petersburg,regular,2023-06-27
+102075,57,Samara,new,2019-06-07
+102076,41,Moscow,regular,2024-06-01
+102077,44,Samara,new,2020-05-21
+102078,43,Moscow,regular,2020-07-30
+102079,32,Kazan,new,2024-04-25
+102080,25,Moscow,new,2024-05-30
+102081,65,Yekaterinburg,regular,2019-07-30
+102082,23,Perm,new,2019-08-27
+102083,36,Samara,new,2024-02-14
+102084,56,Tomsk,regular,2024-11-13
+102085,25,Yekaterinburg,regular,2021-12-07
+102086,55,Perm,premium,2019-12-28
+102087,59,Novosibirsk,regular,2019-12-01
+102088,55,Tomsk,regular,2020-08-06
+102089,35,Yekaterinburg,regular,2023-02-11
+102090,19,Samara,new,2019-07-31
+102091,68,Moscow,regular,2022-11-07
+102092,36,Kazan,new,2023-10-28
+102093,63,Perm,premium,2019-11-11
+102094,29,Moscow,regular,2024-11-27
+102095,27,Moscow,regular,2024-12-04
+102096,62,Tomsk,regular,2020-10-12
+102097,71,Kazan,new,2019-09-03
+102098,67,Moscow,regular,2020-12-14
+102099,60,Saint Petersburg,regular,2020-07-20
+102100,32,Kazan,regular,2020-09-03
+102101,70,Yekaterinburg,regular,2024-07-20
+102102,56,Tomsk,new,2019-12-06
+102103,27,Tomsk,regular,2020-11-25
+102104,25,Yekaterinburg,regular,2023-09-23
+102105,67,Yekaterinburg,new,2019-05-07
+102106,33,Saint Petersburg,premium,2019-05-14
+102107,61,Samara,regular,2020-10-23
+102108,25,Moscow,regular,2024-10-22
+102109,33,Moscow,premium,2024-01-15
+102110,34,Tomsk,regular,2024-07-25
+102111,34,Samara,premium,2024-03-08
+102112,56,Saint Petersburg,regular,2019-09-17
+102113,70,Yekaterinburg,regular,2021-05-28
+102114,69,Kazan,new,2022-03-06
+102115,60,Saint Petersburg,new,2020-01-01
+102116,29,Saint Petersburg,regular,2024-12-16
+102117,72,Moscow,new,2022-08-14
+102118,48,Novosibirsk,new,2024-02-12
+102119,49,Kazan,regular,2020-07-20
+102120,57,Novosibirsk,regular,2023-04-17
+102121,61,Moscow,new,2019-08-21
+102122,72,Tomsk,regular,2019-02-19
+102123,51,Yekaterinburg,premium,2022-11-05
+102124,52,Samara,regular,2019-05-30
+102125,60,Moscow,regular,2020-08-28
+102126,32,Yekaterinburg,regular,2023-10-07
+102127,35,Samara,new,2021-12-26
+102128,53,Saint Petersburg,regular,2021-04-05
+102129,21,Moscow,premium,2020-09-28
+102130,36,Saint Petersburg,regular,2023-01-05
+102131,58,Saint Petersburg,regular,2024-09-23
+102132,73,Kazan,premium,2023-06-09
+102133,47,Saint Petersburg,new,2021-02-25
+102134,40,Saint Petersburg,regular,2021-07-14
+102135,43,Yekaterinburg,regular,2019-08-14
+102136,57,Moscow,new,2019-11-11
+102137,49,Saint Petersburg,regular,2020-08-10
+102138,19,Yekaterinburg,regular,2021-04-27
+102139,48,Moscow,regular,2024-12-10
+102140,40,Moscow,regular,2024-03-24
+102141,57,Moscow,regular,2019-09-05
+102142,67,Moscow,new,2020-12-26
+102143,72,Kazan,premium,2019-05-04
+102144,52,Moscow,new,2019-05-18
+102145,38,Saint Petersburg,premium,2021-04-01
+102146,43,Tomsk,regular,2024-10-03
+102147,28,Tomsk,regular,2020-02-10
+102148,71,Moscow,regular,2023-02-01
+102149,66,Saint Petersburg,new,2021-05-10
+102150,66,Kazan,regular,2022-03-31
+102151,36,Samara,regular,2024-03-20
+102152,36,Perm,regular,2023-12-23
+102153,66,Moscow,new,2023-12-21
+102154,49,Moscow,regular,2021-06-20
+102155,58,Kazan,premium,2019-04-17
+102156,45,Samara,regular,2024-11-29
+102157,43,Samara,regular,2024-12-18
+102158,54,Moscow,new,2024-02-23
+102159,64,Novosibirsk,premium,2021-11-12
+102160,37,Moscow,regular,2020-09-06
+102161,64,Yekaterinburg,regular,2020-01-18
+102162,31,Tomsk,regular,2021-03-24
+102163,40,Kazan,regular,2021-01-03
+102164,70,Moscow,regular,2020-08-27
+102165,72,Novosibirsk,new,2024-09-13
+102166,70,Kazan,regular,2022-12-16
+102167,36,Samara,premium,2020-05-03
+102168,66,Saint Petersburg,premium,2022-11-02
+102169,71,Samara,premium,2023-03-26
+102170,73,Saint Petersburg,premium,2022-02-19
+102171,19,Moscow,regular,2024-09-06
+102172,60,Saint Petersburg,premium,2024-10-18
+102173,74,Moscow,premium,2021-08-05
+102174,61,Saint Petersburg,regular,2021-11-01
+102175,31,Yekaterinburg,regular,2020-04-20
+102176,61,Moscow,new,2023-09-14
+102177,23,Moscow,regular,2024-08-02
+102178,45,Moscow,regular,2022-12-13
+102179,53,Moscow,regular,2020-03-16
+102180,44,Samara,regular,2022-02-09
+102181,57,Tomsk,regular,2023-10-08
+102182,31,Moscow,new,2019-04-03
+102183,52,Perm,premium,2022-07-17
+102184,54,Perm,regular,2022-12-12
+102185,54,Tomsk,new,2022-03-22
+102186,34,Saint Petersburg,new,2022-11-09
+102187,35,Saint Petersburg,premium,2024-05-17
+102188,32,Kazan,premium,2019-10-01
+102189,44,Samara,new,2022-06-04
+102190,51,Perm,new,2023-10-11
+102191,38,Kazan,regular,2023-12-07
+102192,41,Saint Petersburg,new,2021-10-20
+102193,34,Perm,regular,2024-12-26
+102194,30,Samara,new,2020-12-11
+102195,55,Kazan,regular,2021-08-23
+102196,64,Yekaterinburg,regular,2023-12-12
+102197,34,Kazan,regular,2021-08-20
+102198,67,Kazan,regular,2021-01-22
+102199,50,Novosibirsk,new,2022-05-03
+102200,27,Perm,new,2022-09-25
+102201,38,Tomsk,new,2024-10-27
+102202,18,Kazan,new,2022-09-16
+102203,20,Saint Petersburg,premium,2020-02-11
+102204,37,Saint Petersburg,regular,2019-04-26
+102205,43,Moscow,regular,2024-10-21
+102206,63,Saint Petersburg,new,2021-07-15
+102207,25,Moscow,regular,2020-03-17
+102208,65,Kazan,premium,2020-05-03
+102209,31,Moscow,regular,2019-08-21
+102210,25,Saint Petersburg,regular,2020-03-13
+102211,57,Perm,regular,2023-09-07
+102212,62,Saint Petersburg,regular,2022-12-06
+102213,52,Yekaterinburg,premium,2022-08-07
+102214,24,Samara,regular,2019-01-26
+102215,24,Novosibirsk,new,2023-01-13
+102216,40,Moscow,regular,2024-10-25
+102217,43,Saint Petersburg,regular,2024-07-16
+102218,74,Novosibirsk,new,2021-05-16
+102219,34,Novosibirsk,regular,2022-08-08
+102220,28,Moscow,new,2020-10-16
+102221,71,Kazan,regular,2024-05-01
+102222,26,Novosibirsk,premium,2024-07-09
+102223,19,Saint Petersburg,regular,2020-05-04
+102224,42,Yekaterinburg,regular,2021-12-02
+102225,40,Moscow,regular,2020-06-01
+102226,53,Saint Petersburg,regular,2022-09-08
+102227,68,Perm,new,2020-10-03
+102228,71,Saint Petersburg,regular,2023-03-06
+102229,34,Novosibirsk,regular,2024-11-21
+102230,73,Kazan,premium,2024-03-25
+102231,54,Saint Petersburg,regular,2020-02-04
+102232,21,Tomsk,regular,2019-10-12
+102233,71,Saint Petersburg,premium,2023-11-21
+102234,25,Moscow,new,2019-06-28
+102235,51,Samara,new,2021-05-27
+102236,63,Perm,regular,2024-12-18
+102237,32,Yekaterinburg,new,2021-09-09
+102238,33,Moscow,new,2019-01-20
+102239,45,Moscow,regular,2024-11-07
+102240,68,Yekaterinburg,regular,2023-04-02
+102241,30,Moscow,regular,2020-12-25
+102242,55,Moscow,regular,2022-09-01
+102243,43,Perm,regular,2022-09-04
+102244,24,Saint Petersburg,regular,2022-04-26
+102245,58,Moscow,regular,2024-10-07
+102246,65,Moscow,regular,2023-09-19
+102247,50,Kazan,regular,2020-07-21
+102248,28,Yekaterinburg,premium,2024-12-15
+102249,26,Samara,regular,2024-10-10
+102250,42,Moscow,new,2019-04-13
+102251,46,Moscow,premium,2020-10-13
+102252,49,Novosibirsk,premium,2022-09-09
+102253,31,Saint Petersburg,regular,2024-04-09
+102254,46,Kazan,new,2023-04-21
+102255,34,Tomsk,regular,2022-06-12
+102256,57,Novosibirsk,regular,2020-11-01
+102257,63,Kazan,regular,2019-07-31
+102258,55,Tomsk,regular,2024-05-11
+102259,18,Moscow,new,2022-03-13
+102260,74,Tomsk,new,2021-09-28
+102261,19,Novosibirsk,premium,2024-11-18
+102262,74,Novosibirsk,new,2019-12-27
+102263,19,Tomsk,regular,2020-07-10
+102264,47,Novosibirsk,regular,2024-02-16
+102265,24,Kazan,regular,2020-09-15
+102266,23,Saint Petersburg,regular,2024-08-28
+102267,56,Yekaterinburg,regular,2024-02-24
+102268,59,Novosibirsk,regular,2019-08-07
+102269,24,Moscow,regular,2021-09-30
+102270,73,Yekaterinburg,new,2023-07-06
+102271,36,Yekaterinburg,regular,2021-12-09
+102272,36,Kazan,regular,2020-04-16
+102273,34,Moscow,regular,2019-04-09
+102274,44,Kazan,regular,2019-01-15
+102275,28,Moscow,regular,2020-01-26
+102276,42,Moscow,new,2020-07-25
+102277,29,Kazan,new,2020-10-23
+102278,20,Moscow,regular,2024-02-17
+102279,39,Saint Petersburg,regular,2022-01-19
+102280,56,Yekaterinburg,regular,2019-11-06
+102281,61,Saint Petersburg,new,2019-07-02
+102282,38,Tomsk,regular,2019-10-14
+102283,36,Tomsk,regular,2020-11-18
+102284,62,Novosibirsk,new,2023-06-08
+102285,56,Tomsk,regular,2019-04-19
+102286,65,Samara,regular,2021-06-09
+102287,69,Saint Petersburg,new,2021-09-08
+102288,64,Perm,regular,2019-11-22
+102289,71,Moscow,new,2019-05-09
+102290,41,Yekaterinburg,premium,2020-05-19
+102291,40,Kazan,new,2019-11-29
+102292,36,Moscow,new,2023-10-08
+102293,31,Saint Petersburg,new,2024-07-02
+102294,60,Tomsk,new,2022-09-28
+102295,58,Saint Petersburg,new,2023-07-21
+102296,63,Moscow,regular,2023-07-26
+102297,27,Moscow,new,2024-04-07
+102298,46,Kazan,regular,2019-08-03
+102299,30,Samara,new,2024-12-25
+102300,68,Perm,regular,2021-10-01
+102301,33,Kazan,new,2022-04-05
+102302,26,Moscow,regular,2023-10-14
+102303,50,Moscow,regular,2021-12-18
+102304,68,Kazan,regular,2020-08-05
+102305,70,Samara,new,2019-02-11
+102306,23,Perm,premium,2020-01-06
+102307,36,Kazan,regular,2019-07-04
+102308,26,Novosibirsk,new,2021-04-16
+102309,35,Kazan,regular,2023-09-04
+102310,48,Novosibirsk,regular,2020-12-31
+102311,33,Novosibirsk,regular,2022-08-02
+102312,21,Yekaterinburg,regular,2020-02-11
+102313,47,Novosibirsk,regular,2022-07-17
+102314,21,Tomsk,new,2024-09-22
+102315,30,Kazan,premium,2020-11-22
+102316,18,Moscow,new,2021-11-24
+102317,22,Moscow,new,2024-10-11
+102318,42,Novosibirsk,new,2022-08-25
+102319,66,Novosibirsk,regular,2021-05-24
+102320,62,Novosibirsk,premium,2019-09-23
+102321,23,Yekaterinburg,regular,2024-08-16
+102322,19,Saint Petersburg,premium,2022-08-30
+102323,37,Yekaterinburg,regular,2019-05-05
+102324,55,Yekaterinburg,regular,2022-05-02
+102325,60,Kazan,regular,2024-10-23
+102326,64,Kazan,new,2024-08-04
+102327,37,Moscow,premium,2020-03-05
+102328,27,Kazan,regular,2021-06-22
+102329,19,Perm,regular,2024-12-02
+102330,26,Samara,regular,2023-09-11
+102331,21,Novosibirsk,regular,2022-05-12
+102332,67,Saint Petersburg,new,2020-10-28
+102333,33,Yekaterinburg,regular,2023-07-31
+102334,64,Perm,regular,2022-06-23
+102335,49,Saint Petersburg,regular,2022-02-22
+102336,48,Samara,new,2024-07-24
+102337,43,Moscow,new,2021-04-07
+102338,64,Moscow,regular,2022-10-02
+102339,20,Moscow,premium,2019-04-06
+102340,23,Moscow,premium,2023-04-08
+102341,42,Samara,regular,2022-04-14
+102342,40,Kazan,new,2024-04-04
+102343,49,Saint Petersburg,new,2020-12-30
+102344,60,Kazan,regular,2024-07-21
+102345,51,Kazan,new,2022-06-15
+102346,32,Saint Petersburg,regular,2020-04-01
+102347,36,Moscow,regular,2019-12-18
+102348,60,Yekaterinburg,regular,2020-03-05
+102349,29,Moscow,regular,2020-10-23
+102350,46,Perm,new,2022-04-21
+102351,48,Moscow,regular,2024-03-18
+102352,60,Perm,regular,2024-12-22
+102353,58,Perm,regular,2023-01-26
+102354,44,Moscow,new,2021-12-10
+102355,35,Moscow,new,2022-09-06
+102356,38,Tomsk,new,2020-12-26
+102357,41,Kazan,regular,2020-06-20
+102358,30,Yekaterinburg,regular,2022-03-23
+102359,53,Moscow,regular,2023-12-19
+102360,29,Saint Petersburg,regular,2019-05-22
+102361,54,Novosibirsk,new,2019-09-01
+102362,60,Samara,regular,2020-01-24
+102363,72,Saint Petersburg,new,2020-04-05
+102364,24,Perm,premium,2019-11-23
+102365,61,Yekaterinburg,new,2019-10-13
+102366,22,Moscow,regular,2019-03-03
+102367,37,Saint Petersburg,new,2021-02-02
+102368,28,Moscow,regular,2023-05-03
+102369,27,Kazan,new,2019-12-11
+102370,27,Yekaterinburg,premium,2020-12-14
+102371,20,Kazan,new,2024-11-03
+102372,64,Saint Petersburg,regular,2020-01-05
+102373,21,Yekaterinburg,regular,2024-12-04
+102374,40,Novosibirsk,new,2022-01-27
+102375,57,Novosibirsk,new,2023-05-07
+102376,74,Novosibirsk,regular,2020-12-09
+102377,66,Moscow,regular,2020-12-12
+102378,25,Yekaterinburg,premium,2021-05-11
+102379,74,Kazan,new,2019-10-08
+102380,55,Saint Petersburg,regular,2020-11-22
+102381,28,Moscow,new,2024-05-14
+102382,43,Novosibirsk,new,2019-01-09
+102383,70,Novosibirsk,regular,2022-06-08
+102384,40,Saint Petersburg,regular,2023-02-17
+102385,28,Samara,new,2019-11-06
+102386,67,Samara,premium,2019-08-31
+102387,72,Moscow,regular,2022-04-26
+102388,73,Yekaterinburg,regular,2020-04-25
+102389,72,Kazan,new,2024-11-13
+102390,67,Tomsk,premium,2020-02-22
+102391,43,Moscow,regular,2019-10-14
+102392,28,Saint Petersburg,regular,2020-12-27
+102393,53,Kazan,new,2020-12-28
+102394,30,Saint Petersburg,premium,2019-12-18
+102395,44,Yekaterinburg,regular,2022-12-28
+102396,55,Kazan,regular,2021-01-30
+102397,71,Moscow,regular,2022-03-01
+102398,34,Novosibirsk,regular,2020-06-17
+102399,32,Samara,regular,2019-07-31
+102400,59,Perm,premium,2019-05-15
+102401,18,Kazan,new,2019-04-26
+102402,50,Saint Petersburg,new,2024-03-23
+102403,60,Moscow,regular,2020-08-02
+102404,49,Samara,regular,2020-10-31
+102405,39,Yekaterinburg,regular,2022-06-23
+102406,65,Novosibirsk,regular,2019-07-28
+102407,39,Samara,regular,2022-08-09
+102408,58,Moscow,regular,2022-02-17
+102409,44,Yekaterinburg,regular,2023-10-01
+102410,19,Moscow,premium,2019-09-28
+102411,48,Moscow,new,2019-02-07
+102412,20,Kazan,regular,2023-08-22
+102413,71,Kazan,premium,2021-03-22
+102414,52,Tomsk,regular,2019-05-15
+102415,39,Saint Petersburg,regular,2022-05-04
+102416,45,Samara,regular,2021-10-15
+102417,53,Perm,regular,2024-09-15
+102418,32,Yekaterinburg,regular,2024-08-30
+102419,34,Tomsk,new,2022-03-27
+102420,41,Kazan,premium,2019-12-15
+102421,32,Kazan,new,2023-06-28
+102422,61,Moscow,regular,2020-03-17
+102423,23,Saint Petersburg,regular,2024-01-11
+102424,65,Samara,new,2022-08-09
+102425,37,Kazan,new,2021-02-15
+102426,49,Saint Petersburg,premium,2024-11-17
+102427,26,Moscow,regular,2022-02-01
+102428,39,Kazan,new,2021-04-25
+102429,61,Yekaterinburg,regular,2020-02-19
+102430,33,Saint Petersburg,regular,2022-11-22
+102431,25,Perm,new,2020-08-14
+102432,47,Yekaterinburg,regular,2019-11-30
+102433,27,Perm,regular,2019-09-17
+102434,35,Saint Petersburg,new,2022-11-06
+102435,43,Yekaterinburg,premium,2024-07-12
+102436,50,Moscow,regular,2020-07-07
+102437,54,Saint Petersburg,regular,2020-04-21
+102438,56,Perm,regular,2022-09-06
+102439,66,Yekaterinburg,regular,2019-11-10
+102440,21,Moscow,regular,2019-07-14
+102441,38,Samara,premium,2022-10-29
+102442,18,Moscow,new,2022-02-24
+102443,18,Novosibirsk,regular,2019-03-04
+102444,30,Tomsk,regular,2020-06-04
+102445,52,Novosibirsk,regular,2020-03-10
+102446,68,Perm,new,2023-02-03
+102447,62,Novosibirsk,regular,2022-12-30
+102448,54,Perm,new,2023-06-27
+102449,62,Yekaterinburg,regular,2019-08-06
+102450,27,Yekaterinburg,regular,2024-02-03
+102451,65,Moscow,new,2020-04-03
+102452,68,Perm,premium,2024-12-15
+102453,23,Moscow,regular,2024-03-26
+102454,44,Tomsk,regular,2021-10-03
+102455,65,Moscow,regular,2023-09-19
+102456,45,Moscow,regular,2023-01-09
+102457,65,Samara,regular,2023-08-23
+102458,71,Saint Petersburg,new,2019-02-10
+102459,45,Saint Petersburg,regular,2019-07-03
+102460,21,Yekaterinburg,regular,2024-06-06
+102461,37,Moscow,regular,2023-09-09
+102462,30,Moscow,regular,2022-09-11
+102463,45,Kazan,new,2020-11-15
+102464,51,Saint Petersburg,premium,2021-07-12
+102465,44,Moscow,new,2021-05-11
+102466,29,Moscow,new,2021-08-10
+102467,35,Saint Petersburg,regular,2022-10-09
+102468,56,Saint Petersburg,regular,2023-07-20
+102469,19,Moscow,new,2021-04-21
+102470,30,Yekaterinburg,regular,2024-01-01
+102471,68,Yekaterinburg,regular,2019-07-18
+102472,23,Moscow,new,2023-11-06
+102473,41,Saint Petersburg,premium,2023-01-22
+102474,29,Samara,regular,2022-01-24
+102475,23,Novosibirsk,regular,2021-04-02
+102476,42,Kazan,new,2021-03-24
+102477,47,Kazan,regular,2021-03-01
+102478,28,Moscow,regular,2024-09-03
+102479,22,Samara,new,2019-02-28
+102480,25,Tomsk,new,2022-10-22
+102481,55,Tomsk,regular,2024-12-08
+102482,67,Moscow,new,2022-04-06
+102483,28,Saint Petersburg,premium,2022-11-02
+102484,36,Moscow,regular,2022-08-04
+102485,37,Saint Petersburg,regular,2022-01-13
+102486,38,Saint Petersburg,premium,2022-10-12
+102487,31,Yekaterinburg,regular,2024-06-03
+102488,21,Moscow,regular,2023-04-13
+102489,47,Tomsk,regular,2024-02-06
+102490,38,Moscow,regular,2022-04-27
+102491,37,Moscow,regular,2023-08-23
+102492,33,Samara,regular,2024-04-02
+102493,70,Yekaterinburg,regular,2020-04-09
+102494,52,Saint Petersburg,new,2024-02-28
+102495,41,Novosibirsk,regular,2023-02-14
+102496,29,Moscow,regular,2021-08-27
+102497,63,Moscow,regular,2023-08-24
+102498,68,Kazan,new,2020-01-05
+102499,19,Saint Petersburg,regular,2023-03-11
+102500,70,Yekaterinburg,regular,2022-06-18
+102501,57,Moscow,regular,2024-04-30
+102502,23,Yekaterinburg,regular,2022-09-22
+102503,60,Perm,new,2022-02-26
+102504,24,Moscow,new,2022-02-21
+102505,20,Moscow,regular,2022-05-01
+102506,24,Kazan,new,2024-05-06
+102507,44,Perm,regular,2023-09-18
+102508,53,Yekaterinburg,premium,2019-07-23
+102509,41,Yekaterinburg,new,2022-03-13
+102510,24,Kazan,regular,2020-09-22
+102511,29,Moscow,regular,2019-12-27
+102512,66,Novosibirsk,regular,2024-03-12
+102513,72,Moscow,new,2024-02-23
+102514,60,Perm,new,2024-08-21
+102515,23,Moscow,premium,2021-05-13
+102516,64,Saint Petersburg,new,2021-07-22
+102517,57,Novosibirsk,regular,2023-09-02
+102518,47,Kazan,regular,2020-02-27
+102519,26,Novosibirsk,regular,2019-04-30
+102520,74,Kazan,regular,2021-07-10
+102521,43,Tomsk,new,2022-10-11
+102522,20,Samara,regular,2021-09-26
+102523,29,Samara,regular,2020-04-07
+102524,40,Yekaterinburg,premium,2022-02-12
+102525,21,Yekaterinburg,new,2024-08-28
+102526,36,Novosibirsk,new,2020-08-24
+102527,44,Kazan,premium,2021-05-26
+102528,72,Saint Petersburg,new,2020-11-16
+102529,22,Novosibirsk,premium,2020-10-05
+102530,50,Moscow,regular,2022-12-08
+102531,70,Moscow,regular,2021-04-01
+102532,63,Samara,regular,2022-09-24
+102533,70,Moscow,regular,2019-02-13
+102534,27,Novosibirsk,new,2022-12-22
+102535,63,Yekaterinburg,premium,2019-08-20
+102536,73,Moscow,premium,2021-04-07
+102537,36,Samara,premium,2024-03-27
+102538,46,Moscow,regular,2021-01-07
+102539,48,Samara,regular,2023-03-11
+102540,46,Perm,regular,2021-02-09
+102541,34,Saint Petersburg,new,2024-05-31
+102542,73,Moscow,regular,2024-09-15
+102543,72,Saint Petersburg,regular,2024-06-15
+102544,39,Kazan,regular,2021-05-16
+102545,63,Saint Petersburg,regular,2020-11-26
+102546,40,Tomsk,regular,2022-08-21
+102547,63,Moscow,regular,2023-11-26
+102548,51,Samara,regular,2022-02-20
+102549,44,Moscow,premium,2023-06-06
+102550,25,Tomsk,regular,2024-04-04
+102551,55,Moscow,new,2023-07-07
+102552,36,Kazan,new,2021-03-20
+102553,30,Novosibirsk,regular,2020-07-01
+102554,29,Moscow,regular,2021-08-09
+102555,73,Samara,regular,2022-06-14
+102556,23,Saint Petersburg,new,2024-01-22
+102557,63,Novosibirsk,new,2020-10-20
+102558,67,Novosibirsk,regular,2019-12-19
+102559,19,Novosibirsk,regular,2020-11-22
+102560,51,Moscow,premium,2022-07-26
+102561,50,Moscow,premium,2020-05-23
+102562,38,Moscow,regular,2021-05-26
+102563,56,Saint Petersburg,regular,2020-07-16
+102564,41,Moscow,new,2024-11-30
+102565,43,Tomsk,regular,2022-01-28
+102566,42,Novosibirsk,premium,2023-05-01
+102567,63,Yekaterinburg,regular,2022-02-14
+102568,54,Saint Petersburg,premium,2019-01-24
+102569,39,Saint Petersburg,new,2020-08-01
+102570,70,Novosibirsk,new,2024-01-15
+102571,63,Saint Petersburg,regular,2022-01-25
+102572,71,Saint Petersburg,premium,2023-03-22
+102573,59,Kazan,regular,2023-07-28
+102574,40,Novosibirsk,regular,2022-05-14
+102575,62,Tomsk,new,2022-06-19
+102576,36,Moscow,regular,2020-06-01
+102577,33,Kazan,regular,2020-06-30
+102578,43,Moscow,new,2019-11-24
+102579,73,Saint Petersburg,regular,2020-10-14
+102580,50,Yekaterinburg,regular,2022-10-09
+102581,39,Moscow,regular,2024-07-28
+102582,44,Novosibirsk,new,2021-08-22
+102583,34,Kazan,new,2022-08-12
+102584,55,Moscow,premium,2024-03-03
+102585,37,Tomsk,regular,2023-01-24
+102586,49,Kazan,regular,2020-07-29
+102587,39,Perm,regular,2020-09-08
+102588,36,Kazan,regular,2022-10-29
+102589,73,Tomsk,new,2020-09-22
+102590,37,Saint Petersburg,regular,2020-06-29
+102591,22,Kazan,regular,2022-07-21
+102592,39,Perm,new,2022-10-26
+102593,48,Saint Petersburg,new,2020-07-09
+102594,23,Saint Petersburg,regular,2019-04-16
+102595,35,Tomsk,premium,2023-08-11
+102596,27,Novosibirsk,regular,2021-05-08
+102597,46,Yekaterinburg,new,2022-10-19
+102598,59,Yekaterinburg,premium,2020-01-14
+102599,73,Samara,new,2020-11-20
+102600,40,Samara,new,2022-08-21
+102601,67,Novosibirsk,premium,2019-09-30
+102602,30,Saint Petersburg,regular,2020-11-25
+102603,62,Moscow,premium,2023-04-25
+102604,50,Yekaterinburg,regular,2023-08-19
+102605,61,Samara,regular,2021-02-12
+102606,61,Kazan,regular,2019-09-09
+102607,48,Moscow,regular,2019-02-27
+102608,32,Saint Petersburg,premium,2022-05-04
+102609,47,Novosibirsk,premium,2023-03-01
+102610,65,Samara,regular,2022-07-25
+102611,73,Moscow,regular,2021-06-07
+102612,70,Yekaterinburg,regular,2019-02-18
+102613,28,Perm,regular,2020-05-10
+102614,52,Tomsk,premium,2019-03-20
+102615,23,Moscow,new,2021-10-10
+102616,56,Tomsk,regular,2020-11-06
+102617,74,Novosibirsk,premium,2019-06-05
+102618,20,Perm,regular,2022-08-28
+102619,55,Moscow,regular,2021-03-22
+102620,71,Novosibirsk,regular,2024-10-11
+102621,66,Yekaterinburg,new,2021-07-03
+102622,40,Saint Petersburg,new,2019-07-18
+102623,23,Kazan,new,2023-03-26
+102624,70,Novosibirsk,new,2023-03-22
+102625,70,Novosibirsk,new,2024-07-29
+102626,51,Moscow,regular,2023-02-27
+102627,73,Kazan,new,2021-03-04
+102628,18,Moscow,premium,2023-01-07
+102629,53,Tomsk,new,2023-10-16
+102630,20,Tomsk,regular,2022-02-05
+102631,71,Saint Petersburg,premium,2023-10-08
+102632,56,Moscow,new,2024-10-20
+102633,70,Moscow,regular,2023-07-13
+102634,50,Kazan,regular,2022-01-04
+102635,22,Samara,regular,2021-12-16
+102636,19,Novosibirsk,new,2024-01-12
+102637,37,Moscow,regular,2024-03-28
+102638,60,Moscow,regular,2020-07-29
+102639,26,Moscow,regular,2019-01-22
+102640,66,Samara,new,2023-11-03
+102641,31,Yekaterinburg,new,2020-06-01
+102642,46,Novosibirsk,regular,2024-12-24
+102643,29,Saint Petersburg,regular,2019-03-21
+102644,44,Tomsk,new,2024-06-17
+102645,43,Saint Petersburg,regular,2023-01-26
+102646,18,Samara,premium,2020-10-28
+102647,50,Samara,new,2019-03-18
+102648,62,Kazan,new,2024-01-29
+102649,71,Samara,regular,2019-09-19
+102650,36,Saint Petersburg,regular,2019-07-28
+102651,68,Yekaterinburg,regular,2023-09-28
+102652,68,Moscow,premium,2023-01-25
+102653,74,Kazan,new,2019-10-07
+102654,39,Moscow,regular,2021-01-19
+102655,66,Moscow,regular,2022-12-31
+102656,50,Moscow,regular,2022-12-14
+102657,21,Saint Petersburg,regular,2021-03-05
+102658,33,Novosibirsk,regular,2021-06-22
+102659,56,Kazan,regular,2019-06-24
+102660,27,Saint Petersburg,regular,2019-01-20
+102661,42,Tomsk,new,2024-10-21
+102662,62,Tomsk,regular,2020-05-21
+102663,26,Moscow,regular,2024-07-25
+102664,46,Kazan,regular,2019-04-03
+102665,30,Yekaterinburg,new,2024-12-09
+102666,48,Perm,premium,2021-07-25
+102667,31,Saint Petersburg,premium,2023-11-03
+102668,73,Perm,regular,2024-01-16
+102669,22,Moscow,premium,2021-02-10
+102670,72,Saint Petersburg,new,2023-06-06
+102671,63,Yekaterinburg,regular,2021-01-02
+102672,66,Yekaterinburg,regular,2023-09-26
+102673,66,Samara,premium,2024-10-03
+102674,28,Moscow,new,2023-11-05
+102675,71,Moscow,new,2023-05-15
+102676,51,Moscow,regular,2021-03-26
+102677,72,Moscow,new,2019-08-27
+102678,68,Moscow,regular,2022-01-14
+102679,51,Novosibirsk,regular,2019-10-12
+102680,39,Novosibirsk,regular,2022-01-19
+102681,24,Yekaterinburg,premium,2024-03-20
+102682,23,Kazan,regular,2019-09-06
+102683,40,Moscow,new,2024-05-28
+102684,64,Yekaterinburg,new,2022-08-04
+102685,46,Moscow,new,2019-04-13
+102686,45,Samara,new,2023-04-28
+102687,31,Moscow,regular,2019-01-01
+102688,50,Novosibirsk,regular,2022-09-01
+102689,54,Samara,new,2022-01-17
+102690,73,Novosibirsk,new,2023-06-24
+102691,59,Novosibirsk,premium,2021-04-04
+102692,52,Yekaterinburg,new,2019-09-18
+102693,69,Moscow,regular,2021-04-28
+102694,42,Yekaterinburg,regular,2023-07-28
+102695,71,Samara,new,2024-09-21
+102696,39,Tomsk,premium,2020-04-01
+102697,25,Kazan,new,2021-02-09
+102698,41,Saint Petersburg,regular,2024-04-06
+102699,25,Perm,regular,2020-11-17
+102700,24,Novosibirsk,regular,2020-06-20
+102701,68,Saint Petersburg,regular,2023-12-28
+102702,63,Moscow,regular,2021-12-14
+102703,30,Moscow,regular,2022-07-02
+102704,65,Kazan,regular,2021-12-04
+102705,21,Moscow,regular,2022-08-14
+102706,34,Moscow,regular,2020-08-12
+102707,58,Moscow,regular,2023-05-24
+102708,35,Tomsk,new,2021-03-03
+102709,59,Moscow,regular,2022-02-21
+102710,67,Moscow,regular,2020-02-11
+102711,21,Kazan,new,2019-01-25
+102712,19,Saint Petersburg,regular,2022-06-03
+102713,71,Tomsk,new,2019-11-01
+102714,47,Tomsk,regular,2024-06-24
+102715,46,Kazan,regular,2024-10-03
+102716,44,Kazan,regular,2020-11-25
+102717,42,Saint Petersburg,regular,2020-09-25
+102718,57,Moscow,new,2022-01-18
+102719,51,Saint Petersburg,new,2020-03-23
+102720,27,Moscow,regular,2024-03-04
+102721,53,Moscow,regular,2019-08-12
+102722,56,Novosibirsk,regular,2021-09-18
+102723,24,Moscow,regular,2020-02-19
+102724,39,Moscow,regular,2023-12-28
+102725,63,Kazan,regular,2019-11-13
+102726,53,Kazan,regular,2021-09-05
+102727,25,Moscow,regular,2024-01-02
+102728,20,Moscow,new,2021-08-23
+102729,51,Moscow,new,2020-02-09
+102730,44,Moscow,regular,2019-12-11
+102731,72,Perm,regular,2022-08-18
+102732,47,Tomsk,regular,2019-10-01
+102733,71,Kazan,regular,2021-02-17
+102734,30,Kazan,regular,2022-09-02
+102735,43,Yekaterinburg,regular,2021-04-11
+102736,25,Yekaterinburg,new,2023-12-19
+102737,50,Moscow,regular,2023-02-16
+102738,28,Moscow,new,2019-10-24
+102739,46,Kazan,regular,2023-11-27
+102740,37,Novosibirsk,regular,2024-06-17
+102741,28,Moscow,regular,2020-03-19
+102742,23,Saint Petersburg,new,2021-02-25
+102743,47,Saint Petersburg,new,2021-05-16
+102744,71,Saint Petersburg,regular,2021-07-21
+102745,29,Kazan,regular,2021-10-13
+102746,41,Yekaterinburg,regular,2024-05-14
+102747,30,Novosibirsk,new,2022-11-28
+102748,64,Moscow,regular,2024-05-18
+102749,41,Moscow,new,2021-02-07
+102750,73,Samara,premium,2022-02-24
+102751,31,Kazan,regular,2019-08-22
+102752,22,Moscow,premium,2020-08-29
+102753,51,Saint Petersburg,premium,2022-07-04
+102754,55,Perm,regular,2020-01-12
+102755,74,Perm,regular,2024-10-06
+102756,67,Samara,regular,2020-08-18
+102757,68,Novosibirsk,premium,2019-12-21
+102758,54,Kazan,regular,2023-09-08
+102759,38,Kazan,regular,2019-07-17
+102760,42,Moscow,premium,2020-12-12
+102761,25,Yekaterinburg,regular,2020-03-11
+102762,42,Novosibirsk,premium,2023-03-03
+102763,38,Moscow,new,2024-01-23
+102764,20,Samara,new,2020-03-03
+102765,29,Saint Petersburg,regular,2021-06-30
+102766,48,Moscow,regular,2021-11-14
+102767,39,Saint Petersburg,regular,2023-02-23
+102768,74,Samara,regular,2021-02-10
+102769,45,Tomsk,regular,2022-02-20
+102770,72,Kazan,new,2022-01-08
+102771,55,Tomsk,regular,2019-01-25
+102772,20,Samara,premium,2022-06-03
+102773,29,Samara,regular,2022-05-29
+102774,58,Samara,regular,2024-12-12
+102775,49,Kazan,new,2022-01-22
+102776,35,Perm,new,2024-05-26
+102777,47,Novosibirsk,regular,2021-02-04
+102778,69,Yekaterinburg,regular,2023-03-06
+102779,40,Moscow,new,2024-05-30
+102780,20,Perm,premium,2019-12-04
+102781,35,Tomsk,regular,2022-05-27
+102782,71,Saint Petersburg,regular,2024-07-07
+102783,61,Tomsk,regular,2022-05-03
+102784,65,Saint Petersburg,premium,2024-05-10
+102785,69,Moscow,new,2021-07-09
+102786,24,Moscow,new,2024-04-27
+102787,34,Perm,premium,2022-10-10
+102788,21,Novosibirsk,premium,2021-11-16
+102789,18,Saint Petersburg,regular,2020-04-16
+102790,65,Novosibirsk,new,2020-01-10
+102791,71,Saint Petersburg,regular,2020-09-24
+102792,26,Kazan,regular,2023-07-12
+102793,59,Samara,regular,2021-10-22
+102794,48,Yekaterinburg,regular,2021-05-01
+102795,21,Perm,new,2021-10-20
+102796,70,Novosibirsk,regular,2021-01-25
+102797,67,Tomsk,regular,2023-11-05
+102798,50,Saint Petersburg,regular,2021-05-06
+102799,58,Saint Petersburg,regular,2021-10-31
+102800,40,Moscow,premium,2022-05-10
+102801,63,Novosibirsk,new,2022-11-17
+102802,43,Yekaterinburg,regular,2021-01-01
+102803,74,Perm,regular,2019-06-10
+102804,21,Saint Petersburg,regular,2023-02-21
+102805,27,Moscow,premium,2022-05-12
+102806,73,Yekaterinburg,regular,2022-11-20
+102807,34,Tomsk,regular,2022-04-06
+102808,35,Saint Petersburg,new,2022-01-20
+102809,63,Moscow,regular,2024-09-10
+102810,28,Saint Petersburg,new,2019-04-29
+102811,47,Kazan,new,2019-07-22
+102812,34,Saint Petersburg,regular,2024-08-14
+102813,29,Saint Petersburg,regular,2024-04-27
+102814,72,Yekaterinburg,premium,2021-06-21
+102815,29,Saint Petersburg,regular,2022-03-31
+102816,23,Kazan,regular,2021-09-12
+102817,56,Moscow,regular,2024-12-25
+102818,67,Tomsk,regular,2021-09-26
+102819,25,Kazan,premium,2023-07-24
+102820,58,Saint Petersburg,regular,2021-03-11
+102821,48,Moscow,regular,2021-04-15
+102822,65,Yekaterinburg,regular,2023-01-18
+102823,25,Samara,new,2021-05-24
+102824,73,Moscow,regular,2019-01-31
+102825,53,Moscow,new,2020-01-15
+102826,66,Moscow,new,2024-03-29
+102827,38,Novosibirsk,new,2021-03-15
+102828,71,Tomsk,new,2019-08-13
+102829,53,Kazan,regular,2024-08-20
+102830,25,Saint Petersburg,premium,2024-12-31
+102831,70,Perm,regular,2021-12-31
+102832,63,Perm,regular,2022-10-08
+102833,35,Saint Petersburg,regular,2023-07-13
+102834,49,Moscow,new,2019-05-26
+102835,40,Saint Petersburg,new,2020-10-12
+102836,48,Perm,premium,2022-05-17
+102837,73,Yekaterinburg,regular,2022-04-20
+102838,69,Yekaterinburg,premium,2020-12-27
+102839,30,Samara,regular,2019-01-04
+102840,73,Saint Petersburg,regular,2024-09-20
+102841,42,Saint Petersburg,regular,2022-09-08
+102842,58,Moscow,premium,2023-07-14
+102843,61,Samara,new,2021-08-16
+102844,45,Novosibirsk,premium,2022-01-16
+102845,44,Saint Petersburg,regular,2021-09-01
+102846,44,Moscow,regular,2021-07-31
+102847,67,Perm,regular,2023-01-10
+102848,40,Perm,regular,2024-12-22
+102849,33,Yekaterinburg,regular,2023-08-31
+102850,38,Moscow,regular,2023-01-02
+102851,29,Tomsk,regular,2019-01-27
+102852,40,Perm,regular,2022-01-31
+102853,24,Yekaterinburg,regular,2024-09-26
+102854,23,Yekaterinburg,regular,2021-05-22
+102855,59,Samara,regular,2022-04-19
+102856,22,Tomsk,regular,2020-12-12
+102857,50,Novosibirsk,regular,2020-02-24
+102858,62,Kazan,regular,2023-03-27
+102859,59,Saint Petersburg,regular,2020-11-18
+102860,43,Samara,regular,2022-07-12
+102861,29,Yekaterinburg,regular,2022-07-25
+102862,71,Moscow,regular,2024-02-03
+102863,65,Moscow,new,2024-08-18
+102864,52,Samara,regular,2022-04-28
+102865,22,Samara,new,2019-04-21
+102866,20,Tomsk,new,2022-06-30
+102867,35,Kazan,regular,2024-04-23
+102868,26,Perm,regular,2021-11-12
+102869,67,Samara,regular,2022-05-22
+102870,29,Saint Petersburg,premium,2023-07-30
+102871,34,Moscow,new,2021-08-20
+102872,73,Tomsk,new,2021-06-28
+102873,64,Moscow,new,2021-11-22
+102874,30,Novosibirsk,new,2024-02-11
+102875,39,Yekaterinburg,regular,2021-12-05
+102876,47,Yekaterinburg,regular,2020-12-17
+102877,55,Saint Petersburg,regular,2022-08-01
+102878,71,Perm,regular,2023-02-27
+102879,67,Moscow,regular,2024-06-23
+102880,73,Samara,new,2024-05-11
+102881,20,Moscow,regular,2023-09-13
+102882,31,Yekaterinburg,regular,2023-08-13
+102883,50,Perm,new,2021-09-11
+102884,20,Moscow,regular,2021-01-20
+102885,38,Moscow,regular,2022-05-18
+102886,26,Perm,regular,2023-03-29
+102887,71,Moscow,regular,2022-02-10
+102888,21,Moscow,regular,2020-03-29
+102889,26,Kazan,new,2019-02-02
+102890,29,Tomsk,new,2019-05-08
+102891,26,Novosibirsk,regular,2021-07-23
+102892,50,Kazan,premium,2023-10-01
+102893,38,Tomsk,regular,2023-09-28
+102894,70,Kazan,regular,2023-11-07
+102895,32,Kazan,regular,2023-04-04
+102896,48,Kazan,regular,2019-02-20
+102897,55,Saint Petersburg,new,2024-04-20
+102898,53,Saint Petersburg,regular,2024-09-08
+102899,63,Yekaterinburg,premium,2024-02-06
+102900,29,Moscow,regular,2021-09-04
+102901,46,Yekaterinburg,premium,2020-04-15
+102902,63,Moscow,new,2024-06-07
+102903,67,Kazan,regular,2020-02-10
+102904,53,Moscow,regular,2023-09-24
+102905,55,Novosibirsk,new,2024-10-17
+102906,67,Perm,new,2024-05-28
+102907,53,Saint Petersburg,regular,2022-02-16
+102908,72,Moscow,regular,2024-01-01
+102909,25,Moscow,regular,2023-12-27
+102910,37,Samara,regular,2024-11-04
+102911,24,Saint Petersburg,regular,2021-02-28
+102912,23,Perm,new,2022-10-10
+102913,44,Saint Petersburg,new,2023-11-27
+102914,30,Moscow,regular,2020-05-13
+102915,41,Perm,regular,2020-05-09
+102916,42,Kazan,premium,2021-05-03
+102917,53,Moscow,regular,2021-02-28
+102918,71,Tomsk,new,2023-07-07
+102919,66,Moscow,new,2024-08-13
+102920,39,Saint Petersburg,regular,2019-12-11
+102921,36,Kazan,new,2020-12-13
+102922,61,Kazan,new,2024-07-31
+102923,25,Perm,regular,2022-07-27
+102924,48,Moscow,regular,2020-03-25
+102925,42,Tomsk,regular,2022-08-16
+102926,28,Yekaterinburg,regular,2024-04-04
+102927,53,Tomsk,new,2021-03-30
+102928,36,Samara,regular,2021-11-26
+102929,28,Tomsk,regular,2022-09-06
+102930,55,Novosibirsk,regular,2024-01-17
+102931,27,Saint Petersburg,new,2022-05-22
+102932,56,Kazan,regular,2024-10-01
+102933,27,Yekaterinburg,regular,2023-07-13
+102934,42,Kazan,regular,2021-07-14
+102935,64,Perm,regular,2021-12-04
+102936,31,Moscow,premium,2023-03-07
+102937,61,Samara,new,2019-06-04
+102938,59,Moscow,premium,2020-05-11
+102939,69,Tomsk,premium,2020-06-06
+102940,27,Moscow,regular,2023-10-22
+102941,58,Moscow,regular,2023-12-08
+102942,71,Samara,regular,2023-12-03
+102943,61,Samara,premium,2019-08-19
+102944,28,Perm,regular,2020-10-09
+102945,64,Tomsk,regular,2020-11-15
+102946,24,Saint Petersburg,new,2019-02-22
+102947,51,Samara,regular,2020-07-19
+102948,46,Saint Petersburg,new,2021-08-03
+102949,48,Novosibirsk,new,2024-04-25
+102950,47,Kazan,regular,2020-01-08
+102951,19,Moscow,regular,2024-02-29
+102952,46,Novosibirsk,premium,2023-11-30
+102953,71,Perm,regular,2019-12-14
+102954,42,Moscow,new,2020-07-26
+102955,33,Tomsk,regular,2021-10-01
+102956,74,Novosibirsk,regular,2024-08-30
+102957,23,Moscow,regular,2023-09-17
+102958,45,Yekaterinburg,new,2024-10-31
+102959,47,Moscow,regular,2020-11-16
+102960,45,Moscow,regular,2024-06-15
+102961,70,Yekaterinburg,premium,2024-09-26
+102962,42,Moscow,regular,2022-08-07
+102963,73,Moscow,new,2019-12-04
+102964,21,Perm,regular,2020-08-09
+102965,59,Moscow,regular,2019-10-10
+102966,51,Perm,premium,2023-11-05
+102967,31,Perm,regular,2020-11-17
+102968,30,Moscow,new,2023-03-18
+102969,59,Novosibirsk,regular,2020-08-08
+102970,54,Moscow,regular,2024-11-11
+102971,52,Yekaterinburg,new,2023-08-23
+102972,20,Moscow,regular,2021-04-06
+102973,52,Tomsk,regular,2021-11-10
+102974,73,Moscow,regular,2019-05-09
+102975,18,Yekaterinburg,regular,2019-10-27
+102976,44,Moscow,new,2024-12-28
+102977,46,Moscow,regular,2023-11-24
+102978,69,Kazan,regular,2024-01-12
+102979,34,Novosibirsk,new,2022-11-11
+102980,45,Tomsk,premium,2020-04-30
+102981,58,Moscow,premium,2019-08-19
+102982,21,Moscow,new,2023-05-10
+102983,63,Saint Petersburg,regular,2020-12-28
+102984,64,Saint Petersburg,regular,2019-01-02
+102985,59,Samara,regular,2019-02-19
+102986,54,Tomsk,regular,2022-05-07
+102987,60,Samara,new,2024-01-16
+102988,62,Moscow,new,2021-03-06
+102989,69,Kazan,premium,2024-12-31
+102990,42,Perm,regular,2021-04-15
+102991,43,Saint Petersburg,regular,2023-05-27
+102992,54,Yekaterinburg,regular,2020-06-19
+102993,29,Moscow,premium,2022-08-24
+102994,66,Saint Petersburg,regular,2020-08-25
+102995,61,Samara,premium,2023-09-02
+102996,53,Saint Petersburg,premium,2021-09-23
+102997,35,Tomsk,regular,2019-04-02
+102998,37,Saint Petersburg,regular,2020-06-27
+102999,42,Moscow,regular,2021-02-11
+103000,55,Saint Petersburg,regular,2021-10-19
+103001,62,Moscow,regular,2020-08-15
+103002,56,Novosibirsk,new,2022-06-19
+103003,71,Moscow,new,2024-10-13
+103004,72,Yekaterinburg,regular,2023-04-08
+103005,58,Samara,regular,2020-11-13
+103006,39,Saint Petersburg,regular,2023-01-24
+103007,52,Moscow,regular,2024-10-20
+103008,42,Kazan,new,2020-06-14
+103009,53,Perm,new,2020-05-24
+103010,64,Novosibirsk,regular,2019-03-27
+103011,39,Moscow,regular,2024-01-21
+103012,46,Novosibirsk,regular,2023-12-31
+103013,20,Kazan,new,2021-06-25
+103014,59,Saint Petersburg,regular,2024-03-27
+103015,45,Moscow,premium,2022-11-29
+103016,44,Tomsk,new,2024-11-15
+103017,48,Moscow,new,2024-07-15
+103018,30,Moscow,regular,2024-10-04
+103019,52,Moscow,regular,2021-05-10
+103020,60,Novosibirsk,premium,2022-10-21
+103021,37,Kazan,premium,2020-01-02
+103022,25,Saint Petersburg,regular,2024-05-14
+103023,40,Kazan,new,2020-11-28
+103024,29,Yekaterinburg,regular,2021-09-09
+103025,39,Saint Petersburg,premium,2022-07-26
+103026,53,Tomsk,regular,2023-09-22
+103027,24,Saint Petersburg,premium,2023-05-23
+103028,60,Moscow,regular,2024-09-25
+103029,30,Tomsk,new,2023-04-12
+103030,68,Samara,regular,2023-10-12
+103031,59,Saint Petersburg,regular,2022-06-08
+103032,33,Samara,new,2021-06-30
+103033,50,Novosibirsk,regular,2024-06-25
+103034,24,Saint Petersburg,regular,2021-04-08
+103035,23,Samara,new,2022-09-21
+103036,72,Perm,regular,2020-10-01
+103037,63,Saint Petersburg,regular,2021-11-23
+103038,26,Novosibirsk,regular,2021-03-15
+103039,34,Saint Petersburg,regular,2020-07-20
+103040,29,Moscow,premium,2023-12-04
+103041,40,Tomsk,premium,2023-08-09
+103042,34,Novosibirsk,regular,2023-03-18
+103043,36,Novosibirsk,new,2019-07-01
+103044,48,Novosibirsk,regular,2020-07-01
+103045,28,Novosibirsk,new,2020-04-23
+103046,68,Saint Petersburg,regular,2023-04-09
+103047,59,Tomsk,regular,2024-05-10
+103048,61,Yekaterinburg,regular,2021-04-11
+103049,27,Yekaterinburg,regular,2020-12-25
+103050,58,Kazan,regular,2022-05-07
+103051,65,Saint Petersburg,premium,2024-12-04
+103052,27,Moscow,new,2021-03-22
+103053,60,Saint Petersburg,premium,2020-09-02
+103054,38,Moscow,new,2022-02-17
+103055,62,Yekaterinburg,regular,2024-06-30
+103056,45,Samara,premium,2023-05-19
+103057,63,Saint Petersburg,regular,2022-02-09
+103058,26,Saint Petersburg,new,2023-05-22
+103059,40,Yekaterinburg,regular,2019-02-03
+103060,33,Moscow,regular,2023-07-09
+103061,32,Tomsk,regular,2019-08-02
+103062,35,Saint Petersburg,regular,2021-05-07
+103063,39,Moscow,regular,2021-02-05
+103064,25,Moscow,new,2023-02-22
+103065,58,Tomsk,regular,2020-06-10
+103066,49,Saint Petersburg,regular,2020-06-07
+103067,65,Yekaterinburg,new,2024-04-22
+103068,58,Moscow,regular,2021-11-12
+103069,26,Moscow,regular,2023-06-14
+103070,21,Samara,premium,2022-07-02
+103071,42,Moscow,regular,2022-09-20
+103072,45,Moscow,regular,2023-02-13
+103073,31,Novosibirsk,regular,2023-01-03
+103074,62,Samara,regular,2024-06-22
+103075,51,Saint Petersburg,regular,2023-09-17
+103076,60,Moscow,regular,2020-10-30
+103077,24,Tomsk,regular,2020-01-07
+103078,64,Yekaterinburg,regular,2024-01-27
+103079,29,Samara,regular,2021-03-27
+103080,43,Perm,new,2020-11-12
+103081,43,Yekaterinburg,regular,2019-09-01
+103082,64,Kazan,regular,2022-04-24
+103083,33,Saint Petersburg,regular,2022-01-27
+103084,31,Yekaterinburg,regular,2023-12-21
+103085,37,Yekaterinburg,regular,2023-06-29
+103086,38,Tomsk,regular,2023-05-05
+103087,28,Novosibirsk,regular,2022-03-26
+103088,28,Saint Petersburg,premium,2024-03-06
+103089,31,Kazan,new,2024-11-25
+103090,44,Yekaterinburg,regular,2023-11-22
+103091,37,Kazan,new,2021-02-01
+103092,40,Perm,regular,2020-08-28
+103093,58,Novosibirsk,regular,2019-01-03
+103094,31,Moscow,regular,2024-12-16
+103095,69,Novosibirsk,regular,2023-05-25
+103096,60,Yekaterinburg,regular,2024-08-15
+103097,27,Tomsk,new,2023-09-23
+103098,35,Kazan,regular,2021-07-31
+103099,28,Novosibirsk,new,2019-11-14
+103100,33,Kazan,premium,2019-04-14
+103101,38,Novosibirsk,regular,2023-10-03
+103102,25,Moscow,regular,2020-10-27
+103103,18,Samara,premium,2021-04-11
+103104,43,Tomsk,regular,2024-01-07
+103105,57,Novosibirsk,regular,2021-11-20
+103106,35,Novosibirsk,new,2024-09-15
+103107,67,Moscow,regular,2022-04-13
+103108,39,Novosibirsk,premium,2023-12-29
+103109,69,Kazan,premium,2019-10-04
+103110,31,Yekaterinburg,regular,2021-05-19
+103111,48,Moscow,new,2020-02-06
+103112,61,Yekaterinburg,new,2019-05-04
+103113,21,Saint Petersburg,premium,2024-12-13
+103114,71,Yekaterinburg,new,2022-02-08
+103115,38,Yekaterinburg,regular,2021-02-14
+103116,46,Moscow,regular,2021-04-05
+103117,53,Kazan,regular,2020-06-12
+103118,54,Samara,regular,2019-09-27
+103119,19,Novosibirsk,premium,2024-06-25
+103120,67,Moscow,regular,2019-08-21
+103121,53,Kazan,regular,2021-04-23
+103122,74,Saint Petersburg,regular,2019-12-02
+103123,44,Yekaterinburg,premium,2024-07-30
+103124,52,Yekaterinburg,regular,2020-03-27
+103125,43,Moscow,regular,2021-05-13
+103126,68,Novosibirsk,regular,2023-07-11
+103127,65,Perm,new,2022-06-03
+103128,69,Perm,new,2021-04-16
+103129,46,Moscow,premium,2022-05-20
+103130,63,Saint Petersburg,regular,2021-08-15
+103131,38,Kazan,new,2020-09-26
+103132,44,Moscow,regular,2022-08-04
+103133,61,Kazan,premium,2021-03-11
+103134,22,Moscow,regular,2024-10-05
+103135,58,Moscow,regular,2021-10-12
+103136,18,Yekaterinburg,new,2023-07-17
+103137,51,Saint Petersburg,premium,2020-05-28
+103138,45,Yekaterinburg,premium,2022-11-16
+103139,44,Moscow,regular,2022-05-11
+103140,46,Novosibirsk,regular,2023-06-19
+103141,46,Kazan,regular,2021-10-09
+103142,41,Perm,regular,2023-04-26
+103143,43,Perm,regular,2019-05-09
+103144,50,Saint Petersburg,premium,2023-02-22
+103145,61,Yekaterinburg,regular,2023-07-10
+103146,49,Moscow,regular,2021-12-24
+103147,54,Novosibirsk,regular,2019-03-17
+103148,65,Moscow,regular,2022-05-27
+103149,74,Kazan,regular,2023-09-09
+103150,24,Moscow,new,2021-10-08
+103151,58,Samara,regular,2019-07-26
+103152,30,Kazan,regular,2021-05-15
+103153,29,Novosibirsk,regular,2024-12-19
+103154,63,Saint Petersburg,new,2020-08-16
+103155,21,Saint Petersburg,regular,2022-03-06
+103156,66,Moscow,regular,2021-02-17
+103157,61,Tomsk,regular,2023-04-11
+103158,74,Perm,regular,2021-07-28
+103159,56,Moscow,regular,2021-04-22
+103160,67,Perm,regular,2022-06-23
+103161,24,Kazan,new,2022-06-07
+103162,68,Moscow,regular,2021-12-31
+103163,27,Novosibirsk,premium,2020-07-20
+103164,35,Moscow,regular,2019-08-25
+103165,25,Moscow,new,2023-02-22
+103166,40,Yekaterinburg,regular,2021-01-15
+103167,60,Saint Petersburg,regular,2022-09-05
+103168,33,Samara,new,2021-04-04
+103169,64,Yekaterinburg,new,2024-02-15
+103170,52,Samara,new,2023-03-30
+103171,53,Yekaterinburg,new,2021-06-04
+103172,71,Samara,regular,2020-12-30
+103173,42,Saint Petersburg,regular,2023-06-30
+103174,37,Novosibirsk,regular,2019-01-18
+103175,74,Novosibirsk,premium,2019-05-07
+103176,49,Samara,regular,2019-07-04
+103177,53,Moscow,regular,2021-01-28
+103178,34,Novosibirsk,regular,2021-12-25
+103179,30,Perm,new,2020-10-03
+103180,27,Saint Petersburg,regular,2020-02-18
+103181,30,Samara,regular,2020-11-17
+103182,29,Saint Petersburg,regular,2021-12-20
+103183,60,Moscow,regular,2020-10-13
+103184,21,Novosibirsk,regular,2022-06-12
+103185,53,Kazan,regular,2021-04-17
+103186,72,Moscow,regular,2024-08-08
+103187,61,Moscow,regular,2024-12-15
+103188,40,Moscow,premium,2022-12-08
+103189,21,Perm,regular,2022-05-01
+103190,65,Samara,premium,2019-03-10
+103191,18,Novosibirsk,premium,2022-09-26
+103192,56,Moscow,regular,2021-04-14
+103193,56,Novosibirsk,new,2020-09-27
+103194,28,Samara,new,2023-10-06
+103195,60,Perm,regular,2019-04-03
+103196,28,Saint Petersburg,new,2020-07-25
+103197,30,Moscow,regular,2023-08-25
+103198,64,Samara,regular,2024-07-20
+103199,73,Samara,premium,2022-02-02
+103200,33,Moscow,regular,2022-03-05
+103201,70,Samara,regular,2024-10-20
+103202,70,Moscow,regular,2019-07-22
+103203,61,Moscow,new,2021-11-20
+103204,25,Perm,regular,2020-06-13
+103205,35,Novosibirsk,new,2021-11-11
+103206,56,Kazan,regular,2024-06-09
+103207,74,Samara,premium,2022-07-30
+103208,64,Samara,regular,2024-12-13
+103209,41,Moscow,regular,2022-01-12
+103210,31,Yekaterinburg,regular,2024-03-06
+103211,72,Perm,regular,2020-01-07
+103212,33,Novosibirsk,regular,2020-12-03
+103213,37,Tomsk,regular,2020-08-23
+103214,72,Yekaterinburg,new,2023-08-13
+103215,50,Moscow,regular,2022-01-29
+103216,33,Moscow,regular,2020-05-02
+103217,18,Samara,regular,2020-01-14
+103218,42,Tomsk,regular,2021-04-22
+103219,74,Moscow,new,2019-12-03
+103220,42,Moscow,regular,2023-03-09
+103221,57,Perm,new,2024-02-03
+103222,32,Moscow,regular,2024-10-24
+103223,62,Moscow,new,2020-05-31
+103224,62,Samara,new,2021-08-20
+103225,52,Perm,premium,2022-01-09
+103226,61,Samara,premium,2021-12-22
+103227,50,Yekaterinburg,regular,2021-09-20
+103228,39,Saint Petersburg,regular,2020-04-27
+103229,60,Samara,regular,2019-09-03
+103230,65,Saint Petersburg,premium,2021-06-02
+103231,65,Saint Petersburg,regular,2019-07-22
+103232,30,Samara,new,2019-05-19
+103233,56,Yekaterinburg,regular,2022-02-22
+103234,18,Samara,premium,2024-02-26
+103235,50,Moscow,regular,2022-03-30
+103236,50,Tomsk,regular,2019-02-21
+103237,38,Yekaterinburg,regular,2024-01-17
+103238,74,Yekaterinburg,regular,2023-02-07
+103239,68,Tomsk,regular,2020-10-26
+103240,20,Kazan,regular,2020-08-21
+103241,29,Yekaterinburg,premium,2024-05-25
+103242,29,Yekaterinburg,regular,2021-11-09
+103243,69,Perm,new,2019-11-06
+103244,47,Samara,regular,2020-09-09
+103245,59,Yekaterinburg,regular,2020-08-02
+103246,64,Moscow,regular,2021-05-26
+103247,61,Moscow,regular,2021-01-28
+103248,23,Tomsk,regular,2022-04-13
+103249,25,Tomsk,regular,2020-12-09
+103250,40,Tomsk,new,2022-11-05
+103251,37,Moscow,regular,2021-12-15
+103252,60,Kazan,regular,2024-08-23
+103253,26,Perm,regular,2023-12-21
+103254,39,Perm,new,2020-12-29
+103255,31,Moscow,regular,2019-04-03
+103256,28,Novosibirsk,regular,2022-07-06
+103257,27,Moscow,regular,2021-01-11
+103258,29,Kazan,regular,2024-05-30
+103259,50,Moscow,premium,2021-06-08
+103260,41,Moscow,premium,2020-09-28
+103261,42,Moscow,new,2021-01-13
+103262,45,Tomsk,regular,2024-03-11
+103263,60,Perm,new,2019-09-04
+103264,67,Tomsk,regular,2024-09-29
+103265,48,Kazan,regular,2020-05-26
+103266,54,Kazan,regular,2024-02-01
+103267,60,Saint Petersburg,new,2022-04-08
+103268,57,Yekaterinburg,regular,2022-06-03
+103269,25,Saint Petersburg,regular,2020-03-24
+103270,74,Perm,regular,2023-05-02
+103271,27,Perm,new,2022-11-22
+103272,41,Samara,regular,2021-11-20
+103273,55,Saint Petersburg,regular,2021-09-30
+103274,40,Novosibirsk,regular,2022-08-02
+103275,31,Moscow,new,2021-10-31
+103276,70,Moscow,regular,2024-11-06
+103277,22,Yekaterinburg,premium,2019-04-01
+103278,32,Novosibirsk,regular,2020-07-04
+103279,74,Perm,regular,2024-02-09
+103280,59,Moscow,regular,2023-10-04
+103281,22,Tomsk,regular,2021-02-01
+103282,61,Tomsk,regular,2022-01-14
+103283,73,Kazan,regular,2019-03-01
+103284,23,Samara,new,2020-01-23
+103285,41,Saint Petersburg,premium,2024-09-01
+103286,44,Perm,premium,2022-11-11
+103287,25,Samara,regular,2019-03-26
+103288,29,Samara,new,2023-10-03
+103289,27,Samara,new,2021-06-03
+103290,28,Kazan,new,2022-05-31
+103291,41,Samara,premium,2024-02-22
+103292,44,Yekaterinburg,regular,2024-01-10
+103293,31,Moscow,regular,2019-10-27
+103294,34,Moscow,premium,2021-03-12
+103295,28,Perm,new,2020-08-20
+103296,63,Yekaterinburg,regular,2024-06-25
+103297,30,Novosibirsk,new,2023-09-08
+103298,69,Samara,regular,2022-11-22
+103299,48,Yekaterinburg,premium,2019-05-09
+103300,63,Kazan,premium,2023-10-27
+103301,54,Kazan,new,2022-05-14
+103302,33,Novosibirsk,new,2020-08-21
+103303,52,Perm,regular,2021-08-28
+103304,33,Novosibirsk,new,2021-09-04
+103305,24,Novosibirsk,regular,2020-10-11
+103306,32,Perm,regular,2024-06-16
+103307,33,Yekaterinburg,regular,2024-07-04
+103308,25,Samara,regular,2019-04-22
+103309,19,Moscow,new,2024-08-13
+103310,71,Perm,premium,2021-06-04
+103311,47,Novosibirsk,regular,2023-10-20
+103312,40,Moscow,regular,2023-09-07
+103313,71,Yekaterinburg,regular,2022-08-05
+103314,30,Yekaterinburg,regular,2023-06-19
+103315,40,Novosibirsk,new,2023-02-02
+103316,66,Perm,new,2024-02-10
+103317,54,Saint Petersburg,regular,2021-07-17
+103318,40,Moscow,regular,2023-06-09
+103319,32,Saint Petersburg,regular,2024-11-16
+103320,20,Kazan,regular,2024-09-07
+103321,22,Yekaterinburg,premium,2019-11-21
+103322,27,Samara,new,2021-12-28
+103323,62,Perm,new,2022-01-23
+103324,54,Moscow,regular,2022-09-30
+103325,42,Saint Petersburg,regular,2022-11-19
+103326,62,Moscow,regular,2024-02-02
+103327,27,Yekaterinburg,regular,2022-03-12
+103328,30,Saint Petersburg,regular,2023-03-19
+103329,40,Novosibirsk,regular,2024-05-25
+103330,70,Perm,regular,2019-08-12
+103331,53,Yekaterinburg,regular,2022-11-09
+103332,66,Saint Petersburg,new,2021-03-15
+103333,32,Saint Petersburg,regular,2024-06-08
+103334,66,Yekaterinburg,regular,2022-04-26
+103335,22,Novosibirsk,regular,2022-08-14
+103336,30,Moscow,new,2023-07-13
+103337,47,Samara,regular,2020-06-14
+103338,20,Novosibirsk,regular,2022-04-06
+103339,66,Kazan,new,2023-08-22
+103340,67,Moscow,regular,2023-09-01
+103341,48,Saint Petersburg,regular,2020-05-14
+103342,35,Saint Petersburg,regular,2024-01-11
+103343,23,Saint Petersburg,new,2019-12-23
+103344,53,Novosibirsk,regular,2020-08-04
+103345,48,Kazan,new,2024-02-21
+103346,61,Samara,premium,2022-09-12
+103347,52,Tomsk,regular,2022-04-03
+103348,25,Moscow,new,2022-05-06
+103349,24,Moscow,regular,2024-10-25
+103350,62,Perm,regular,2020-05-13
+103351,27,Tomsk,regular,2020-10-17
+103352,71,Samara,regular,2021-12-09
+103353,24,Moscow,regular,2024-01-28
+103354,59,Saint Petersburg,regular,2022-04-17
+103355,73,Moscow,premium,2023-05-11
+103356,43,Samara,regular,2023-11-27
+103357,21,Novosibirsk,regular,2024-05-09
+103358,67,Novosibirsk,regular,2021-10-07
+103359,28,Novosibirsk,regular,2021-09-30
+103360,48,Saint Petersburg,regular,2019-06-27
+103361,74,Novosibirsk,regular,2019-06-26
+103362,60,Moscow,regular,2021-12-04
+103363,20,Yekaterinburg,regular,2023-07-01
+103364,64,Perm,new,2024-01-11
+103365,27,Yekaterinburg,regular,2021-06-14
+103366,60,Saint Petersburg,regular,2022-06-06
+103367,53,Samara,new,2023-11-17
+103368,34,Yekaterinburg,new,2020-11-29
+103369,42,Moscow,regular,2019-12-14
+103370,24,Moscow,premium,2024-07-11
+103371,74,Yekaterinburg,regular,2022-04-11
+103372,31,Saint Petersburg,new,2019-12-08
+103373,35,Moscow,regular,2020-07-06
+103374,46,Moscow,regular,2020-12-17
+103375,56,Moscow,premium,2020-03-16
+103376,46,Kazan,regular,2021-08-16
+103377,46,Novosibirsk,new,2023-11-17
+103378,51,Moscow,regular,2023-06-06
+103379,66,Yekaterinburg,regular,2024-07-03
+103380,40,Saint Petersburg,regular,2024-01-06
+103381,65,Saint Petersburg,new,2020-11-13
+103382,62,Moscow,premium,2019-05-09
+103383,72,Perm,regular,2019-11-29
+103384,70,Tomsk,premium,2023-10-03
+103385,63,Kazan,premium,2021-01-15
+103386,32,Moscow,new,2023-04-29
+103387,62,Saint Petersburg,regular,2021-09-30
+103388,59,Moscow,regular,2024-05-15
+103389,34,Samara,regular,2022-01-18
+103390,56,Moscow,new,2024-05-27
+103391,32,Tomsk,regular,2020-07-03
+103392,47,Novosibirsk,new,2023-09-01
+103393,63,Novosibirsk,premium,2022-02-22
+103394,28,Samara,regular,2020-02-21
+103395,37,Moscow,regular,2020-05-27
+103396,63,Perm,premium,2020-11-19
+103397,43,Moscow,regular,2019-12-06
+103398,72,Samara,regular,2024-08-14
+103399,18,Novosibirsk,new,2020-04-11
+103400,59,Moscow,new,2022-08-04
+103401,64,Samara,new,2022-06-05
+103402,70,Moscow,regular,2022-03-26
+103403,26,Moscow,regular,2022-10-07
+103404,74,Perm,regular,2024-06-30
+103405,40,Kazan,new,2024-10-22
+103406,38,Samara,new,2024-03-31
+103407,38,Yekaterinburg,regular,2021-10-04
+103408,54,Yekaterinburg,new,2023-05-14
+103409,55,Saint Petersburg,regular,2020-02-12
+103410,45,Moscow,premium,2024-04-17
+103411,22,Tomsk,regular,2020-03-04
+103412,74,Moscow,regular,2019-09-07
+103413,30,Novosibirsk,regular,2023-12-22
+103414,23,Saint Petersburg,regular,2023-07-19
+103415,52,Saint Petersburg,premium,2019-10-31
+103416,41,Novosibirsk,premium,2024-10-17
+103417,53,Perm,regular,2019-09-02
+103418,67,Perm,regular,2019-04-18
+103419,23,Samara,regular,2024-09-26
+103420,34,Saint Petersburg,new,2020-05-03
+103421,47,Kazan,regular,2020-05-29
+103422,62,Moscow,regular,2023-10-07
+103423,52,Perm,regular,2022-08-23
+103424,39,Saint Petersburg,regular,2022-02-13
+103425,52,Novosibirsk,regular,2024-12-05
+103426,73,Moscow,new,2019-07-09
+103427,45,Samara,regular,2024-07-22
+103428,68,Samara,premium,2020-08-10
+103429,62,Samara,premium,2022-09-26
+103430,35,Moscow,regular,2020-12-11
+103431,32,Tomsk,regular,2020-10-04
+103432,61,Saint Petersburg,regular,2020-12-04
+103433,29,Saint Petersburg,regular,2022-05-10
+103434,37,Saint Petersburg,regular,2024-04-07
+103435,31,Saint Petersburg,regular,2019-09-04
+103436,52,Novosibirsk,new,2022-12-22
+103437,34,Moscow,regular,2024-02-29
+103438,55,Kazan,regular,2023-05-30
+103439,71,Yekaterinburg,regular,2024-11-18
+103440,65,Samara,premium,2019-01-30
+103441,72,Yekaterinburg,regular,2021-03-05
+103442,19,Novosibirsk,premium,2021-07-26
+103443,43,Moscow,regular,2022-03-20
+103444,30,Samara,regular,2020-11-27
+103445,70,Moscow,premium,2020-07-08
+103446,58,Saint Petersburg,premium,2024-02-11
+103447,36,Moscow,premium,2020-05-24
+103448,50,Yekaterinburg,regular,2024-09-21
+103449,52,Saint Petersburg,regular,2019-03-23
+103450,46,Yekaterinburg,new,2021-07-16
+103451,45,Saint Petersburg,regular,2022-08-28
+103452,21,Kazan,premium,2024-11-02
+103453,43,Kazan,regular,2023-08-03
+103454,37,Moscow,regular,2019-02-01
+103455,64,Kazan,premium,2023-06-29
+103456,67,Yekaterinburg,premium,2020-12-14
+103457,60,Novosibirsk,premium,2024-02-28
+103458,19,Moscow,regular,2023-08-26
+103459,65,Yekaterinburg,regular,2020-02-25
+103460,40,Saint Petersburg,premium,2021-02-28
+103461,41,Moscow,new,2023-12-05
+103462,71,Moscow,new,2024-07-11
+103463,67,Kazan,premium,2022-08-16
+103464,20,Saint Petersburg,regular,2020-04-23
+103465,38,Yekaterinburg,regular,2021-05-03
+103466,60,Saint Petersburg,new,2023-10-11
+103467,48,Perm,regular,2022-08-04
+103468,32,Saint Petersburg,premium,2020-03-18
+103469,47,Yekaterinburg,regular,2020-09-18
+103470,67,Perm,regular,2020-03-08
+103471,30,Kazan,regular,2021-10-25
+103472,60,Moscow,premium,2021-09-04
+103473,59,Novosibirsk,premium,2022-04-02
+103474,68,Tomsk,regular,2024-09-02
+103475,34,Tomsk,regular,2022-11-29
+103476,30,Moscow,regular,2022-07-07
+103477,49,Perm,regular,2021-03-13
+103478,48,Saint Petersburg,new,2022-10-23
+103479,41,Moscow,regular,2024-09-25
+103480,62,Yekaterinburg,regular,2019-01-22
+103481,63,Novosibirsk,regular,2021-02-05
+103482,32,Novosibirsk,regular,2019-05-05
+103483,63,Samara,new,2020-03-22
+103484,31,Saint Petersburg,new,2019-05-27
+103485,41,Yekaterinburg,regular,2022-07-22
+103486,19,Saint Petersburg,new,2023-12-02
+103487,37,Moscow,new,2024-08-23
+103488,72,Saint Petersburg,premium,2020-06-03
+103489,43,Tomsk,regular,2023-03-14
+103490,58,Kazan,premium,2020-12-21
+103491,24,Moscow,regular,2020-11-23
+103492,54,Yekaterinburg,regular,2022-08-30
+103493,39,Tomsk,regular,2023-01-28
+103494,60,Samara,new,2022-07-04
+103495,70,Novosibirsk,regular,2019-08-07
+103496,48,Saint Petersburg,regular,2021-06-18
+103497,23,Novosibirsk,regular,2020-09-18
+103498,45,Samara,regular,2019-01-10
+103499,25,Samara,regular,2019-03-31
+103500,43,Samara,premium,2021-09-12
+103501,21,Kazan,regular,2019-08-09
+103502,54,Moscow,new,2023-06-08
+103503,35,Novosibirsk,premium,2019-05-04
+103504,29,Moscow,premium,2020-05-30
+103505,18,Moscow,regular,2024-11-30
+103506,68,Kazan,new,2023-04-02
+103507,65,Yekaterinburg,regular,2022-05-06
+103508,64,Samara,regular,2019-02-03
+103509,21,Perm,regular,2019-04-06
+103510,37,Samara,premium,2024-06-13
+103511,73,Perm,regular,2023-10-19
+103512,50,Yekaterinburg,premium,2024-09-13
+103513,25,Moscow,regular,2023-11-07
+103514,26,Yekaterinburg,regular,2019-01-06
+103515,32,Moscow,premium,2023-11-01
+103516,73,Moscow,regular,2021-09-30
+103517,27,Moscow,regular,2023-02-26
+103518,69,Samara,regular,2021-06-26
+103519,56,Perm,new,2023-04-30
+103520,70,Tomsk,regular,2024-01-20
+103521,65,Tomsk,regular,2024-11-06
+103522,36,Samara,premium,2022-03-31
+103523,65,Moscow,premium,2020-09-03
+103524,27,Samara,regular,2022-09-02
+103525,34,Samara,new,2021-12-31
+103526,30,Samara,regular,2020-03-19
+103527,25,Moscow,new,2023-05-08
+103528,23,Moscow,regular,2019-06-18
+103529,28,Tomsk,regular,2021-06-02
+103530,24,Moscow,premium,2023-02-26
+103531,39,Saint Petersburg,regular,2024-07-11
+103532,22,Kazan,regular,2022-09-22
+103533,21,Moscow,premium,2024-11-16
+103534,74,Moscow,regular,2023-12-30
+103535,22,Tomsk,premium,2020-06-01
+103536,22,Samara,premium,2024-01-26
+103537,19,Tomsk,regular,2021-01-06
+103538,25,Saint Petersburg,regular,2022-10-15
+103539,48,Moscow,regular,2020-03-16
+103540,65,Kazan,regular,2022-03-26
+103541,59,Kazan,premium,2023-01-29
+103542,51,Moscow,regular,2024-06-26
+103543,22,Perm,regular,2024-08-29
+103544,62,Tomsk,regular,2023-10-23
+103545,20,Novosibirsk,regular,2022-05-09
+103546,53,Kazan,regular,2024-04-18
+103547,41,Kazan,premium,2019-08-21
+103548,68,Moscow,regular,2024-12-22
+103549,35,Saint Petersburg,regular,2020-03-22
+103550,54,Novosibirsk,regular,2021-06-03
+103551,43,Kazan,new,2024-06-12
+103552,47,Novosibirsk,regular,2023-04-21
+103553,71,Samara,premium,2024-02-06
+103554,58,Moscow,regular,2023-02-17
+103555,41,Moscow,regular,2022-08-10
+103556,43,Moscow,regular,2020-01-17
+103557,58,Moscow,new,2024-12-23
+103558,37,Novosibirsk,regular,2022-10-27
+103559,27,Perm,premium,2023-01-04
+103560,44,Samara,new,2021-07-27
+103561,21,Yekaterinburg,regular,2024-09-17
+103562,27,Kazan,regular,2021-09-14
+103563,41,Moscow,new,2020-02-22
+103564,63,Kazan,regular,2020-01-30
+103565,62,Saint Petersburg,new,2023-03-11
+103566,32,Samara,regular,2023-06-21
+103567,42,Kazan,premium,2020-03-27
+103568,26,Moscow,regular,2023-03-10
+103569,61,Saint Petersburg,regular,2024-12-26
+103570,32,Moscow,regular,2022-03-12
+103571,63,Tomsk,premium,2024-10-28
+103572,65,Moscow,new,2019-12-10
+103573,57,Moscow,premium,2021-06-02
+103574,36,Moscow,regular,2022-05-05
+103575,72,Samara,premium,2021-02-23
+103576,57,Novosibirsk,regular,2019-08-08
+103577,54,Yekaterinburg,new,2021-10-01
+103578,66,Saint Petersburg,regular,2021-01-13
+103579,68,Moscow,new,2020-03-22
+103580,22,Samara,regular,2021-03-27
+103581,68,Moscow,regular,2021-07-05
+103582,61,Moscow,regular,2024-04-20
+103583,29,Novosibirsk,new,2021-12-13
+103584,35,Moscow,regular,2021-06-29
+103585,60,Moscow,regular,2021-05-03
+103586,30,Perm,premium,2022-08-04
+103587,43,Kazan,regular,2020-08-27
+103588,57,Saint Petersburg,regular,2024-04-01
+103589,55,Saint Petersburg,premium,2021-07-06
+103590,69,Perm,regular,2021-07-22
+103591,24,Moscow,regular,2019-05-21
+103592,34,Moscow,new,2024-04-21
+103593,74,Yekaterinburg,regular,2021-10-29
+103594,50,Novosibirsk,regular,2019-10-27
+103595,32,Tomsk,new,2020-01-11
+103596,34,Saint Petersburg,regular,2021-03-10
+103597,37,Moscow,new,2023-09-07
+103598,49,Novosibirsk,regular,2019-07-27
+103599,34,Yekaterinburg,new,2019-09-22
+103600,53,Moscow,regular,2022-05-14
+103601,43,Novosibirsk,premium,2021-12-29
+103602,52,Moscow,new,2024-09-29
+103603,26,Samara,regular,2023-07-07
+103604,53,Samara,regular,2022-12-11
+103605,70,Kazan,premium,2021-01-06
+103606,25,Tomsk,new,2022-10-04
+103607,36,Tomsk,regular,2022-07-04
+103608,57,Moscow,regular,2020-09-01
+103609,53,Saint Petersburg,regular,2021-03-23
+103610,56,Novosibirsk,regular,2024-08-02
+103611,49,Moscow,regular,2022-03-25
+103612,56,Kazan,regular,2021-10-30
+103613,52,Saint Petersburg,new,2023-10-13
+103614,22,Tomsk,regular,2020-08-08
+103615,60,Kazan,regular,2020-04-26
+103616,43,Perm,regular,2024-12-05
+103617,20,Kazan,new,2023-10-27
+103618,41,Moscow,regular,2021-07-16
+103619,42,Samara,regular,2024-09-05
+103620,22,Moscow,regular,2021-03-25
+103621,74,Moscow,premium,2023-01-20
+103622,30,Saint Petersburg,regular,2019-03-18
+103623,36,Yekaterinburg,regular,2023-03-10
+103624,43,Saint Petersburg,new,2020-01-26
+103625,65,Moscow,premium,2020-06-13
+103626,60,Saint Petersburg,regular,2023-11-09
+103627,61,Saint Petersburg,regular,2020-03-26
+103628,31,Moscow,new,2021-11-24
+103629,66,Novosibirsk,new,2024-07-11
+103630,65,Moscow,regular,2024-09-24
+103631,44,Saint Petersburg,new,2021-08-31
+103632,49,Yekaterinburg,regular,2019-07-03
+103633,20,Perm,new,2020-09-20
+103634,61,Saint Petersburg,premium,2022-09-12
+103635,72,Saint Petersburg,regular,2021-01-08
+103636,44,Saint Petersburg,premium,2023-04-28
+103637,48,Tomsk,premium,2024-12-15
+103638,46,Moscow,premium,2022-09-23
+103639,22,Moscow,regular,2022-10-01
+103640,53,Kazan,new,2022-03-07
+103641,59,Moscow,regular,2020-02-13
+103642,70,Moscow,regular,2022-06-21
+103643,70,Moscow,regular,2024-08-04
+103644,46,Yekaterinburg,new,2023-02-20
+103645,72,Yekaterinburg,new,2023-07-07
+103646,48,Yekaterinburg,regular,2024-03-07
+103647,54,Perm,new,2021-04-29
+103648,52,Saint Petersburg,new,2021-01-07
+103649,74,Tomsk,new,2024-10-27
+103650,60,Perm,regular,2021-10-04
+103651,24,Perm,new,2023-05-28
+103652,22,Perm,new,2022-10-25
+103653,41,Saint Petersburg,new,2019-09-28
+103654,47,Saint Petersburg,regular,2020-11-19
+103655,56,Kazan,new,2020-12-16
+103656,45,Moscow,new,2020-01-27
+103657,47,Kazan,premium,2023-09-04
+103658,70,Moscow,premium,2024-10-18
+103659,37,Moscow,new,2024-10-19
+103660,46,Tomsk,regular,2020-03-02
+103661,49,Yekaterinburg,new,2021-09-12
+103662,44,Novosibirsk,regular,2020-05-25
+103663,73,Saint Petersburg,regular,2019-05-18
+103664,72,Novosibirsk,premium,2022-09-18
+103665,47,Samara,regular,2024-02-28
+103666,43,Yekaterinburg,regular,2019-06-19
+103667,51,Novosibirsk,new,2022-11-07
+103668,28,Kazan,premium,2019-03-16
+103669,42,Saint Petersburg,regular,2024-01-23
+103670,30,Yekaterinburg,regular,2019-05-21
+103671,26,Tomsk,new,2021-08-12
+103672,23,Kazan,regular,2019-09-28
+103673,51,Kazan,regular,2021-06-22
+103674,18,Kazan,premium,2021-07-29
+103675,54,Kazan,regular,2022-03-29
+103676,42,Tomsk,regular,2023-12-23
+103677,38,Yekaterinburg,regular,2024-12-24
+103678,61,Saint Petersburg,regular,2021-01-19
+103679,48,Saint Petersburg,premium,2024-07-16
+103680,59,Kazan,regular,2021-07-26
+103681,58,Moscow,new,2019-09-17
+103682,19,Novosibirsk,new,2022-08-08
+103683,30,Samara,regular,2023-05-04
+103684,50,Yekaterinburg,premium,2020-10-24
+103685,73,Moscow,new,2022-07-16
+103686,26,Perm,regular,2021-08-06
+103687,24,Yekaterinburg,premium,2019-11-14
+103688,71,Saint Petersburg,regular,2021-04-26
+103689,73,Yekaterinburg,new,2021-07-26
+103690,27,Yekaterinburg,regular,2021-01-19
+103691,40,Samara,regular,2024-06-28
+103692,53,Moscow,new,2021-05-01
+103693,29,Moscow,regular,2022-10-04
+103694,36,Kazan,regular,2019-01-25
+103695,40,Moscow,regular,2020-11-17
+103696,54,Kazan,regular,2024-04-26
+103697,35,Perm,new,2024-05-10
+103698,41,Moscow,new,2024-11-12
+103699,34,Kazan,new,2019-05-05
+103700,61,Tomsk,new,2024-03-05
+103701,26,Novosibirsk,regular,2020-08-09
+103702,31,Kazan,new,2019-01-13
+103703,32,Novosibirsk,regular,2019-07-22
+103704,69,Moscow,new,2023-07-04
+103705,71,Moscow,new,2022-07-21
+103706,46,Yekaterinburg,new,2022-06-10
+103707,26,Kazan,regular,2024-04-17
+103708,61,Saint Petersburg,regular,2019-07-26
+103709,46,Moscow,regular,2019-07-01
+103710,66,Samara,new,2024-08-06
+103711,38,Moscow,regular,2022-08-21
+103712,74,Perm,regular,2023-08-29
+103713,63,Kazan,regular,2022-02-24
+103714,30,Novosibirsk,new,2019-11-15
+103715,59,Saint Petersburg,new,2022-02-19
+103716,34,Moscow,new,2024-10-14
+103717,37,Novosibirsk,premium,2019-09-15
+103718,32,Yekaterinburg,regular,2019-10-04
+103719,56,Moscow,regular,2021-01-29
+103720,32,Kazan,regular,2021-09-23
+103721,54,Kazan,regular,2022-10-10
+103722,51,Moscow,regular,2019-12-15
+103723,60,Novosibirsk,new,2024-08-09
+103724,74,Moscow,regular,2019-11-26
+103725,18,Novosibirsk,new,2020-03-14
+103726,74,Moscow,new,2024-10-22
+103727,24,Kazan,regular,2021-04-05
+103728,48,Saint Petersburg,regular,2022-06-08
+103729,37,Kazan,regular,2021-08-11
+103730,54,Kazan,regular,2020-07-22
+103731,59,Samara,new,2022-01-15
+103732,67,Kazan,premium,2023-08-29
+103733,40,Samara,new,2019-01-26
+103734,71,Moscow,regular,2024-04-02
+103735,36,Saint Petersburg,regular,2020-02-09
+103736,29,Moscow,regular,2024-07-04
+103737,39,Kazan,regular,2024-10-10
+103738,48,Yekaterinburg,regular,2024-08-07
+103739,56,Samara,regular,2022-11-27
+103740,65,Novosibirsk,new,2024-06-08
+103741,30,Yekaterinburg,regular,2024-02-28
+103742,35,Moscow,new,2022-11-01
+103743,71,Moscow,regular,2024-05-09
+103744,43,Perm,regular,2021-01-20
+103745,31,Moscow,regular,2024-01-04
+103746,74,Moscow,regular,2024-07-21
+103747,43,Tomsk,new,2022-10-24
+103748,74,Tomsk,regular,2019-09-26
+103749,70,Yekaterinburg,regular,2020-04-14
+103750,69,Saint Petersburg,regular,2020-01-06
+103751,51,Samara,regular,2022-03-14
+103752,63,Moscow,regular,2021-08-08
+103753,72,Kazan,new,2023-12-19
+103754,33,Saint Petersburg,new,2020-09-13
+103755,20,Tomsk,regular,2019-12-29
+103756,36,Tomsk,new,2022-09-11
+103757,54,Yekaterinburg,new,2019-11-01
+103758,49,Moscow,regular,2024-06-07
+103759,22,Kazan,regular,2019-06-27
+103760,49,Saint Petersburg,regular,2021-12-12
+103761,27,Samara,regular,2024-09-10
+103762,46,Moscow,premium,2022-04-29
+103763,50,Moscow,regular,2023-11-07
+103764,54,Yekaterinburg,regular,2021-07-16
+103765,41,Kazan,new,2023-07-13
+103766,41,Samara,new,2023-03-31
+103767,56,Moscow,regular,2022-01-30
+103768,60,Perm,regular,2019-08-09
+103769,64,Moscow,new,2024-10-29
+103770,37,Moscow,new,2019-04-17
+103771,42,Kazan,regular,2021-02-21
+103772,36,Moscow,regular,2022-11-06
+103773,48,Novosibirsk,premium,2023-08-13
+103774,25,Moscow,new,2022-03-18
+103775,42,Moscow,new,2021-05-29
+103776,28,Perm,regular,2021-06-11
+103777,48,Moscow,new,2024-11-08
+103778,66,Yekaterinburg,new,2021-01-02
+103779,74,Perm,regular,2024-02-17
+103780,43,Moscow,regular,2019-04-24
+103781,21,Perm,new,2022-12-16
+103782,30,Saint Petersburg,regular,2023-01-31
+103783,23,Kazan,regular,2023-01-21
+103784,61,Moscow,new,2021-07-12
+103785,74,Samara,premium,2023-02-23
+103786,49,Novosibirsk,regular,2021-09-03
+103787,28,Novosibirsk,premium,2022-07-25
+103788,19,Tomsk,premium,2024-05-12
+103789,73,Saint Petersburg,regular,2023-01-13
+103790,36,Samara,new,2023-06-05
+103791,24,Yekaterinburg,regular,2024-10-24
+103792,28,Tomsk,regular,2020-04-26
+103793,32,Samara,new,2022-07-12
+103794,55,Tomsk,regular,2022-12-11
+103795,68,Moscow,regular,2023-03-05
+103796,33,Perm,premium,2019-10-17
+103797,57,Perm,regular,2023-07-25
+103798,21,Yekaterinburg,premium,2020-03-01
+103799,18,Saint Petersburg,regular,2021-06-15
+103800,21,Tomsk,regular,2023-04-15
+103801,70,Moscow,regular,2020-07-30
+103802,51,Kazan,premium,2019-10-03
+103803,63,Novosibirsk,premium,2023-01-20
+103804,19,Moscow,regular,2020-09-06
+103805,19,Perm,regular,2023-12-17
+103806,66,Moscow,regular,2024-05-22
+103807,23,Yekaterinburg,regular,2021-02-05
+103808,26,Samara,premium,2023-06-07
+103809,47,Saint Petersburg,new,2020-05-06
+103810,52,Yekaterinburg,new,2024-07-30
+103811,31,Moscow,regular,2020-06-22
+103812,43,Samara,regular,2024-04-16
+103813,56,Tomsk,regular,2023-09-21
+103814,43,Moscow,new,2020-11-16
+103815,39,Yekaterinburg,new,2023-12-13
+103816,22,Novosibirsk,new,2022-10-18
+103817,43,Novosibirsk,regular,2023-01-07
+103818,63,Yekaterinburg,new,2021-04-10
+103819,53,Kazan,regular,2020-05-28
+103820,68,Novosibirsk,new,2023-03-09
+103821,25,Moscow,regular,2019-04-25
+103822,18,Saint Petersburg,regular,2021-02-02
+103823,49,Samara,regular,2019-11-07
+103824,28,Moscow,premium,2019-01-03
+103825,51,Novosibirsk,new,2019-01-17
+103826,69,Moscow,regular,2019-07-25
+103827,37,Samara,regular,2024-08-21
+103828,49,Novosibirsk,new,2023-08-18
+103829,56,Kazan,regular,2024-12-08
+103830,26,Saint Petersburg,premium,2019-07-04
+103831,69,Kazan,regular,2024-12-26
+103832,29,Tomsk,premium,2022-08-06
+103833,64,Novosibirsk,regular,2023-10-08
+103834,55,Kazan,regular,2024-02-24
+103835,26,Perm,new,2020-07-28
+103836,59,Saint Petersburg,new,2023-06-13
+103837,29,Kazan,new,2022-11-20
+103838,52,Saint Petersburg,regular,2021-06-25
+103839,72,Moscow,regular,2021-12-14
+103840,72,Yekaterinburg,new,2020-04-02
+103841,67,Samara,regular,2020-02-10
+103842,46,Samara,new,2024-07-15
+103843,49,Samara,regular,2023-05-23
+103844,35,Kazan,new,2022-05-26
+103845,70,Saint Petersburg,regular,2023-03-03
+103846,45,Yekaterinburg,regular,2021-06-07
+103847,61,Tomsk,regular,2020-07-01
+103848,38,Perm,new,2024-08-26
+103849,60,Kazan,regular,2024-12-09
+103850,30,Yekaterinburg,premium,2020-04-16
+103851,59,Perm,new,2023-10-24
+103852,20,Tomsk,regular,2021-08-27
+103853,23,Perm,new,2023-04-01
+103854,38,Kazan,new,2019-08-27
+103855,45,Saint Petersburg,regular,2021-11-16
+103856,58,Kazan,new,2019-10-01
+103857,38,Saint Petersburg,regular,2023-11-21
+103858,19,Tomsk,premium,2021-05-23
+103859,36,Novosibirsk,new,2020-08-01
+103860,43,Kazan,new,2023-03-14
+103861,48,Saint Petersburg,regular,2024-09-23
+103862,54,Yekaterinburg,regular,2021-01-12
+103863,32,Novosibirsk,premium,2023-04-23
+103864,52,Moscow,regular,2023-02-20
+103865,54,Samara,regular,2021-12-09
+103866,62,Saint Petersburg,premium,2023-10-31
+103867,47,Kazan,new,2019-10-08
+103868,64,Moscow,regular,2024-04-07
+103869,30,Novosibirsk,regular,2021-06-04
+103870,58,Yekaterinburg,regular,2019-04-09
+103871,20,Samara,new,2024-12-08
+103872,23,Moscow,regular,2023-08-24
+103873,67,Tomsk,new,2023-11-25
+103874,45,Yekaterinburg,premium,2019-11-19
+103875,53,Saint Petersburg,new,2023-07-04
+103876,52,Moscow,new,2023-03-11
+103877,57,Saint Petersburg,premium,2024-06-01
+103878,31,Samara,regular,2021-03-25
+103879,28,Saint Petersburg,regular,2024-07-25
+103880,20,Kazan,regular,2023-04-01
+103881,67,Yekaterinburg,regular,2020-07-10
+103882,30,Samara,new,2020-04-13
+103883,50,Yekaterinburg,regular,2024-06-03
+103884,43,Perm,regular,2022-11-14
+103885,27,Moscow,regular,2019-09-17
+103886,41,Samara,regular,2019-10-03
+103887,22,Saint Petersburg,new,2023-12-20
+103888,28,Moscow,regular,2020-01-08
+103889,25,Tomsk,new,2020-04-25
+103890,64,Moscow,regular,2022-09-08
+103891,50,Moscow,regular,2024-03-07
+103892,70,Yekaterinburg,regular,2021-01-08
+103893,42,Saint Petersburg,regular,2022-12-30
+103894,29,Moscow,regular,2023-03-23
+103895,52,Novosibirsk,premium,2022-08-09
+103896,70,Perm,regular,2023-02-10
+103897,48,Perm,regular,2020-05-13
+103898,19,Moscow,regular,2022-09-24
+103899,35,Novosibirsk,new,2019-01-08
+103900,70,Samara,premium,2023-05-21
+103901,47,Moscow,regular,2023-10-03
+103902,72,Moscow,regular,2023-10-07
+103903,47,Moscow,new,2019-03-06
+103904,18,Novosibirsk,new,2024-06-20
+103905,67,Moscow,regular,2021-08-10
+103906,61,Perm,regular,2019-06-26
+103907,58,Tomsk,regular,2022-03-17
+103908,73,Moscow,regular,2022-06-06
+103909,29,Yekaterinburg,regular,2021-05-31
+103910,69,Moscow,new,2023-06-30
+103911,31,Moscow,new,2022-04-06
+103912,73,Perm,new,2020-04-20
+103913,28,Kazan,regular,2022-09-21
+103914,49,Tomsk,regular,2020-07-31
+103915,62,Novosibirsk,premium,2019-09-18
+103916,22,Moscow,regular,2020-08-08
+103917,21,Kazan,regular,2024-06-07
+103918,66,Moscow,regular,2022-06-08
+103919,21,Samara,regular,2020-11-27
+103920,52,Yekaterinburg,premium,2021-03-13
+103921,71,Saint Petersburg,regular,2024-02-28
+103922,53,Novosibirsk,new,2022-12-31
+103923,45,Yekaterinburg,regular,2023-08-24
+103924,41,Perm,new,2022-08-30
+103925,54,Moscow,new,2024-12-14
+103926,50,Moscow,regular,2022-12-11
+103927,46,Moscow,regular,2021-05-27
+103928,26,Kazan,new,2020-07-07
+103929,55,Kazan,new,2019-04-12
+103930,60,Moscow,premium,2023-08-10
+103931,58,Kazan,new,2024-08-06
+103932,22,Kazan,new,2022-12-26
+103933,58,Moscow,regular,2021-12-03
+103934,59,Tomsk,regular,2019-10-14
+103935,28,Novosibirsk,regular,2022-11-12
+103936,66,Kazan,regular,2020-03-14
+103937,47,Novosibirsk,regular,2022-09-25
+103938,44,Saint Petersburg,new,2020-10-21
+103939,59,Samara,regular,2024-03-13
+103940,47,Novosibirsk,regular,2024-08-13
+103941,49,Kazan,regular,2020-05-28
+103942,35,Tomsk,regular,2020-12-16
+103943,70,Samara,regular,2024-07-14
+103944,73,Samara,new,2019-02-13
+103945,25,Moscow,regular,2022-02-06
+103946,59,Moscow,new,2019-11-07
+103947,19,Yekaterinburg,regular,2021-08-06
+103948,39,Kazan,regular,2019-03-12
+103949,73,Yekaterinburg,regular,2019-11-04
+103950,27,Perm,regular,2021-06-02
+103951,39,Saint Petersburg,regular,2019-05-12
+103952,30,Saint Petersburg,premium,2023-10-14
+103953,59,Kazan,regular,2022-06-20
+103954,44,Saint Petersburg,new,2021-09-14
+103955,51,Yekaterinburg,regular,2021-11-01
+103956,71,Perm,new,2024-01-14
+103957,47,Kazan,new,2024-01-28
+103958,59,Perm,new,2019-04-15
+103959,23,Novosibirsk,premium,2023-02-10
+103960,30,Yekaterinburg,new,2021-10-26
+103961,71,Moscow,regular,2023-09-13
+103962,66,Perm,regular,2023-09-22
+103963,55,Yekaterinburg,regular,2023-04-02
+103964,39,Saint Petersburg,regular,2023-01-18
+103965,29,Novosibirsk,premium,2020-04-09
+103966,66,Samara,regular,2024-02-13
+103967,62,Saint Petersburg,regular,2023-03-17
+103968,31,Perm,regular,2020-08-23
+103969,51,Tomsk,regular,2020-05-25
+103970,53,Samara,regular,2022-01-02
+103971,45,Kazan,regular,2021-01-21
+103972,70,Novosibirsk,regular,2023-01-23
+103973,25,Tomsk,new,2021-06-09
+103974,32,Novosibirsk,new,2020-01-05
+103975,23,Moscow,new,2021-05-16
+103976,57,Moscow,new,2023-11-24
+103977,54,Perm,new,2023-12-26
+103978,74,Kazan,premium,2020-11-13
+103979,48,Saint Petersburg,regular,2023-10-11
+103980,26,Saint Petersburg,regular,2019-07-24
+103981,43,Perm,regular,2024-11-26
+103982,23,Kazan,regular,2023-08-06
+103983,56,Samara,new,2019-03-31
+103984,56,Perm,regular,2023-03-26
+103985,66,Tomsk,regular,2021-12-18
+103986,37,Samara,regular,2024-04-21
+103987,35,Saint Petersburg,premium,2020-06-10
+103988,22,Yekaterinburg,premium,2024-05-09
+103989,41,Moscow,new,2024-03-23
+103990,45,Tomsk,regular,2020-09-02
+103991,61,Saint Petersburg,new,2021-08-05
+103992,60,Yekaterinburg,new,2022-11-06
+103993,25,Samara,new,2020-06-10
+103994,34,Moscow,new,2024-12-30
+103995,47,Samara,regular,2020-02-23
+103996,37,Moscow,regular,2020-06-18
+103997,19,Kazan,new,2022-01-02
+103998,66,Kazan,premium,2021-11-02
+103999,59,Saint Petersburg,regular,2019-04-21
+104000,47,Novosibirsk,regular,2024-06-18
+104001,36,Tomsk,regular,2020-06-10
+104002,66,Saint Petersburg,regular,2019-08-14
+104003,20,Novosibirsk,regular,2022-02-12
+104004,43,Samara,regular,2024-07-27
+104005,63,Perm,premium,2019-01-05
+104006,72,Moscow,regular,2021-12-06
+104007,32,Tomsk,regular,2024-06-19
+104008,55,Moscow,new,2024-05-11
+104009,28,Novosibirsk,premium,2020-01-10
+104010,24,Novosibirsk,regular,2022-09-24
+104011,38,Perm,regular,2024-01-07
+104012,68,Moscow,premium,2023-01-11
+104013,57,Moscow,regular,2022-12-11
+104014,45,Perm,new,2023-08-22
+104015,34,Moscow,regular,2021-09-20
+104016,26,Kazan,regular,2019-05-28
+104017,33,Perm,premium,2022-11-02
+104018,26,Yekaterinburg,regular,2022-10-08
+104019,28,Moscow,new,2024-02-10
+104020,57,Saint Petersburg,regular,2024-07-18
+104021,25,Tomsk,regular,2021-01-10
+104022,20,Kazan,new,2024-09-26
+104023,48,Moscow,premium,2019-01-22
+104024,34,Moscow,new,2024-10-23
+104025,43,Saint Petersburg,premium,2019-10-28
+104026,25,Tomsk,regular,2022-11-16
+104027,29,Saint Petersburg,new,2023-02-06
+104028,43,Moscow,regular,2022-10-20
+104029,57,Novosibirsk,regular,2024-12-12
+104030,41,Moscow,regular,2022-04-26
+104031,48,Saint Petersburg,regular,2019-10-16
+104032,47,Tomsk,new,2022-08-24
+104033,33,Yekaterinburg,new,2020-09-29
+104034,33,Moscow,regular,2022-09-03
+104035,42,Kazan,new,2021-04-14
+104036,19,Moscow,new,2019-04-03
+104037,57,Moscow,regular,2022-10-29
+104038,53,Novosibirsk,new,2019-07-14
+104039,35,Novosibirsk,regular,2020-12-19
+104040,39,Perm,regular,2022-09-19
+104041,36,Samara,regular,2024-04-15
+104042,55,Saint Petersburg,new,2020-11-19
+104043,61,Tomsk,regular,2020-10-16
+104044,24,Novosibirsk,regular,2020-10-22
+104045,41,Saint Petersburg,regular,2022-06-14
+104046,18,Samara,regular,2020-02-29
+104047,43,Moscow,regular,2022-03-01
+104048,32,Novosibirsk,regular,2023-10-22
+104049,37,Perm,regular,2019-06-26
+104050,44,Saint Petersburg,regular,2024-10-14
+104051,36,Samara,new,2022-03-11
+104052,40,Saint Petersburg,premium,2022-10-08
+104053,61,Samara,regular,2022-09-15
+104054,64,Moscow,new,2024-09-03
+104055,18,Moscow,regular,2022-12-27
+104056,39,Kazan,regular,2024-04-21
+104057,66,Samara,new,2020-09-18
+104058,48,Moscow,premium,2020-04-22
+104059,29,Samara,regular,2022-11-11
+104060,51,Moscow,regular,2019-12-03
+104061,26,Kazan,regular,2019-09-01
+104062,19,Saint Petersburg,regular,2020-04-08
+104063,54,Moscow,regular,2020-08-16
+104064,47,Tomsk,new,2019-07-30
+104065,61,Kazan,new,2023-05-17
+104066,37,Yekaterinburg,regular,2022-07-01
+104067,66,Novosibirsk,regular,2020-03-15
+104068,42,Novosibirsk,regular,2020-09-11
+104069,60,Yekaterinburg,regular,2024-07-31
+104070,23,Samara,regular,2024-06-24
+104071,23,Yekaterinburg,regular,2019-09-27
+104072,62,Novosibirsk,premium,2022-09-06
+104073,65,Yekaterinburg,regular,2020-12-09
+104074,71,Novosibirsk,premium,2021-02-27
+104075,36,Kazan,regular,2022-08-07
+104076,19,Yekaterinburg,new,2024-11-28
+104077,73,Kazan,regular,2022-07-01
+104078,52,Perm,new,2024-09-20
+104079,32,Tomsk,regular,2023-12-04
+104080,61,Tomsk,regular,2023-09-03
+104081,69,Samara,regular,2023-09-29
+104082,34,Novosibirsk,regular,2023-10-02
+104083,61,Perm,regular,2020-07-13
+104084,62,Moscow,regular,2024-11-12
+104085,46,Kazan,premium,2024-07-05
+104086,54,Saint Petersburg,premium,2022-08-09
+104087,33,Moscow,regular,2023-04-08
+104088,70,Tomsk,new,2024-04-13
+104089,74,Samara,new,2019-12-01
+104090,73,Novosibirsk,new,2019-05-23
+104091,60,Saint Petersburg,regular,2024-12-22
+104092,20,Yekaterinburg,new,2022-04-29
+104093,38,Kazan,premium,2023-05-02
+104094,43,Perm,regular,2022-01-06
+104095,72,Tomsk,regular,2022-02-08
+104096,49,Saint Petersburg,regular,2019-03-24
+104097,48,Saint Petersburg,regular,2020-09-26
+104098,26,Saint Petersburg,regular,2019-07-10
+104099,63,Moscow,regular,2021-08-05
+104100,37,Kazan,new,2019-02-17
+104101,23,Moscow,regular,2023-10-26
+104102,74,Moscow,new,2020-10-06
+104103,28,Saint Petersburg,regular,2023-06-13
+104104,18,Moscow,premium,2019-04-28
+104105,22,Perm,new,2019-03-15
+104106,43,Moscow,new,2021-07-16
+104107,23,Samara,regular,2023-09-24
+104108,66,Moscow,regular,2023-11-17
+104109,47,Moscow,new,2022-04-08
+104110,36,Moscow,new,2022-09-07
+104111,18,Yekaterinburg,new,2023-02-18
+104112,45,Saint Petersburg,regular,2023-01-16
+104113,26,Novosibirsk,new,2023-06-13
+104114,73,Moscow,regular,2019-03-11
+104115,34,Tomsk,premium,2021-07-29
+104116,45,Moscow,new,2024-01-15
+104117,19,Kazan,regular,2021-08-21
+104118,25,Samara,new,2019-11-17
+104119,29,Saint Petersburg,regular,2022-12-29
+104120,20,Saint Petersburg,new,2020-10-25
+104121,59,Perm,regular,2022-01-25
+104122,71,Saint Petersburg,regular,2022-02-06
+104123,74,Moscow,regular,2023-03-07
+104124,33,Kazan,regular,2024-07-31
+104125,62,Moscow,regular,2023-03-01
+104126,46,Samara,regular,2024-12-27
+104127,20,Yekaterinburg,new,2019-02-11
+104128,23,Novosibirsk,premium,2023-09-12
+104129,49,Moscow,regular,2021-07-03
+104130,42,Yekaterinburg,regular,2023-05-18
+104131,18,Yekaterinburg,regular,2019-07-06
+104132,71,Moscow,regular,2022-03-02
+104133,59,Samara,new,2019-03-07
+104134,46,Novosibirsk,new,2022-12-30
+104135,74,Perm,regular,2020-04-19
+104136,73,Saint Petersburg,regular,2019-11-13
+104137,73,Moscow,regular,2019-06-23
+104138,32,Yekaterinburg,regular,2020-08-13
+104139,68,Perm,premium,2024-10-04
+104140,46,Kazan,premium,2024-11-28
+104141,59,Moscow,regular,2019-06-26
+104142,66,Samara,new,2024-11-17
+104143,27,Moscow,regular,2022-07-11
+104144,43,Saint Petersburg,regular,2020-12-08
+104145,25,Yekaterinburg,regular,2024-08-27
+104146,33,Moscow,new,2020-06-12
+104147,41,Moscow,regular,2020-02-03
+104148,66,Moscow,regular,2020-05-18
+104149,67,Tomsk,regular,2019-11-16
+104150,40,Saint Petersburg,regular,2021-11-28
+104151,36,Yekaterinburg,regular,2019-11-05
+104152,48,Tomsk,regular,2020-05-05
+104153,69,Yekaterinburg,regular,2021-03-25
+104154,73,Novosibirsk,regular,2022-11-22
+104155,30,Novosibirsk,new,2024-02-24
+104156,28,Saint Petersburg,regular,2019-06-14
+104157,58,Novosibirsk,regular,2022-10-14
+104158,35,Tomsk,regular,2019-08-16
+104159,29,Perm,new,2024-12-11
+104160,19,Kazan,premium,2020-08-30
+104161,40,Saint Petersburg,regular,2024-02-22
+104162,40,Samara,regular,2023-09-01
+104163,50,Moscow,regular,2020-12-11
+104164,29,Samara,regular,2020-12-09
+104165,58,Saint Petersburg,regular,2020-11-26
+104166,56,Yekaterinburg,regular,2021-10-29
+104167,44,Perm,regular,2021-08-26
+104168,28,Kazan,premium,2022-12-10
+104169,46,Moscow,regular,2021-10-14
+104170,56,Samara,regular,2023-09-25
+104171,39,Saint Petersburg,regular,2021-10-19
+104172,33,Saint Petersburg,regular,2020-11-04
+104173,46,Novosibirsk,regular,2020-12-17
+104174,38,Kazan,regular,2023-05-22
+104175,40,Yekaterinburg,new,2019-11-05
+104176,37,Moscow,new,2020-09-19
+104177,35,Kazan,regular,2020-11-14
+104178,58,Samara,premium,2022-11-13
+104179,44,Moscow,regular,2019-10-10
+104180,44,Kazan,regular,2021-09-15
+104181,55,Yekaterinburg,regular,2023-01-18
+104182,38,Samara,regular,2024-07-24
+104183,23,Novosibirsk,premium,2021-08-17
+104184,66,Samara,premium,2024-11-22
+104185,21,Moscow,regular,2022-08-25
+104186,50,Saint Petersburg,regular,2023-08-24
+104187,33,Tomsk,new,2020-06-16
+104188,30,Samara,regular,2024-06-29
+104189,20,Novosibirsk,regular,2020-07-22
+104190,69,Kazan,regular,2019-10-27
+104191,42,Kazan,new,2019-06-23
+104192,37,Moscow,regular,2022-12-05
+104193,60,Samara,new,2022-10-09
+104194,20,Samara,regular,2020-03-10
+104195,50,Kazan,regular,2024-04-10
+104196,46,Saint Petersburg,regular,2020-08-30
+104197,49,Saint Petersburg,regular,2022-08-29
+104198,25,Moscow,regular,2022-02-20
+104199,72,Perm,regular,2022-07-22
+104200,31,Novosibirsk,regular,2023-06-15
+104201,56,Moscow,regular,2024-07-25
+104202,60,Yekaterinburg,regular,2023-05-01
+104203,37,Tomsk,new,2024-06-11
+104204,25,Moscow,regular,2024-03-20
+104205,34,Kazan,new,2021-02-25
+104206,63,Kazan,regular,2022-05-10
+104207,69,Moscow,regular,2020-03-10
+104208,71,Novosibirsk,new,2024-07-23
+104209,30,Novosibirsk,regular,2024-10-20
+104210,52,Moscow,regular,2024-04-30
+104211,26,Moscow,regular,2023-06-16
+104212,58,Samara,new,2024-02-05
+104213,41,Saint Petersburg,new,2023-10-07
+104214,58,Yekaterinburg,regular,2020-05-18
+104215,57,Yekaterinburg,regular,2020-08-01
+104216,74,Samara,premium,2022-03-10
+104217,45,Perm,regular,2021-07-10
+104218,37,Samara,regular,2023-06-02
+104219,48,Yekaterinburg,regular,2023-06-02
+104220,27,Kazan,premium,2024-11-09
+104221,24,Kazan,new,2023-09-25
+104222,47,Saint Petersburg,regular,2019-01-26
+104223,65,Kazan,regular,2021-01-16
+104224,48,Moscow,regular,2020-12-18
+104225,62,Kazan,new,2022-10-20
+104226,28,Kazan,new,2021-01-20
+104227,43,Moscow,regular,2024-11-14
+104228,52,Saint Petersburg,regular,2020-09-24
+104229,37,Perm,regular,2021-08-17
+104230,18,Novosibirsk,new,2023-11-27
+104231,22,Perm,premium,2021-03-15
+104232,70,Novosibirsk,regular,2019-04-09
+104233,52,Samara,premium,2020-12-29
+104234,33,Perm,new,2021-02-26
+104235,32,Moscow,regular,2022-09-03
+104236,20,Tomsk,premium,2023-04-10
+104237,71,Moscow,regular,2022-04-17
+104238,24,Novosibirsk,regular,2021-06-10
+104239,61,Perm,regular,2022-01-07
+104240,31,Saint Petersburg,regular,2019-11-12
+104241,37,Novosibirsk,regular,2020-02-01
+104242,33,Saint Petersburg,regular,2022-08-31
+104243,64,Moscow,premium,2024-03-12
+104244,19,Moscow,regular,2022-02-19
+104245,38,Moscow,regular,2019-05-13
+104246,33,Moscow,premium,2024-11-22
+104247,33,Yekaterinburg,regular,2020-12-11
+104248,28,Novosibirsk,new,2023-06-29
+104249,70,Kazan,regular,2024-05-21
+104250,39,Yekaterinburg,regular,2024-12-01
+104251,41,Moscow,premium,2019-09-13
+104252,39,Saint Petersburg,new,2020-02-13
+104253,73,Perm,regular,2022-11-15
+104254,37,Samara,regular,2023-07-28
+104255,37,Kazan,regular,2024-01-04
+104256,36,Moscow,regular,2022-04-24
+104257,36,Perm,premium,2019-12-14
+104258,23,Samara,regular,2023-04-11
+104259,52,Kazan,regular,2023-01-05
+104260,19,Saint Petersburg,regular,2021-10-21
+104261,30,Moscow,regular,2022-10-29
+104262,29,Novosibirsk,regular,2020-04-10
+104263,34,Samara,new,2023-11-13
+104264,61,Yekaterinburg,new,2019-04-11
+104265,52,Saint Petersburg,premium,2024-01-14
+104266,74,Yekaterinburg,new,2024-01-12
+104267,38,Samara,regular,2023-02-15
+104268,70,Kazan,regular,2023-11-22
+104269,20,Samara,new,2024-06-23
+104270,46,Kazan,new,2019-12-23
+104271,63,Saint Petersburg,regular,2022-04-08
+104272,48,Novosibirsk,regular,2022-11-15
+104273,71,Kazan,regular,2024-08-28
+104274,35,Tomsk,regular,2023-06-06
+104275,19,Novosibirsk,new,2022-07-26
+104276,62,Kazan,new,2022-05-07
+104277,21,Kazan,new,2019-11-12
+104278,61,Novosibirsk,regular,2020-11-26
+104279,59,Saint Petersburg,regular,2021-08-07
+104280,66,Perm,premium,2024-04-15
+104281,45,Kazan,new,2024-03-04
+104282,69,Kazan,regular,2022-11-09
+104283,27,Yekaterinburg,regular,2019-08-21
+104284,42,Moscow,regular,2023-04-28
+104285,24,Yekaterinburg,regular,2021-10-03
+104286,61,Novosibirsk,new,2022-11-30
+104287,58,Kazan,regular,2021-08-07
+104288,63,Yekaterinburg,regular,2023-05-01
+104289,61,Perm,regular,2020-04-21
+104290,35,Samara,new,2019-11-14
+104291,21,Saint Petersburg,regular,2020-04-26
+104292,70,Saint Petersburg,regular,2024-07-15
+104293,46,Yekaterinburg,regular,2019-06-15
+104294,23,Novosibirsk,new,2020-09-18
+104295,70,Yekaterinburg,regular,2021-01-20
+104296,74,Novosibirsk,regular,2024-01-08
+104297,43,Perm,regular,2021-02-26
+104298,61,Moscow,regular,2024-05-12
+104299,20,Novosibirsk,new,2024-12-05
+104300,23,Moscow,regular,2022-11-28
+104301,33,Kazan,regular,2021-01-21
+104302,55,Yekaterinburg,regular,2022-08-04
+104303,25,Kazan,regular,2023-01-06
+104304,19,Saint Petersburg,regular,2019-08-28
+104305,56,Samara,regular,2023-12-31
+104306,61,Perm,regular,2021-08-14
+104307,60,Novosibirsk,regular,2024-01-29
+104308,63,Tomsk,regular,2022-09-02
+104309,63,Kazan,new,2024-03-01
+104310,52,Perm,regular,2019-06-29
+104311,47,Moscow,premium,2019-04-04
+104312,66,Saint Petersburg,regular,2019-09-02
+104313,37,Saint Petersburg,premium,2024-03-31
+104314,23,Moscow,premium,2024-12-17
+104315,60,Novosibirsk,regular,2024-12-29
+104316,33,Moscow,regular,2020-12-29
+104317,73,Yekaterinburg,regular,2020-08-02
+104318,41,Moscow,new,2021-02-05
+104319,66,Moscow,new,2023-11-27
+104320,20,Tomsk,regular,2020-07-05
+104321,55,Yekaterinburg,regular,2022-04-14
+104322,43,Tomsk,regular,2022-11-17
+104323,44,Kazan,regular,2021-03-03
+104324,33,Moscow,regular,2021-11-02
+104325,73,Novosibirsk,regular,2022-12-29
+104326,40,Novosibirsk,regular,2023-09-29
+104327,66,Moscow,regular,2020-02-20
+104328,42,Samara,new,2022-01-28
+104329,20,Yekaterinburg,new,2019-12-05
+104330,68,Perm,new,2019-02-03
+104331,28,Kazan,new,2022-11-15
+104332,33,Yekaterinburg,new,2021-11-24
+104333,67,Saint Petersburg,regular,2020-07-22
+104334,68,Tomsk,regular,2019-05-01
+104335,70,Kazan,regular,2024-09-04
+104336,42,Moscow,premium,2023-12-18
+104337,61,Moscow,regular,2024-08-12
+104338,36,Yekaterinburg,premium,2019-09-07
+104339,60,Tomsk,regular,2019-01-31
+104340,46,Samara,new,2020-04-20
+104341,20,Yekaterinburg,premium,2019-08-09
+104342,41,Tomsk,premium,2021-10-05
+104343,44,Perm,regular,2022-11-15
+104344,32,Saint Petersburg,regular,2020-03-03
+104345,39,Novosibirsk,regular,2021-05-19
+104346,46,Moscow,regular,2022-03-27
+104347,20,Moscow,regular,2020-11-26
+104348,26,Kazan,regular,2021-10-06
+104349,61,Moscow,new,2022-07-17
+104350,38,Tomsk,new,2024-09-18
+104351,52,Tomsk,new,2020-11-10
+104352,50,Saint Petersburg,regular,2019-07-13
+104353,49,Yekaterinburg,regular,2024-03-18
+104354,41,Kazan,premium,2022-06-18
+104355,45,Moscow,new,2021-10-31
+104356,64,Saint Petersburg,regular,2023-04-29
+104357,73,Moscow,new,2024-11-20
+104358,32,Saint Petersburg,regular,2019-10-07
+104359,56,Moscow,regular,2024-03-01
+104360,73,Moscow,regular,2022-10-27
+104361,18,Moscow,premium,2022-07-07
+104362,62,Samara,premium,2024-03-09
+104363,46,Moscow,regular,2020-10-28
+104364,73,Saint Petersburg,regular,2023-09-23
+104365,50,Novosibirsk,regular,2022-06-04
+104366,65,Saint Petersburg,regular,2024-08-11
+104367,27,Novosibirsk,regular,2021-10-22
+104368,26,Moscow,regular,2023-04-29
+104369,70,Yekaterinburg,new,2021-12-26
+104370,48,Novosibirsk,new,2021-05-13
+104371,49,Yekaterinburg,new,2021-04-02
+104372,27,Novosibirsk,regular,2024-07-10
+104373,30,Kazan,regular,2024-01-11
+104374,64,Saint Petersburg,new,2020-05-08
+104375,35,Moscow,regular,2024-03-12
+104376,51,Novosibirsk,regular,2022-07-03
+104377,36,Moscow,regular,2019-08-17
+104378,33,Saint Petersburg,new,2023-08-06
+104379,27,Yekaterinburg,new,2019-12-22
+104380,70,Moscow,regular,2024-03-27
+104381,71,Moscow,regular,2021-09-23
+104382,24,Yekaterinburg,regular,2024-07-02
+104383,38,Kazan,regular,2021-11-24
+104384,50,Perm,premium,2019-07-06
+104385,39,Tomsk,regular,2023-08-08
+104386,59,Tomsk,regular,2023-05-11
+104387,32,Kazan,premium,2020-10-24
+104388,21,Saint Petersburg,new,2020-03-23
+104389,37,Novosibirsk,regular,2024-03-08
+104390,52,Yekaterinburg,new,2023-09-04
+104391,28,Yekaterinburg,regular,2020-10-14
+104392,64,Saint Petersburg,new,2023-03-16
+104393,18,Moscow,regular,2020-06-11
+104394,21,Moscow,regular,2020-02-02
+104395,47,Moscow,new,2022-12-26
+104396,47,Moscow,new,2023-12-31
+104397,34,Tomsk,regular,2024-07-06
+104398,32,Moscow,regular,2021-10-09
+104399,21,Novosibirsk,regular,2019-11-11
+104400,55,Tomsk,premium,2022-04-07
+104401,39,Saint Petersburg,new,2023-02-01
+104402,24,Novosibirsk,regular,2024-10-30
+104403,40,Yekaterinburg,regular,2019-09-03
+104404,71,Saint Petersburg,regular,2022-12-10
+104405,32,Kazan,regular,2022-01-28
+104406,68,Samara,regular,2022-07-14
+104407,32,Perm,regular,2019-07-23
+104408,28,Perm,regular,2019-02-06
+104409,32,Tomsk,regular,2022-08-22
+104410,36,Saint Petersburg,regular,2020-03-12
+104411,24,Perm,premium,2022-09-07
+104412,51,Novosibirsk,premium,2019-02-28
+104413,37,Yekaterinburg,premium,2023-10-23
+104414,58,Perm,regular,2020-12-31
+104415,45,Perm,premium,2021-09-15
+104416,43,Samara,regular,2021-01-25
+104417,44,Saint Petersburg,regular,2021-07-06
+104418,26,Yekaterinburg,regular,2022-03-08
+104419,58,Saint Petersburg,premium,2022-11-16
+104420,23,Novosibirsk,regular,2023-02-20
+104421,59,Perm,regular,2024-12-10
+104422,74,Perm,regular,2020-01-29
+104423,61,Kazan,regular,2024-03-25
+104424,43,Novosibirsk,regular,2022-08-11
+104425,35,Saint Petersburg,new,2020-11-09
+104426,67,Moscow,regular,2024-07-03
+104427,32,Saint Petersburg,regular,2023-03-30
+104428,45,Tomsk,regular,2020-02-10
+104429,61,Saint Petersburg,regular,2020-01-19
+104430,70,Tomsk,regular,2022-12-15
+104431,70,Saint Petersburg,regular,2023-05-19
+104432,23,Perm,regular,2019-04-10
+104433,69,Novosibirsk,new,2022-10-08
+104434,24,Yekaterinburg,regular,2022-03-10
+104435,51,Yekaterinburg,premium,2024-10-26
+104436,70,Yekaterinburg,regular,2023-06-14
+104437,55,Samara,premium,2024-06-16
+104438,72,Novosibirsk,premium,2019-03-16
+104439,37,Moscow,regular,2023-08-03
+104440,35,Saint Petersburg,regular,2021-01-01
+104441,36,Yekaterinburg,regular,2022-04-27
+104442,38,Kazan,regular,2024-04-08
+104443,56,Novosibirsk,new,2024-03-21
+104444,43,Novosibirsk,new,2020-05-09
+104445,60,Kazan,new,2020-06-10
+104446,41,Perm,regular,2023-05-04
+104447,35,Perm,new,2024-04-08
+104448,28,Yekaterinburg,regular,2022-09-04
+104449,49,Yekaterinburg,regular,2019-04-30
+104450,69,Samara,regular,2019-12-25
+104451,66,Novosibirsk,premium,2023-07-01
+104452,32,Tomsk,regular,2023-06-14
+104453,45,Moscow,new,2024-05-19
+104454,58,Yekaterinburg,premium,2022-03-12
+104455,52,Yekaterinburg,regular,2021-07-26
+104456,21,Kazan,regular,2019-09-03
+104457,51,Saint Petersburg,regular,2023-09-11
+104458,20,Novosibirsk,new,2024-09-12
+104459,24,Saint Petersburg,regular,2019-04-10
+104460,55,Samara,new,2021-12-14
+104461,23,Saint Petersburg,regular,2021-02-17
+104462,37,Moscow,new,2023-06-22
+104463,51,Novosibirsk,regular,2023-08-01
+104464,55,Kazan,new,2020-04-22
+104465,43,Moscow,regular,2024-09-17
+104466,23,Novosibirsk,new,2019-10-28
+104467,63,Novosibirsk,regular,2023-09-09
+104468,72,Moscow,regular,2023-06-13
+104469,68,Novosibirsk,regular,2019-12-22
+104470,60,Novosibirsk,regular,2023-01-17
+104471,40,Perm,regular,2020-08-15
+104472,67,Saint Petersburg,new,2020-08-23
+104473,45,Saint Petersburg,premium,2019-07-09
+104474,25,Tomsk,regular,2023-06-24
+104475,66,Novosibirsk,new,2023-11-06
+104476,36,Moscow,new,2022-01-11
+104477,71,Samara,new,2023-08-28
+104478,38,Moscow,regular,2021-02-03
+104479,67,Perm,regular,2022-05-23
+104480,48,Yekaterinburg,premium,2023-09-21
+104481,44,Tomsk,regular,2021-08-02
+104482,34,Tomsk,new,2022-09-13
+104483,65,Saint Petersburg,regular,2019-11-15
+104484,21,Perm,new,2022-01-16
+104485,44,Saint Petersburg,new,2024-02-09
+104486,39,Yekaterinburg,regular,2023-08-22
+104487,48,Novosibirsk,new,2020-10-19
+104488,32,Moscow,new,2022-04-09
+104489,55,Moscow,premium,2022-09-20
+104490,39,Moscow,regular,2024-08-19
+104491,28,Moscow,premium,2023-12-22
+104492,29,Saint Petersburg,regular,2023-11-29
+104493,57,Samara,premium,2023-07-09
+104494,32,Novosibirsk,regular,2021-02-24
+104495,35,Perm,new,2021-04-06
+104496,53,Samara,regular,2021-10-16
+104497,36,Perm,new,2021-07-22
+104498,40,Kazan,regular,2024-09-29
+104499,31,Samara,regular,2024-04-02
+104500,37,Perm,regular,2024-05-16
+104501,57,Perm,regular,2022-08-24
+104502,48,Samara,regular,2020-02-24
+104503,74,Novosibirsk,new,2019-11-12
+104504,61,Novosibirsk,premium,2020-08-24
+104505,18,Samara,new,2022-11-28
+104506,39,Kazan,regular,2021-03-09
+104507,34,Samara,new,2022-12-07
+104508,51,Moscow,premium,2024-04-12
+104509,33,Moscow,regular,2021-01-02
+104510,73,Novosibirsk,regular,2024-07-25
+104511,35,Moscow,premium,2022-01-27
+104512,47,Tomsk,new,2023-10-25
+104513,25,Moscow,premium,2019-05-12
+104514,69,Yekaterinburg,new,2020-08-27
+104515,69,Saint Petersburg,regular,2024-08-02
+104516,63,Tomsk,new,2024-04-28
+104517,38,Kazan,premium,2022-06-05
+104518,21,Moscow,premium,2019-03-14
+104519,58,Moscow,regular,2019-05-11
+104520,42,Novosibirsk,new,2021-07-15
+104521,74,Tomsk,regular,2024-05-22
+104522,57,Tomsk,regular,2021-04-07
+104523,48,Saint Petersburg,regular,2024-04-21
+104524,74,Kazan,new,2022-03-19
+104525,63,Moscow,regular,2019-10-23
+104526,44,Novosibirsk,regular,2022-05-13
+104527,19,Novosibirsk,premium,2021-03-09
+104528,23,Saint Petersburg,regular,2020-05-09
+104529,43,Yekaterinburg,regular,2023-01-19
+104530,50,Samara,regular,2020-03-24
+104531,19,Moscow,new,2024-06-07
+104532,25,Moscow,regular,2023-10-28
+104533,58,Moscow,regular,2023-09-11
+104534,60,Moscow,new,2019-06-17
+104535,19,Moscow,regular,2024-10-06
+104536,46,Yekaterinburg,premium,2021-12-17
+104537,22,Moscow,regular,2023-05-26
+104538,59,Perm,regular,2020-02-25
+104539,65,Samara,regular,2023-08-11
+104540,67,Tomsk,regular,2020-12-01
+104541,52,Yekaterinburg,new,2023-03-30
+104542,53,Moscow,regular,2020-08-30
+104543,70,Moscow,premium,2024-08-05
+104544,52,Moscow,new,2023-04-03
+104545,43,Tomsk,new,2021-09-18
+104546,61,Tomsk,regular,2021-09-26
+104547,51,Kazan,regular,2019-01-01
+104548,66,Saint Petersburg,regular,2020-10-18
+104549,47,Novosibirsk,regular,2023-09-27
+104550,67,Saint Petersburg,regular,2023-12-28
+104551,20,Tomsk,regular,2024-12-31
+104552,20,Moscow,new,2019-07-08
+104553,23,Saint Petersburg,new,2020-07-03
+104554,49,Kazan,regular,2023-08-07
+104555,58,Moscow,premium,2021-03-03
+104556,30,Kazan,regular,2020-06-28
+104557,26,Samara,regular,2020-09-08
+104558,67,Moscow,premium,2024-07-05
+104559,60,Novosibirsk,regular,2024-02-24
+104560,54,Kazan,regular,2019-01-13
+104561,45,Moscow,new,2024-01-17
+104562,41,Moscow,regular,2022-05-05
+104563,19,Saint Petersburg,regular,2024-01-26
+104564,28,Moscow,regular,2022-09-26
+104565,69,Saint Petersburg,regular,2023-02-17
+104566,37,Samara,regular,2022-06-19
+104567,58,Yekaterinburg,new,2023-05-30
+104568,58,Tomsk,premium,2023-11-22
+104569,35,Kazan,new,2022-01-19
+104570,29,Yekaterinburg,regular,2019-09-03
+104571,57,Yekaterinburg,regular,2019-07-24
+104572,23,Moscow,new,2021-06-29
+104573,46,Saint Petersburg,regular,2021-11-03
+104574,68,Novosibirsk,new,2024-03-08
+104575,58,Perm,regular,2019-03-14
+104576,61,Kazan,premium,2024-05-02
+104577,22,Moscow,regular,2019-05-01
+104578,29,Tomsk,premium,2021-12-28
+104579,33,Moscow,new,2021-07-15
+104580,34,Tomsk,regular,2022-05-08
+104581,29,Perm,premium,2019-04-04
+104582,73,Samara,premium,2023-08-02
+104583,27,Perm,regular,2019-10-22
+104584,58,Moscow,regular,2023-09-05
+104585,51,Yekaterinburg,premium,2022-05-27
+104586,52,Perm,regular,2024-04-30
+104587,30,Perm,regular,2024-11-15
+104588,35,Saint Petersburg,new,2024-01-24
+104589,52,Moscow,new,2021-09-18
+104590,35,Saint Petersburg,regular,2021-06-27
+104591,57,Kazan,regular,2022-12-24
+104592,20,Novosibirsk,new,2022-11-25
+104593,22,Samara,regular,2023-09-29
+104594,59,Perm,regular,2021-11-25
+104595,53,Yekaterinburg,regular,2021-10-11
+104596,20,Saint Petersburg,regular,2019-09-16
+104597,69,Kazan,regular,2020-01-06
+104598,18,Saint Petersburg,new,2023-12-07
+104599,72,Moscow,premium,2024-12-08
+104600,59,Moscow,regular,2022-08-12
+104601,74,Saint Petersburg,new,2021-01-24
+104602,72,Saint Petersburg,regular,2019-05-08
+104603,35,Novosibirsk,regular,2019-04-06
+104604,61,Moscow,regular,2023-01-23
+104605,30,Saint Petersburg,regular,2022-11-07
+104606,44,Moscow,regular,2020-09-12
+104607,31,Yekaterinburg,regular,2020-02-18
+104608,45,Novosibirsk,new,2019-06-01
+104609,67,Saint Petersburg,regular,2023-02-04
+104610,42,Moscow,new,2022-08-22
+104611,23,Tomsk,regular,2020-12-31
+104612,36,Novosibirsk,regular,2023-05-25
+104613,62,Yekaterinburg,regular,2024-01-27
+104614,47,Novosibirsk,new,2022-02-07
+104615,49,Perm,regular,2020-07-29
+104616,42,Samara,regular,2019-01-13
+104617,34,Kazan,regular,2023-10-10
+104618,52,Yekaterinburg,regular,2022-06-18
+104619,54,Moscow,new,2021-01-31
+104620,69,Yekaterinburg,regular,2019-01-15
+104621,53,Kazan,regular,2023-11-20
+104622,74,Moscow,regular,2024-07-23
+104623,65,Tomsk,new,2021-11-20
+104624,22,Samara,premium,2020-08-08
+104625,40,Saint Petersburg,premium,2022-09-20
+104626,39,Tomsk,regular,2024-03-24
+104627,18,Saint Petersburg,regular,2022-07-11
+104628,28,Kazan,regular,2019-01-27
+104629,61,Samara,new,2020-03-03
+104630,38,Saint Petersburg,premium,2019-08-02
+104631,26,Kazan,regular,2021-06-20
+104632,34,Yekaterinburg,new,2021-09-16
+104633,33,Moscow,regular,2022-03-19
+104634,27,Kazan,regular,2023-07-21
+104635,23,Saint Petersburg,premium,2019-09-04
+104636,61,Yekaterinburg,regular,2024-08-28
+104637,64,Moscow,regular,2020-07-31
+104638,46,Moscow,regular,2022-02-16
+104639,53,Yekaterinburg,regular,2020-04-07
+104640,70,Moscow,regular,2021-02-18
+104641,66,Kazan,regular,2023-12-31
+104642,19,Yekaterinburg,regular,2019-04-08
+104643,72,Perm,premium,2021-11-25
+104644,21,Moscow,new,2022-07-03
+104645,19,Samara,regular,2022-06-03
+104646,40,Perm,new,2021-04-13
+104647,60,Saint Petersburg,regular,2021-04-08
+104648,22,Perm,regular,2024-06-15
+104649,34,Perm,new,2020-06-12
+104650,32,Novosibirsk,regular,2021-11-18
+104651,40,Novosibirsk,new,2021-03-09
+104652,74,Perm,premium,2023-08-05
+104653,36,Tomsk,regular,2023-11-02
+104654,29,Novosibirsk,regular,2024-02-03
+104655,24,Perm,regular,2019-07-06
+104656,29,Perm,new,2019-08-04
+104657,25,Samara,regular,2021-04-02
+104658,50,Tomsk,regular,2021-08-24
+104659,41,Moscow,new,2019-05-19
+104660,46,Moscow,premium,2024-05-13
+104661,65,Novosibirsk,new,2024-05-20
+104662,51,Kazan,regular,2021-07-19
+104663,26,Novosibirsk,new,2023-08-14
+104664,39,Perm,regular,2022-05-23
+104665,35,Tomsk,new,2022-12-11
+104666,65,Kazan,new,2024-03-28
+104667,35,Yekaterinburg,regular,2019-07-21
+104668,25,Moscow,premium,2020-05-24
+104669,59,Novosibirsk,regular,2021-07-27
+104670,42,Moscow,regular,2024-05-14
+104671,23,Novosibirsk,regular,2022-07-21
+104672,57,Novosibirsk,regular,2021-05-20
+104673,29,Perm,regular,2019-03-04
+104674,67,Yekaterinburg,regular,2022-07-23
+104675,65,Saint Petersburg,premium,2020-08-14
+104676,39,Moscow,regular,2020-12-20
+104677,49,Moscow,regular,2024-12-23
+104678,50,Tomsk,premium,2022-03-01
+104679,55,Tomsk,regular,2019-11-01
+104680,21,Saint Petersburg,regular,2019-04-19
+104681,36,Saint Petersburg,regular,2021-05-01
+104682,27,Kazan,regular,2019-05-24
+104683,57,Yekaterinburg,premium,2021-07-28
+104684,21,Saint Petersburg,regular,2021-06-28
+104685,47,Moscow,regular,2024-04-11
+104686,59,Kazan,regular,2021-01-04
+104687,72,Saint Petersburg,new,2020-08-28
+104688,34,Saint Petersburg,new,2022-09-11
+104689,18,Moscow,new,2022-11-01
+104690,59,Yekaterinburg,new,2019-03-25
+104691,18,Novosibirsk,regular,2019-07-03
+104692,21,Saint Petersburg,new,2020-01-03
+104693,74,Novosibirsk,new,2023-08-31
+104694,67,Kazan,regular,2020-04-04
+104695,58,Perm,new,2024-12-15
+104696,65,Tomsk,new,2021-08-23
+104697,22,Moscow,new,2024-08-08
+104698,23,Samara,regular,2020-06-25
+104699,35,Yekaterinburg,regular,2021-07-17
+104700,19,Yekaterinburg,regular,2019-10-29
+104701,68,Saint Petersburg,premium,2024-01-29
+104702,21,Saint Petersburg,regular,2022-08-02
+104703,49,Moscow,regular,2019-06-15
+104704,66,Tomsk,premium,2023-06-19
+104705,59,Novosibirsk,regular,2024-04-28
+104706,31,Kazan,regular,2023-02-11
+104707,44,Novosibirsk,regular,2023-11-07
+104708,49,Moscow,regular,2020-08-28
+104709,61,Moscow,regular,2021-08-05
+104710,42,Yekaterinburg,new,2024-02-16
+104711,34,Novosibirsk,regular,2022-08-26
+104712,63,Perm,new,2022-09-03
+104713,68,Yekaterinburg,regular,2023-08-09
+104714,45,Novosibirsk,premium,2022-09-09
+104715,19,Samara,regular,2019-10-05
+104716,46,Moscow,new,2020-04-11
+104717,68,Yekaterinburg,regular,2023-09-03
+104718,74,Yekaterinburg,regular,2020-06-14
+104719,40,Saint Petersburg,premium,2022-12-29
+104720,26,Moscow,regular,2021-11-06
+104721,50,Moscow,regular,2022-09-21
+104722,65,Moscow,regular,2020-06-05
+104723,71,Novosibirsk,regular,2020-11-11
+104724,20,Moscow,regular,2023-02-17
+104725,34,Yekaterinburg,new,2020-01-12
+104726,45,Moscow,new,2020-11-07
+104727,23,Moscow,new,2024-12-27
+104728,68,Saint Petersburg,regular,2019-11-30
+104729,24,Moscow,premium,2022-06-20
+104730,55,Tomsk,regular,2019-11-29
+104731,70,Saint Petersburg,regular,2023-03-31
+104732,57,Moscow,premium,2019-10-06
+104733,61,Moscow,new,2022-06-12
+104734,33,Saint Petersburg,new,2021-08-21
+104735,65,Novosibirsk,premium,2023-02-25
+104736,41,Perm,premium,2019-01-07
+104737,21,Saint Petersburg,regular,2022-02-05
+104738,38,Yekaterinburg,new,2022-04-03
+104739,37,Kazan,premium,2020-06-11
+104740,47,Samara,regular,2020-10-15
+104741,33,Novosibirsk,regular,2023-03-29
+104742,44,Saint Petersburg,new,2022-04-26
+104743,42,Yekaterinburg,regular,2022-06-22
+104744,36,Samara,regular,2024-08-12
+104745,57,Kazan,premium,2021-06-06
+104746,35,Tomsk,regular,2024-03-19
+104747,61,Samara,regular,2024-11-05
+104748,32,Moscow,regular,2022-06-17
+104749,67,Perm,regular,2020-04-09
+104750,38,Novosibirsk,regular,2021-07-05
+104751,20,Novosibirsk,new,2019-04-13
+104752,26,Novosibirsk,new,2023-03-11
+104753,63,Samara,regular,2020-08-22
+104754,67,Yekaterinburg,new,2024-07-16
+104755,30,Novosibirsk,new,2022-12-02
+104756,52,Moscow,premium,2021-12-09
+104757,50,Kazan,regular,2020-02-14
+104758,25,Samara,new,2019-08-06
+104759,43,Yekaterinburg,regular,2023-01-14
+104760,57,Moscow,regular,2023-08-07
+104761,73,Samara,regular,2020-08-06
+104762,66,Samara,regular,2019-01-23
+104763,23,Novosibirsk,regular,2020-12-02
+104764,31,Moscow,new,2023-08-04
+104765,42,Novosibirsk,regular,2022-06-25
+104766,26,Moscow,new,2019-07-06
+104767,50,Saint Petersburg,regular,2019-09-09
+104768,18,Yekaterinburg,new,2019-08-22
+104769,24,Tomsk,new,2023-07-20
+104770,20,Saint Petersburg,new,2023-09-10
+104771,34,Samara,premium,2021-06-13
+104772,61,Tomsk,new,2023-02-20
+104773,28,Moscow,regular,2019-02-15
+104774,74,Moscow,new,2022-05-16
+104775,33,Yekaterinburg,regular,2020-08-19
+104776,20,Perm,regular,2023-12-04
+104777,37,Kazan,premium,2021-12-07
+104778,60,Yekaterinburg,regular,2024-02-10
+104779,24,Yekaterinburg,regular,2022-05-18
+104780,22,Perm,regular,2021-09-29
+104781,66,Yekaterinburg,new,2024-09-06
+104782,51,Moscow,premium,2024-12-23
+104783,37,Moscow,premium,2021-09-25
+104784,61,Moscow,regular,2021-02-22
+104785,66,Tomsk,regular,2022-11-17
+104786,38,Tomsk,new,2020-01-11
+104787,49,Perm,regular,2021-04-26
+104788,18,Moscow,regular,2024-01-29
+104789,35,Novosibirsk,premium,2024-05-20
+104790,51,Moscow,regular,2021-06-29
+104791,29,Saint Petersburg,regular,2021-05-05
+104792,74,Saint Petersburg,regular,2024-03-31
+104793,73,Samara,new,2020-03-19
+104794,32,Moscow,regular,2019-05-15
+104795,40,Yekaterinburg,regular,2019-06-09
+104796,28,Tomsk,regular,2019-09-01
+104797,46,Yekaterinburg,premium,2024-04-12
+104798,25,Moscow,new,2019-03-30
+104799,40,Samara,new,2020-12-29
+104800,49,Yekaterinburg,new,2022-08-12
+104801,52,Kazan,new,2022-08-28
+104802,51,Yekaterinburg,regular,2023-12-29
+104803,30,Samara,premium,2024-11-20
+104804,63,Kazan,regular,2021-06-01
+104805,57,Novosibirsk,regular,2020-05-25
+104806,60,Kazan,regular,2019-07-18
+104807,44,Moscow,regular,2024-05-07
+104808,68,Perm,regular,2021-03-29
+104809,40,Moscow,regular,2024-05-23
+104810,63,Kazan,regular,2021-02-01
+104811,29,Kazan,premium,2023-07-16
+104812,32,Saint Petersburg,regular,2022-11-11
+104813,48,Kazan,new,2023-04-13
+104814,49,Yekaterinburg,regular,2022-11-30
+104815,60,Saint Petersburg,regular,2020-11-03
+104816,34,Moscow,regular,2019-08-14
+104817,67,Samara,regular,2019-01-24
+104818,36,Tomsk,regular,2021-07-10
+104819,48,Kazan,regular,2024-05-08
+104820,71,Saint Petersburg,premium,2022-11-09
+104821,48,Moscow,regular,2023-01-17
+104822,56,Moscow,regular,2020-07-21
+104823,69,Kazan,new,2021-12-01
+104824,73,Tomsk,regular,2021-06-11
+104825,46,Perm,regular,2019-10-26
+104826,41,Saint Petersburg,new,2022-09-07
+104827,29,Tomsk,regular,2021-03-07
+104828,48,Kazan,new,2021-06-02
+104829,70,Saint Petersburg,new,2022-08-01
+104830,45,Kazan,regular,2019-03-09
+104831,37,Moscow,regular,2024-08-14
+104832,24,Samara,regular,2020-05-02
+104833,40,Saint Petersburg,regular,2023-01-28
+104834,31,Yekaterinburg,regular,2023-08-29
+104835,73,Kazan,new,2019-12-04
+104836,48,Samara,regular,2020-06-28
+104837,25,Yekaterinburg,new,2021-06-22
+104838,21,Kazan,regular,2023-11-28
+104839,66,Moscow,regular,2022-10-25
+104840,71,Samara,regular,2021-10-20
+104841,61,Novosibirsk,regular,2024-02-05
+104842,25,Saint Petersburg,premium,2021-11-02
+104843,23,Samara,new,2024-04-26
+104844,29,Moscow,premium,2023-08-16
+104845,60,Saint Petersburg,regular,2020-01-13
+104846,61,Novosibirsk,regular,2021-04-20
+104847,65,Saint Petersburg,new,2019-02-25
+104848,23,Kazan,new,2020-06-06
+104849,26,Saint Petersburg,premium,2019-02-19
+104850,69,Moscow,new,2019-08-19
+104851,70,Moscow,premium,2019-01-10
+104852,59,Moscow,regular,2023-01-12
+104853,24,Tomsk,regular,2021-06-16
+104854,21,Novosibirsk,regular,2021-10-27
+104855,21,Kazan,new,2023-08-03
+104856,57,Kazan,regular,2023-11-10
+104857,66,Yekaterinburg,premium,2022-03-14
+104858,54,Moscow,new,2021-09-30
+104859,32,Saint Petersburg,premium,2022-11-25
+104860,61,Yekaterinburg,premium,2021-06-28
+104861,21,Kazan,new,2021-08-27
+104862,65,Perm,regular,2020-10-17
+104863,68,Samara,new,2020-02-20
+104864,58,Samara,regular,2020-03-13
+104865,68,Moscow,premium,2022-12-07
+104866,51,Moscow,premium,2023-12-26
+104867,44,Moscow,premium,2021-07-17
+104868,36,Perm,new,2019-07-28
+104869,70,Tomsk,regular,2022-08-30
+104870,57,Tomsk,new,2024-05-31
+104871,28,Saint Petersburg,premium,2022-03-02
+104872,72,Samara,new,2019-02-28
+104873,21,Novosibirsk,new,2019-06-29
+104874,51,Samara,new,2022-02-18
+104875,28,Novosibirsk,new,2024-03-03
+104876,55,Moscow,new,2019-05-08
+104877,41,Moscow,new,2023-07-10
+104878,42,Tomsk,premium,2023-09-05
+104879,56,Kazan,regular,2019-04-24
+104880,61,Saint Petersburg,regular,2020-04-08
+104881,39,Saint Petersburg,regular,2019-01-09
+104882,74,Saint Petersburg,regular,2022-05-25
+104883,46,Tomsk,regular,2020-01-19
+104884,27,Moscow,regular,2024-07-01
+104885,18,Moscow,regular,2019-07-19
+104886,29,Perm,regular,2022-11-24
+104887,57,Novosibirsk,new,2023-09-21
+104888,48,Moscow,regular,2020-01-26
+104889,37,Moscow,regular,2020-07-07
+104890,45,Moscow,regular,2023-10-13
+104891,65,Saint Petersburg,regular,2019-07-23
+104892,50,Moscow,regular,2021-08-25
+104893,21,Moscow,regular,2020-07-02
+104894,20,Perm,new,2019-01-29
+104895,45,Samara,new,2021-09-16
+104896,41,Samara,regular,2021-12-02
+104897,66,Kazan,new,2021-01-30
+104898,51,Saint Petersburg,regular,2023-11-16
+104899,61,Tomsk,new,2019-07-30
+104900,51,Perm,regular,2021-07-31
+104901,37,Novosibirsk,regular,2020-01-31
+104902,55,Saint Petersburg,regular,2023-07-21
+104903,53,Saint Petersburg,regular,2022-05-05
+104904,59,Novosibirsk,regular,2023-03-27
+104905,28,Novosibirsk,premium,2019-08-24
+104906,54,Moscow,regular,2021-09-28
+104907,34,Tomsk,regular,2019-04-21
+104908,63,Novosibirsk,new,2020-12-09
+104909,63,Novosibirsk,regular,2024-09-02
+104910,53,Moscow,regular,2023-05-12
+104911,71,Perm,regular,2019-06-21
+104912,48,Perm,regular,2021-03-19
+104913,19,Moscow,premium,2024-03-23
+104914,52,Novosibirsk,premium,2020-01-08
+104915,62,Yekaterinburg,regular,2023-07-18
+104916,23,Samara,premium,2020-12-04
+104917,23,Moscow,premium,2021-11-11
+104918,33,Samara,new,2024-04-06
+104919,66,Kazan,regular,2023-01-14
+104920,48,Moscow,new,2020-09-13
+104921,73,Moscow,regular,2019-01-20
+104922,67,Moscow,regular,2020-05-30
+104923,49,Saint Petersburg,regular,2021-07-04
+104924,56,Kazan,new,2019-10-20
+104925,36,Perm,new,2024-04-17
+104926,23,Moscow,new,2019-05-01
+104927,40,Tomsk,regular,2022-03-31
+104928,51,Moscow,premium,2024-11-10
+104929,28,Novosibirsk,premium,2021-01-04
+104930,30,Tomsk,regular,2022-03-22
+104931,18,Samara,regular,2019-06-11
+104932,59,Yekaterinburg,premium,2023-05-19
+104933,69,Yekaterinburg,new,2024-11-12
+104934,65,Moscow,premium,2023-08-22
+104935,39,Moscow,regular,2019-11-24
+104936,51,Kazan,regular,2021-02-11
+104937,72,Moscow,new,2023-05-06
+104938,51,Saint Petersburg,new,2023-10-18
+104939,34,Moscow,regular,2021-06-03
+104940,37,Tomsk,regular,2024-10-08
+104941,59,Samara,regular,2020-03-22
+104942,43,Samara,regular,2023-06-14
+104943,65,Yekaterinburg,regular,2021-12-24
+104944,67,Moscow,new,2023-04-10
+104945,20,Moscow,regular,2022-07-30
+104946,59,Yekaterinburg,new,2021-08-05
+104947,39,Yekaterinburg,regular,2023-11-23
+104948,47,Saint Petersburg,regular,2024-01-19
+104949,33,Kazan,regular,2023-11-27
+104950,38,Kazan,regular,2019-07-14
+104951,36,Moscow,regular,2021-07-16
+104952,20,Saint Petersburg,regular,2023-07-02
+104953,62,Kazan,regular,2024-03-14
+104954,26,Novosibirsk,regular,2021-03-04
+104955,39,Tomsk,regular,2023-06-12
+104956,29,Novosibirsk,premium,2022-05-25
+104957,27,Perm,new,2020-04-28
+104958,39,Perm,regular,2024-05-11
+104959,70,Moscow,regular,2021-09-01
+104960,71,Yekaterinburg,new,2022-08-19
+104961,39,Kazan,regular,2020-09-24
+104962,46,Novosibirsk,regular,2019-02-26
+104963,74,Moscow,new,2021-09-19
+104964,31,Samara,new,2023-05-03
+104965,71,Tomsk,regular,2020-12-18
+104966,24,Moscow,regular,2024-07-29
+104967,30,Moscow,regular,2023-07-03
+104968,37,Moscow,new,2022-11-08
+104969,20,Perm,new,2023-11-04
+104970,64,Novosibirsk,new,2024-03-03
+104971,66,Moscow,regular,2023-04-30
+104972,39,Samara,new,2023-12-15
+104973,65,Saint Petersburg,new,2023-04-13
+104974,62,Kazan,new,2024-03-02
+104975,63,Kazan,regular,2019-08-16
+104976,63,Novosibirsk,regular,2021-01-24
+104977,50,Kazan,regular,2024-04-30
+104978,24,Saint Petersburg,regular,2021-11-05
+104979,70,Kazan,premium,2019-02-02
+104980,52,Samara,regular,2024-02-02
+104981,69,Novosibirsk,premium,2022-12-08
+104982,72,Tomsk,regular,2024-06-18
+104983,28,Novosibirsk,new,2019-02-05
+104984,40,Perm,regular,2019-11-18
+104985,28,Saint Petersburg,regular,2022-01-23
+104986,20,Perm,regular,2020-02-02
+104987,73,Saint Petersburg,new,2022-02-15
+104988,70,Moscow,regular,2021-01-30
+104989,71,Moscow,premium,2020-04-05
+104990,68,Moscow,new,2023-08-16
+104991,54,Tomsk,new,2019-03-27
+104992,47,Tomsk,regular,2024-04-01
+104993,74,Perm,regular,2019-12-04
+104994,49,Moscow,regular,2022-06-25
+104995,54,Samara,regular,2024-12-13
+104996,30,Perm,premium,2019-09-06
+104997,60,Saint Petersburg,regular,2024-07-24
+104998,64,Novosibirsk,regular,2020-10-27
+104999,56,Yekaterinburg,new,2023-06-13
+105000,46,Moscow,new,2024-02-22
